@@ -66,7 +66,7 @@ When used carefully, we believe OAC can supplant traditional and popular decentr
   <sub>
     <b>Ramate</b>
     <br/>
-    &copy; 2025 <a href="https://github.com/ramate-io/ramate">ramate-io/oac</a>
+    &copy; 2025 <a href="https://github.com/ramate-io/ramate">ramate-io/ramate</a>
     <br/>
     <a href="https://github.com/ramate-io/ramate/blob/main/LICENSE">MIT License</a>
     <br/>

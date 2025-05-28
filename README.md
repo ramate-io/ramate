@@ -75,7 +75,7 @@ Under [RGLO-0](./rglo/rera-000-000-000-dulan/rglo-000-000-000-artifact/README.md
   <sub>
     <b>Ramate</b>
     <br/>
-    &copy; 2025 <a href="https://github.com/ramate-io/ramate">ramate-io/oac</a>
+    &copy; 2025 <a href="https://github.com/ramate-io/ramate">ramate-io/ramate</a>
     <br/>
     <a href="https://github.com/ramate-io/ramate/blob/main/LICENSE">MIT License</a>
     <br/>

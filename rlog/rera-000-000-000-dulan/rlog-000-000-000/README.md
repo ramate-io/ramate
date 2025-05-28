@@ -121,7 +121,7 @@ c'(n, k) = \sum_{h = 2k + 1}^{\min(3k + 1, 2n + 1)} \binom{n}{h} \cdot \binom{n}
   <sub>
     <b>Ramate</b>
     <br/>
-    &copy; 2025 <a href="https://github.com/ramate-io/ramate">ramate-io/oac</a>
+    &copy; 2025 <a href="https://github.com/ramate-io/ramate">ramate-io/ramate</a>
     <br/>
     <a href="https://github.com/ramate-io/ramate/blob/main/LICENSE">MIT License</a>
     <br/>

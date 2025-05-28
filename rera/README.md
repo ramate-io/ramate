@@ -19,7 +19,7 @@ The current era is [RERA-0: Dulan](./rera-000-000-000-dulan/README.md).
   <sub>
     <b>Ramate</b>
     <br/>
-    &copy; 2025 <a href="https://github.com/ramate-io/ramate">ramate-io/oac</a>
+    &copy; 2025 <a href="https://github.com/ramate-io/ramate">ramate-io/ramate</a>
     <br/>
     <a href="https://github.com/ramate-io/ramate/blob/main/LICENSE">MIT License</a>
     <br/>
