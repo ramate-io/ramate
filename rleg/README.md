@@ -2,7 +2,7 @@
 Description of RLEG.
 
 <!--START OAC INDEX: DO NOT REMOVE THIS LINE -->
-## [RLEG: OERA-0: DULAN](oera-000-000-000-dulan/README.md)
+## [RLEG: OERA-0: DULAN](rera-000-000-000-dulan/README.md)
 - **[RLEG-0](/rleg/oera-000-000-000-dulan/rleg-000-000-000/README.md):** describes the initial lack of binding legal organization, provides the MIT License as the only relevant material.
 
 <!--OAC FOOTER: DO NOT REMOVE THIS LINE-->

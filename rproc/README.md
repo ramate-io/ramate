@@ -1,7 +1,7 @@
 # RPROC
 
 <!--START OAC INDEX: DO NOT REMOVE THIS LINE -->
-## [RPROC: OERA-0: DULAN](oera-000-000-000-dulan/README.md)
+## [RPROC: OERA-0: DULAN](rera-000-000-000-dulan/README.md)
 - **[RPROC-0](/rproc/oera-000-000-000-dulan/rproc-000-000-000/README.md):** an aspirational statement of initial intent for OAC: building decentralized consequence.
 
 <!--OAC FOOTER: DO NOT REMOVE THIS LINE-->

@@ -1,7 +1,7 @@
 # RROAD
 
 <!--START OAC INDEX: DO NOT REMOVE THIS LINE -->
-## [RROAD: OERA-0: DULAN](oera-000-000-000-dulan/README.md)
+## [RROAD: OERA-0: DULAN](rera-000-000-000-dulan/README.md)
 - **[RROAD-0](/rroad/oera-000-000-000-dulan/rroad-000-000-000/README.md):** the initial roadmap for OAC.
 
 <!--OAC FOOTER: DO NOT REMOVE THIS LINE-->

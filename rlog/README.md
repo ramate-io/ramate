@@ -1,7 +1,7 @@
 # RLOG
 
 <!--START OAC INDEX: DO NOT REMOVE THIS LINE -->
-## [RLOG: OERA-0: DULAN](oera-000-000-000-dulan/README.md)
+## [RLOG: OERA-0: DULAN](rera-000-000-000-dulan/README.md)
 - **[RLOG-0](/rlog/oera-000-000-000-dulan/rlog-000-000-000/README.md):** some playing around with combinatorics from BFA paper for [RPRE-0](/rpre/oera-000-000-000-dulan/rpre-000-000-000/README.md) and similar.
 
 <!--OAC FOOTER: DO NOT REMOVE THIS LINE-->

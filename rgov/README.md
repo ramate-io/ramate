@@ -2,7 +2,7 @@
 Description of RGOV
 
 <!--START OAC INDEX: DO NOT REMOVE THIS LINE -->
-## [RGOV: OERA-0: DULAN](oera-000-000-000-dulan/README.md)
+## [RGOV: OERA-0: DULAN](rera-000-000-000-dulan/README.md)
 **[RGOV-0](/rgov/oera-000-000-000-dulan/rgov-000-000-000/README.md):** describes the initial governance under [Ramate LLC](https://www.ramate.io).
 
 <!--OAC FOOTER: DO NOT REMOVE THIS LINE-->

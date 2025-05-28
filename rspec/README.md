@@ -1,7 +1,7 @@
 # RSPEC
 
 <!--START OAC INDEX: DO NOT REMOVE THIS LINE -->
-## [RSPEC: OERA-0: DULAN](oera-000-000-000-dulan/README.md)
+## [RSPEC: OERA-0: DULAN](rera-000-000-000-dulan/README.md)
 - **[RSPEC-0](/rspec/oera-000-000-000-dulan/rspec-000-000-000/README.md):** a specification for how to use and maintain this repository.
 
 <!--OAC FOOTER: DO NOT REMOVE THIS LINE-->
