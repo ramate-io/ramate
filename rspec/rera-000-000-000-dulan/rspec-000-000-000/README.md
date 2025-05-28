@@ -70,11 +70,11 @@ $\emptyset$
   </a>
   <br/>
   <sub>
-    <b>Ordered Atomic Collaboration (OAC)</b>
+    <b>Ramate</b>
     <br/>
-    &copy; 2025 <a href="https://github.com/ramate-io/oac">ramate-io/oac</a>
+    &copy; 2025 <a href="https://github.com/ramate-io/ramate">ramate-io/oac</a>
     <br/>
-    <a href="https://github.com/ramate-io/oac/blob/main/LICENSE">MIT License</a>
+    <a href="https://github.com/ramate-io/ramate/blob/main/LICENSE">MIT License</a>
     <br/>
     <a href="https://www.ramate.io">ramate.io</a>
   </sub>
