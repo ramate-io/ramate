@@ -1,7 +1,7 @@
 <div align="center">
   <picture>
-    <source srcset="./assets/oac-inverted-transparent.png" media="(prefers-color-scheme: dark)">
-    <img src="./assets/oac-transparent.png" alt="Ordered Atomic Collaboration (OAC)"" height="120">
+    <source srcset="./assets/ramate-inverted-transparent.png" media="(prefers-color-scheme: dark)">
+    <img src="./assets/ramate-transparent.png" alt="Ordered Atomic Collaboration (OAC)"" height="120">
   </picture>
 </div>
 </br>
@@ -10,8 +10,8 @@
 
 <h1>
   <picture>
-    <source srcset="./assets/oac-inverted-transparent.png" media="(prefers-color-scheme: dark)">
-    <img height="24" src="./assets/oac-transparent.png" alt="OAC"/>
+    <source srcset="./assets/ramate-inverted-transparent.png" media="(prefers-color-scheme: dark)">
+    <img height="24" src="./assets/ramate-transparent.png" alt="OAC"/>
   </picture>
   Ordered Atomic Collaboration (OAC)
 </h1>
@@ -67,8 +67,8 @@ Under [RGLO-0](./rglo/rera-000-000-000-dulan/rglo-000-000-000-artifact/README.md
 <div align="center">
   <a href="https://github.com/ramate-io/oac">
     <picture>
-      <source srcset="/assets/oac-inverted-transparent.png" media="(prefers-color-scheme: dark)">
-      <img height="24" src="/assets/oac-transparent.png" alt="OAC"/>
+      <source srcset="/assets/ramate-inverted-transparent.png" media="(prefers-color-scheme: dark)">
+      <img height="24" src="/assets/ramate-transparent.png" alt="OAC"/>
     </picture>
   </a>
   <br/>

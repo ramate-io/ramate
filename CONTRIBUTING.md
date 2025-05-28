@@ -17,8 +17,8 @@ To produce and maintain these [Artifacts](./rglo/rera-000-000-000-dulan/rglo-000
 <div align="center">
   <a href="https://github.com/ramate-io/oac">
     <picture>
-      <source srcset="/assets/oac-inverted-transparent.png" media="(prefers-color-scheme: dark)">
-      <img height="24" src="/assets/oac-transparent.png" alt="OAC"/>
+      <source srcset="/assets/ramate-inverted-transparent.png" media="(prefers-color-scheme: dark)">
+      <img height="24" src="/assets/ramate-transparent.png" alt="OAC"/>
     </picture>
   </a>
   <br/>
