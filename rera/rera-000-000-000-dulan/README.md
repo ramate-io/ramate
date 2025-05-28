@@ -45,8 +45,8 @@ As described in [RGOV-0](../../rgov/rera-000-000-000-dulan/rgov-000-000-000/READ
 ### [RDE](../../rde/rera-000-000-000-dulan/README.md)
 - **[RDE-0](../../rde/rera-000-000-000-dulan/rde-000-000-000/README.md)**
 
-### [OPSEC](../../rspec/rera-000-000-000-dulan/README.md)
-- **[OPSEC-0](../../rspec/rera-000-000-000-dulan/rspec-000-000-000/README.md)**
+### [RSPEC](../../rspec/rera-000-000-000-dulan/README.md)
+- **[RSPEC-0](../../rspec/rera-000-000-000-dulan/rspec-000-000-000/README.md)**
 
 ### [RART](../../rart/rera-000-000-000-dulan/README.md)
 - **[RART-0](../../rart/rera-000-000-000-dulan/rart-000-000-000/README.md)**

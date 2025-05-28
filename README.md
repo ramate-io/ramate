@@ -39,20 +39,20 @@ Please see [CONTRIBUTING.md](CONTRIBUTING.md) file for additional contribution g
 
 ### Artifacts
 Under [RGLO-0](./rglo/rera-000-000-000-dulan/rglo-000-000-000-artifact/README.md), this subsection defines the recognized artifact types. We recognize the following types:
-- [`rera`](./rera): OAC Eras (RERA) are the periods over which a governing body makes decisions. All other OAC [Artifacts](./rglo/rera-000-000-000-dulan/rglo-000-000-000-artifact/README.md) are indexed by RERA.
-- [`rglo`](./rglo/): OAC Glosses (RGLO) are defined terms for OAC.
-- [`rproc`](./opurp/): OAC Proclamations (RPROC) are statements of purpose for OAC.
-- [`rgov`](./rgov/): OAC Governance (RGOV) are constitutions of, procedures for, and interpretations of OAC governance.
-- [`rleg`](./rleg/): OAC Legal Documents (RLEG) are published legal documents covering OAC operations in any jurisdiction.
-- [`rcert`](./rcert/): OAC Certificates (RCERT) certify a given project as abiding by the OAC paradigm.
-- [`rde`](./rde/): OAC Desiderata (RDE) describe wants, open problems, and similar within the OAC paradigm.
-- [`rspec`](./rspec): OACSpecifications (OPSEC) describe specifications and are typically written in response to RDE. Generally, contributors should use OPSEC to justify non-trivial changes to this repository.
-- [`rart`](./rart/): OAC Articles (RART) are academic papers which form the conceptual backbone of the OAC paradigm.
-- [`rroad`](./rroad/): OAC Roadmaps (RROAD) are roadmaps describing the intents and objectives of the OAC organization.
-- [`rlog`](./rlog/): OAC Logs (RLOG) are periodically submitted logs describing various developments within the OAC paradigm.
-- [`rguide`](./rguide/): OAC Guides (RGUIDE) are guides or summaries of OAC.
-- [`rpre`](./rpre/): OAC Presentations (RPRE) are presentations about OAC.
-- [`rdemo`](./rdemo/): OAC Demonstrations (RDEMO) are selected demonstrations and/or projects built with OAC.
+- [`rera`](./rera): Ramate Eras (RERA) are the periods over which a governing body makes decisions. All other Ramatex [Artifacts](./rglo/rera-000-000-000-dulan/rglo-000-000-000-artifact/README.md) are indexed by RERA.
+- [`rglo`](./rglo/): Ramate Glosses (RGLO) are defined terms for Ramate.
+- [`rproc`](./opurp/): Ramate Proclamations (RPROC) are statements of purpose for Ramate.
+- [`rgov`](./rgov/): Ramate Governance (RGOV) are constitutions of, procedures for, and interpretations of Ramate governance.
+- [`rleg`](./rleg/): Ramate Legal Documents (RLEG) are published legal documents covering Ramate operations in any jurisdiction.
+- [`rcert`](./rcert/): Ramate Certificates (RCERT) certify a given project as abiding by the OAC paradigm.
+- [`rde`](./rde/): Ramate Desiderata (RDE) describe wants, open problems, and similar within the Ramate paradigm.
+- [`rspec`](./rspec): Ramate Specifications (RSPEC) describe specifications and are typically written in response to RDE. Generally, contributors should use RSPEC to justify non-trivial changes to this repository.
+- [`rart`](./rart/): Ramate Articles (RART) are academic papers and similar content which are designated as key to Ramate pursuits. In comparison to OAC, these articles are less focused and included as a sort of "mood wall" for contributors and members of the organization.
+- [`rroad`](./rroad/): Ramate Roadmaps (RROAD) are roadmaps describing the intents and objectives of Ramate as an organization.
+- [`rlog`](./rlog/): Ramate Logs (RLOG) are periodically submitted logs describing various developments within the Ramate organization.
+- [`rguide`](./rguide/): Ramate Guides (RGUIDE) are guides or summaries of Ramate.
+- [`rpre`](./rpre/): Ramate Presentations (RPRE) are presentations about Ramate.
+- [`rdemo`](./rdemo/): Ramate Demonstrations (RDEMO) are selected demonstrations of Ramate technologies.
 
 <!--OAC FOOTER: DO NOT REMOVE THIS LINE-->
 ---

@@ -1,4 +1,4 @@
-# OPSEC-0: Use, Organization, and Maintenance of the OAC Repository
+# RSPEC-0: Use, Organization, and Maintenance of the OAC Repository
 - **Authors:** [Liam Monninger](mailto:liam@ramate.io)
 - **Desiderata:** [RDE-0](../../../rde/rera-000-000-000-dulan/rde-000-000-000/README.md)
 - **Contents:**
