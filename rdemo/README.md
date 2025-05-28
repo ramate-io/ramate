@@ -2,7 +2,7 @@
 Description of RDEMO.
 
 <!--START OAC INDEX: DO NOT REMOVE THIS LINE -->
-## [RDEMO: OERA-0: DULAN](rera-000-000-000-dulan/README.md)
+## [RDEMO: RERA-0: DULAN](rera-000-000-000-dulan/README.md)
 
 <!--OAC FOOTER: DO NOT REMOVE THIS LINE-->
 ---

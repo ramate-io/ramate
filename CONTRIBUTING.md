@@ -1,9 +1,9 @@
 # Contributing
-We recommend those new to the paradigm review the latest [RGUIDE](./rguide/oera-000-000-000-dulan/rguide-000-000-000/README.md).
+We recommend those new to the paradigm review the latest [RGUIDE](./rguide/rera-000-000-000-dulan/rguide-000-000-000/README.md).
 
-The primary output of this project is this repository's [Artifacts](./rglo/oera-000-000-000-dulan/rglo-000-000-000-artifact/README.md). How to produce these [Artifacts](./rglo/oera-000-000-000-dulan/rglo-000-000-000-artifact/README.md) is specified in [RSPEC-0](./rspec/oera-000-000-000-dulan/rspec-000-000-000/README.md). Meanwhile [RDEMO-0](./rdemo/oera-000-000-000-dulan/rdemo-000-000-000/README.md) provides an interactive walkthrough of this repository which may be more suitable.
+The primary output of this project is this repository's [Artifacts](./rglo/rera-000-000-000-dulan/rglo-000-000-000-artifact/README.md). How to produce these [Artifacts](./rglo/rera-000-000-000-dulan/rglo-000-000-000-artifact/README.md) is specified in [RSPEC-0](./rspec/rera-000-000-000-dulan/rspec-000-000-000/README.md). Meanwhile [RDEMO-0](./rdemo/rera-000-000-000-dulan/rdemo-000-000-000/README.md) provides an interactive walkthrough of this repository which may be more suitable.
 
-To produce and maintain these [Artifacts](./rglo/oera-000-000-000-dulan/rglo-000-000-000-artifact/README.md), we ideate in [Discussions](https://github.com/ramate-io/oac/discussions) and plan work in [Issues](https://github.com/ramate-io/oac/issues). Discussions are free-form. Issues follow the structure below:
+To produce and maintain these [Artifacts](./rglo/rera-000-000-000-dulan/rglo-000-000-000-artifact/README.md), we ideate in [Discussions](https://github.com/ramate-io/oac/discussions) and plan work in [Issues](https://github.com/ramate-io/oac/issues). Discussions are free-form. Issues follow the structure below:
 
 | Task | Description |
 |------|-------------|

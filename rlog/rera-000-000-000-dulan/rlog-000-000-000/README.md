@@ -2,7 +2,7 @@
 - **Authors:** [Liam Monninger](mailto:liam@ramate.io)
 
 ## Summary
-We discuss several conceptual notes and brief snippets of formalism which were generated separate from the work on [RART-1](/rart/oera-000-000-000-dulan/rart-000-000-0001/README.md), [RART-2](/rart/oera-000-000-000-dulan/rart-000-000-0002/README.md), and [RART-3](/rart/oera-000-000-000-dulan/rart-000-000-0003/README.md).
+We discuss several conceptual notes and brief snippets of formalism which were generated separate from the work on [RART-1](/rart/rera-000-000-000-dulan/rart-000-000-0001/README.md), [RART-2](/rart/rera-000-000-000-dulan/rart-000-000-0002/README.md), and [RART-3](/rart/rera-000-000-000-dulan/rart-000-000-0003/README.md).
 
 ## Log
 

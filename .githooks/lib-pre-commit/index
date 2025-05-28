@@ -84,14 +84,14 @@ for type_dir in $ARTIFACT_TYPES; do
             continue
         fi
         
-        # Extract the era name from the directory (e.g., "OERA-0: Dulan" from "oera-000-000-000-dulan")
+        # Extract the era name from the directory (e.g., "RERA-0: Dulan" from "rera-000-000-000-dulan")
         # First get the number and name parts
         era_num=$(echo "$era_name" | sed -E 's/^[a-z]+-([0-9]+)-[0-9]+-[0-9]+-([a-z]+)$/\1/')
         era_name_part=$(echo "$era_name" | sed -E 's/^[a-z]+-([0-9]+)-[0-9]+-[0-9]+-([a-z]+)$/\2/')
         # Remove leading zeros from the number, but keep at least one zero if the number is all zeros
         era_num=$(echo "$era_num" | sed -E 's/^0+([1-9])/\1/; s/^0+$/0/')
         # Format the display name
-        display_name="OERA-${era_num}: $(echo "$era_name_part" | tr '[:lower:]' '[:upper:]')"
+        display_name="RERA-${era_num}: $(echo "$era_name_part" | tr '[:lower:]' '[:upper:]')"
         
         # Add the era section header to the index
         echo "## [${TYPE_CAPS}: ${display_name}](${era_name}/README.md)" >> "$TMP_FILE"

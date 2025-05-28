@@ -12,18 +12,18 @@ OAC has expressed intents to be a highly-organized project which is governed via
 
 ## Desiderata
 - **Contents:**
-  - **[D1](#d1-provide-templates-for-artifacts-and-describe-their-usage):** Provide templates for [Artifacts](../../../rglo/oera-000-000-000-dulan/rglo-000-000-000-artifact/README.md) and describe their usage
-  - **[D2](#d2-describe-the-overall-organization-of-the-artifacts):** Describe the overall organization of the [Artifacts](../../../rglo/oera-000-000-000-dulan/rglo-000-000-000-artifact/README.md)
+  - **[D1](#d1-provide-templates-for-artifacts-and-describe-their-usage):** Provide templates for [Artifacts](../../../rglo/rera-000-000-000-dulan/rglo-000-000-000-artifact/README.md) and describe their usage
+  - **[D2](#d2-describe-the-overall-organization-of-the-artifacts):** Describe the overall organization of the [Artifacts](../../../rglo/rera-000-000-000-dulan/rglo-000-000-000-artifact/README.md)
   - **[D3](#d3-describe-responsibilities-for-maintenance-of-this-repository):** Describe responsibilities for maintenance of this repository
 
-### D1: Provide templates for [Artifacts](../../../rglo/oera-000-000-000-dulan/rglo-000-000-000-artifact/README.md) and describe their usage
-[RGOV-0](../../../rgov/oera-000-000-000-dulan/rgov-000-000-000/README.md) asserts that the objects of governance--and thus the decided output of tis repository--are the [Artifacts](../../../rglo/oera-000-000-000-dulan/rglo-000-000-000-artifact/README.md). In order for contributors to effectively add to these [Artifacts](../../../rglo/oera-000-000-000-dulan/rglo-000-000-000-artifact/README.md), they must be informed how draft them and generally use them.
+### D1: Provide templates for [Artifacts](../../../rglo/rera-000-000-000-dulan/rglo-000-000-000-artifact/README.md) and describe their usage
+[RGOV-0](../../../rgov/rera-000-000-000-dulan/rgov-000-000-000/README.md) asserts that the objects of governance--and thus the decided output of tis repository--are the [Artifacts](../../../rglo/rera-000-000-000-dulan/rglo-000-000-000-artifact/README.md). In order for contributors to effectively add to these [Artifacts](../../../rglo/rera-000-000-000-dulan/rglo-000-000-000-artifact/README.md), they must be informed how draft them and generally use them.
 
-### D2: Describe the overall organization of the [Artifacts](../../../rglo/oera-000-000-000-dulan/rglo-000-000-000-artifact/README.md)
-In addition to drafting individual [Artifacts](../../../rglo/oera-000-000-000-dulan/rglo-000-000-000-artifact/README.md), Contributors must also clearly understand how the artifacts should be organized with respect to each other. This includes placement in directories, indexing, source control, etc.
+### D2: Describe the overall organization of the [Artifacts](../../../rglo/rera-000-000-000-dulan/rglo-000-000-000-artifact/README.md)
+In addition to drafting individual [Artifacts](../../../rglo/rera-000-000-000-dulan/rglo-000-000-000-artifact/README.md), Contributors must also clearly understand how the artifacts should be organized with respect to each other. This includes placement in directories, indexing, source control, etc.
 
 ### D3: Describe responsibilities for maintenance of this repository
-[Ramate LLC](https://www.ramate.io) has been identified as the organization responsible for governing this repository, which currently means addressing the inclusion of [Artifacts](../../../rglo/oera-000-000-000-dulan/rglo-000-000-000-artifact/README.md). In greater procedural detail, describe what this entails.
+[Ramate LLC](https://www.ramate.io) has been identified as the organization responsible for governing this repository, which currently means addressing the inclusion of [Artifacts](../../../rglo/rera-000-000-000-dulan/rglo-000-000-000-artifact/README.md). In greater procedural detail, describe what this entails.
 
 ## Agreeing
 - **[AGR-1: Liam Monninger](./agreeing/agr-001-liam-monninger/README.md):** argues that guide describes the exploratory nature of this initial phase well ([Liam Monninger](mailto:liam@ramate.io)).

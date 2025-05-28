@@ -1,7 +1,7 @@
 # OE-0: Dulan
 
 ## RSPECs
-- **[RSPEC-0](/rspec/oera-000-000-000-dulan/rspec-000-000-000/README.md):** a specification for how to use and maintain this repository.
+- **[RSPEC-0](/rspec/rera-000-000-000-dulan/rspec-000-000-000/README.md):** a specification for how to use and maintain this repository.
 
 <!--OAC FOOTER: DO NOT REMOVE THIS LINE-->
 ---

@@ -8,18 +8,18 @@
     - **[Appendix](#appendix)**
 
 ## Summary
-**RROAD-0** is the foundational roadmap for OAC proposed in response to [RPROC-0: Decentralized Consequence](../../../rproc/oera-000-000-000-dulan/rproc-000-000-000/README.md). **RROAD-0** seeks to develop and validate a series of foundational papers, render a series of implementations from these papers, and the output applications demonstrating the utility of these implementations. In the end, **RROAD-0** describes the series efforts which will be used to determine whether OAC is worth pursuing.
+**RROAD-0** is the foundational roadmap for OAC proposed in response to [RPROC-0: Decentralized Consequence](../../../rproc/rera-000-000-000-dulan/rproc-000-000-000/README.md). **RROAD-0** seeks to develop and validate a series of foundational papers, render a series of implementations from these papers, and the output applications demonstrating the utility of these implementations. In the end, **RROAD-0** describes the series efforts which will be used to determine whether OAC is worth pursuing.
 
 The foundational papers anticipated by **RROAD-0** are:
-- **[RART-1: BFA](../../../rart/oera-000-000-000-dulan/rart-000-000-001-bfa/README.md):** describes a class of sampling protocols which accept Byzantine minority decisions with some non-zero probability; additionally formalizes the expected value of said decisions arguing for the ability for them to be rendered irrational. BFA are still deterministic and final.
-- **[RART-2: Collaborative Transaction Routing](../../../rart/oera-000-000-000-dulan/rart-000-000-002-ctr/README.md):** describes a class of sortition-based transaction broadcast protocols. These allow incentivization to be shifted out of native token and into discretionary "super" protocols.
-- **[RART-3: RIS-STM](../../../rart/oera-000-000-000-dulan/rart-000-000-003-ris-stm/README.md):** describes a generalization of [Block-STM](https://arxiv.org/abs/2203.06871) which plays forward best-case latency.
+- **[RART-1: BFA](../../../rart/rera-000-000-000-dulan/rart-000-000-001-bfa/README.md):** describes a class of sampling protocols which accept Byzantine minority decisions with some non-zero probability; additionally formalizes the expected value of said decisions arguing for the ability for them to be rendered irrational. BFA are still deterministic and final.
+- **[RART-2: Collaborative Transaction Routing](../../../rart/rera-000-000-000-dulan/rart-000-000-002-ctr/README.md):** describes a class of sortition-based transaction broadcast protocols. These allow incentivization to be shifted out of native token and into discretionary "super" protocols.
+- **[RART-3: RIS-STM](../../../rart/rera-000-000-000-dulan/rart-000-000-003-ris-stm/README.md):** describes a generalization of [Block-STM](https://arxiv.org/abs/2203.06871) which plays forward best-case latency.
 
 The foundational implementations anticipated by **RROAD-0** are:
-- **[`gwrdfa`](https://github.com/ramate-io/gwrdfa):** an implementation of **[RART-1: BFA](../../../rart/oera-000-000-000-dulan/rart-000-000-001-bfa/README.md)** protocol substack. This forms the basis for high-throughput and large footprint OAC applications.
-- **[`srcavei`](https://github.com/ramate-io/srcavei):** an implementation of the **[RART-2: Collaborative Transaction Routing](../../../rart/oera-000-000-000-dulan/rart-000-000-002-ctr/README.md)** substack. This forms the basis for incentivization—which would no longer be strictly coin-based.
+- **[`gwrdfa`](https://github.com/ramate-io/gwrdfa):** an implementation of **[RART-1: BFA](../../../rart/rera-000-000-000-dulan/rart-000-000-001-bfa/README.md)** protocol substack. This forms the basis for high-throughput and large footprint OAC applications.
+- **[`srcavei`](https://github.com/ramate-io/srcavei):** an implementation of the **[RART-2: Collaborative Transaction Routing](../../../rart/rera-000-000-000-dulan/rart-000-000-002-ctr/README.md)** substack. This forms the basis for incentivization—which would no longer be strictly coin-based.
 - **[`fuste`](https://github.com/ramate-io/fuste):** a RISC-V VM with a set of adapters tailored to DLT—particularly plugging into the stack above. This is also critical to throughput and large footprint.
-- **[`zhiye`](https://github.com/ramate-io/zhiye):** implementation of **[RART-3: RIS-STM](../../../rart/oera-000-000-000-dulan/rart-000-000-003-ris-stm/README.md)**. This takes advantage of some properties of BFA to greatly reduce best-case latency.
+- **[`zhiye`](https://github.com/ramate-io/zhiye):** implementation of **[RART-3: RIS-STM](../../../rart/rera-000-000-000-dulan/rart-000-000-003-ris-stm/README.md)**. This takes advantage of some properties of BFA to greatly reduce best-case latency.
 
 All of these implementations are part of [Ramate LLC's](https://www.ramate.io) [`robles`](https://github.com/ramate-io/robles) stack.
 
@@ -57,8 +57,8 @@ All of these implementations are part of [Ramate LLC's](https://www.ramate.io) [
 - **Depends-on:** $\emptyset$
 - **Ends:** T1 + 1 month
 - **Contents:**
-    - **[T1.1](#t11-complete-draft-of-rart-1-bfa)**: Complete draft of [RART-1: BFA](../../../rart/oera-000-000-000-dulan/rart-000-000-001-bfa/README.md)
-    - **[T1.2](#t12-complete-draft-of-rart-2-collaborative-transaction-routing)**: Complete draft of [RART-2: Collaborative Transaction Routing](../../../rart/oera-000-000-000-dulan/rart-000-000-002-ctr/README.md)
+    - **[T1.1](#t11-complete-draft-of-rart-1-bfa)**: Complete draft of [RART-1: BFA](../../../rart/rera-000-000-000-dulan/rart-000-000-001-bfa/README.md)
+    - **[T1.2](#t12-complete-draft-of-rart-2-collaborative-transaction-routing)**: Complete draft of [RART-2: Collaborative Transaction Routing](../../../rart/rera-000-000-000-dulan/rart-000-000-002-ctr/README.md)
     - **[T1.3](#t13-begin-gwrdfa-implementation)**: Begin [`gwrdfa`](https://github.com/ramate-io/gwrdfa) implementation
     - **[T1.4](#t14-begin-srcavei-implementation)**: Begin [`srcavei`](https://github.com/ramate-io/srcavei) implementation
     - **[T1.5](#t15-begin-fuste-implementation)**: Begin [`fuste`](https://github.com/ramate-io/fuste) implementation
@@ -67,10 +67,10 @@ All of these implementations are part of [Ramate LLC's](https://www.ramate.io) [
 
 **T1** seeks to accomplish the following itemized objectives:
 
-#### T1.1: Complete draft of [RART-1: BFA](../../../rart/oera-000-000-000-dulan/rart-000-000-001-bfa/README.md)
+#### T1.1: Complete draft of [RART-1: BFA](../../../rart/rera-000-000-000-dulan/rart-000-000-001-bfa/README.md)
 - **Lead:** [Liam Monninger](mailto:liam@ramate.io)
 
-#### T1.2: Complete draft of [RART-2: Collaborative Transaction Routing](../../../rart/oera-000-000-000-dulan/rart-000-000-002-ctr/README.md)
+#### T1.2: Complete draft of [RART-2: Collaborative Transaction Routing](../../../rart/rera-000-000-000-dulan/rart-000-000-002-ctr/README.md)
 - **Lead:** [Liam Monninger](mailto:liam@ramate.io)
 
 #### T1.3: Begin [`gwrdfa`](https://github.com/ramate-io/gwrdfa) implementation
@@ -90,8 +90,8 @@ All of these implementations are part of [Ramate LLC's](https://www.ramate.io) [
 - **Depends-on:** [T1](#t1-push-towards-validation)
 - **Ends:** T2 + 1 month
 - **Contents:**
-    - **[T2.1](#t21-share-and-gather-feedback-on-rart-1-bfa)**: Share and gather feedback on [RART-1: BFA](../../../rart/oera-000-000-000-dulan/rart-000-000-001-bfa/README.md)
-    - **[T2.2](#t22-share-and-gather-feedback-on-rart-2-collaborative-transaction-routing)**: Share and gather feedback on [RART-2: Collaborative Transaction Routing](../../../rart/oera-000-000-000-dulan/rart-000-000-002-ctr/README.md)
+    - **[T2.1](#t21-share-and-gather-feedback-on-rart-1-bfa)**: Share and gather feedback on [RART-1: BFA](../../../rart/rera-000-000-000-dulan/rart-000-000-001-bfa/README.md)
+    - **[T2.2](#t22-share-and-gather-feedback-on-rart-2-collaborative-transaction-routing)**: Share and gather feedback on [RART-2: Collaborative Transaction Routing](../../../rart/rera-000-000-000-dulan/rart-000-000-002-ctr/README.md)
     - **[T2.3](#t23-implement-and-document-proposal-standards)**: Implement and document proposal standards, contributor guidelines, and implementation governance
     - **[T2.4](#t24-complete-gwrdfa-reference-implementation)**: Complete [`gwrdfa`](https://github.com/ramate-io/gwrdfa) reference implementation
     - **[T2.5](#t25-complete-srcavei-reference-implementation)**: Complete [`srcavei`](https://github.com/ramate-io/srcavei) reference implementation
@@ -101,10 +101,10 @@ All of these implementations are part of [Ramate LLC's](https://www.ramate.io) [
 
 **T2** seeks to accomplish the following itemized objectives:
 
-#### T2.1: Share and gather feedback on [RART-1: BFA](../../../rart/oera-000-000-000-dulan/rart-000-000-001-bfa/README.md)
+#### T2.1: Share and gather feedback on [RART-1: BFA](../../../rart/rera-000-000-000-dulan/rart-000-000-001-bfa/README.md)
 - **Lead:** [Liam Monninger](mailto:liam@ramate.io)s
 
-#### T2.2: Share and gather feedback on [RART-2: Collaborative Transaction Routing](../../../rart/oera-000-000-000-dulan/rart-000-000-002-ctr/README.md)
+#### T2.2: Share and gather feedback on [RART-2: Collaborative Transaction Routing](../../../rart/rera-000-000-000-dulan/rart-000-000-002-ctr/README.md)
 - **Lead:** [Liam Monninger](mailto:liam@ramate.io)
 
 #### T2.3: Implement and document proposal standards, contributor guidelines, and implementation governance
@@ -127,8 +127,8 @@ All of these implementations are part of [Ramate LLC's](https://www.ramate.io) [
 - **Depends-on:** [T2](#t2-validation-and-accepting-contributions)
 - **Ends:** T3 + 1 month
 - **Contents:**
-    - **[T3.1](#t31-continue-sharing-and-updating-rart-1-bfa)**: Continue sharing and updating [RART-1: BFA](../../../rart/oera-000-000-000-dulan/rart-000-000-001-bfa/README.md)
-    - **[T3.2](#t32-continue-sharing-and-updating-rart-2-collaborative-transaction-routing)**: Continue sharing and updating [RART-2: Collaborative Transaction Routing](../../../rart/oera-000-000-000-dulan/rart-000-000-002-ctr/README.md)
+    - **[T3.1](#t31-continue-sharing-and-updating-rart-1-bfa)**: Continue sharing and updating [RART-1: BFA](../../../rart/rera-000-000-000-dulan/rart-000-000-001-bfa/README.md)
+    - **[T3.2](#t32-continue-sharing-and-updating-rart-2-collaborative-transaction-routing)**: Continue sharing and updating [RART-2: Collaborative Transaction Routing](../../../rart/rera-000-000-000-dulan/rart-000-000-002-ctr/README.md)
     - **[T3.3](#t33-develop-fuste-mvp)**: Develop [`fuste`](https://github.com/ramate-io/fuste) MVP
     - **[T3.4](#t34-use-fuste-mvp-to-develop-centralized-embedded-database)**: Use [`fuste`](https://github.com/ramate-io/fuste) MVP to develop centralized embedded database
 
@@ -136,10 +136,10 @@ All of these implementations are part of [Ramate LLC's](https://www.ramate.io) [
 
 **T3** seeks to accomplish the following itemized objectives:
 
-#### T3.1: Continue sharing and updating [RART-1: BFA](../../../rart/oera-000-000-000-dulan/rart-000-000-001-bfa/README.md)
+#### T3.1: Continue sharing and updating [RART-1: BFA](../../../rart/rera-000-000-000-dulan/rart-000-000-001-bfa/README.md)
 - **Lead:** [Liam Monninger](mailto:liam@ramate.io)
 
-#### T3.2: Continue sharing and updating [RART-2: Collaborative Transaction Routing](../../../rart/oera-000-000-000-dulan/rart-000-000-002-ctr/README.md)
+#### T3.2: Continue sharing and updating [RART-2: Collaborative Transaction Routing](../../../rart/rera-000-000-000-dulan/rart-000-000-002-ctr/README.md)
 - **Lead:** [Liam Monninger](mailto:liam@ramate.io)
 
 #### T3.3: Develop [`fuste`](https://github.com/ramate-io/fuste) MVP
@@ -156,7 +156,7 @@ All of these implementations are part of [Ramate LLC's](https://www.ramate.io) [
 - **Depends-on:** [T3](#t3-continued-validation-and-fuste-mvp)
 - **Ends:** T4 + 1 month
 - **Contents:**
-    - **[T4.1](#t41-draft-and-share-rart-3-ris-stm)**: Draft and share [RART-3: RIS-STM](../../../rart/oera-000-000-000-dulan/rart-000-000-003-ris-stm/README.md)
+    - **[T4.1](#t41-draft-and-share-rart-3-ris-stm)**: Draft and share [RART-3: RIS-STM](../../../rart/rera-000-000-000-dulan/rart-000-000-003-ris-stm/README.md)
     - **[T4.2](#t42-collaborate-with-stanford-colleague)**: Collaborate with Stanford colleague working with Mary Wooters on exotic probabilistic distributed VM
     - **[T4.3](#t43-begin-zhiye-implementation)**: Begin [`zhiye`](https://github.com/ramate-io/zhiye) implementation
 
@@ -164,7 +164,7 @@ All of these implementations are part of [Ramate LLC's](https://www.ramate.io) [
 
 **T4** seeks to accomplish the following itemized objectives:
 
-#### T4.1: Draft and share [RART-3: RIS-STM](../../../rart/oera-000-000-000-dulan/rart-000-000-003-ris-stm/README.md)
+#### T4.1: Draft and share [RART-3: RIS-STM](../../../rart/rera-000-000-000-dulan/rart-000-000-003-ris-stm/README.md)
 - **Lead:** [Liam Monninger](mailto:liam@ramate.io)
 
 #### T4.2: Collaborate with Stanford colleague working with Mary Wooters on exotic probabilistic distributed VM
@@ -184,8 +184,8 @@ All of these implementations are part of [Ramate LLC's](https://www.ramate.io) [
     - **[T5.1](#t51-stabilize-gwrdfa-implementation)**: Stabilize [`gwrdfa`](https://github.com/ramate-io/gwrdfa) implementation
     - **[T5.2](#t52-stabilize-srcavei-implementation)**: Stabilize [`srcavei`](https://github.com/ramate-io/srcavei) implementation
     - **[T5.3](#t53-seek-out-additional-co-authors)**: Seek out additional co-authors for OAC foundational papers
-    - **[T5.4](#t54-prepare-rart-1-bfa-for-conference)**: Prepare [RART-1: BFA](../../../rart/oera-000-000-000-dulan/rart-000-000-001-bfa/README.md) for conference submission
-    - **[T5.5](#t55-prepare-rart-2-ctr-for-conference)**: Prepare [RART-2: Collaborative Transaction Routing](../../../rart/oera-000-000-000-dulan/rart-000-000-002-ctr/README.md) for conference submission
+    - **[T5.4](#t54-prepare-rart-1-bfa-for-conference)**: Prepare [RART-1: BFA](../../../rart/rera-000-000-000-dulan/rart-000-000-001-bfa/README.md) for conference submission
+    - **[T5.5](#t55-prepare-rart-2-ctr-for-conference)**: Prepare [RART-2: Collaborative Transaction Routing](../../../rart/rera-000-000-000-dulan/rart-000-000-002-ctr/README.md) for conference submission
     - **[T5.6](#t56-begin-search-for-funding)**: Begin search for funding opportunities
 
 **T5** focuses on stabilizing core implementations and preparing academic work for broader dissemination within the Ordered Atomic Collaboration (OAC) framework.
@@ -198,13 +198,13 @@ All of these implementations are part of [Ramate LLC's](https://www.ramate.io) [
 #### T5.2: Stabilize [`srcavei`](https://github.com/ramate-io/srcavei) implementation
 - **Lead:** [Liam Monninger](mailto:liam@ramate.io)
 
-#### T5.3: Seek out additional co-authors for OAC foundational papers: [RART-1: BFA](../../../rart/oera-000-000-000-dulan/rart-000-000-001-bfa/README.md), [RART-2: Collaborative Transaction Routing](../../../rart/oera-000-000-000-dulan/rart-000-000-002-ctr/README.md), and [RART-3: RIS-STM](../../../rart/oera-000-000-000-dulan/rart-000-000-003-ris-stm/README.md)
+#### T5.3: Seek out additional co-authors for OAC foundational papers: [RART-1: BFA](../../../rart/rera-000-000-000-dulan/rart-000-000-001-bfa/README.md), [RART-2: Collaborative Transaction Routing](../../../rart/rera-000-000-000-dulan/rart-000-000-002-ctr/README.md), and [RART-3: RIS-STM](../../../rart/rera-000-000-000-dulan/rart-000-000-003-ris-stm/README.md)
 - **Lead:** [Liam Monninger](mailto:liam@ramate.io)
 
-#### T5.4: Prepare [RART-1: BFA](../../../rart/oera-000-000-000-dulan/rart-000-000-001-bfa/README.md) for conference submission
+#### T5.4: Prepare [RART-1: BFA](../../../rart/rera-000-000-000-dulan/rart-000-000-001-bfa/README.md) for conference submission
 - **Lead:** [Liam Monninger](mailto:liam@ramate.io)
 
-#### T5.5: Prepare [RART-2: Collaborative Transaction Routing](../../../rart/oera-000-000-000-dulan/rart-000-000-002-ctr/README.md) for conference submission
+#### T5.5: Prepare [RART-2: Collaborative Transaction Routing](../../../rart/rera-000-000-000-dulan/rart-000-000-002-ctr/README.md) for conference submission
 - **Lead:** [Liam Monninger](mailto:liam@ramate.io)
 
 #### T5.6: Begin search for funding opportunities
@@ -275,9 +275,9 @@ All of these implementations are part of [Ramate LLC's](https://www.ramate.io) [
     - **[T8.1](#t81-guide-l1-demonstrations)**: Guide and support L1 blockchain applications demonstration
     - **[T8.2](#t82-guide-streaming-demonstrations)**: Guide and support Collaborative Streaming platform demonstration
     - **[T8.3](#t83-research-swarm-coordination)**: Research and experiment with swarm coordination mechanisms
-    - **[T8.4](#t84-final-push-bfa)**: Final push for academic recognition of [RART-1: BFA](../../../rart/oera-000-000-000-dulan/rart-000-000-001-bfa/README.md)
-    - **[T8.5](#t85-final-push-ctr)**: Final push for academic recognition of [RART-2: Collaborative Transaction Routing](../../../rart/oera-000-000-000-dulan/rart-000-000-002-ctr/README.md)
-    - **[T8.6](#t86-final-push-ris-stm)**: Final push for academic recognition of [RART-3: RIS-STM](../../../rart/oera-000-000-000-dulan/rart-000-000-003-ris-stm/README.md)
+    - **[T8.4](#t84-final-push-bfa)**: Final push for academic recognition of [RART-1: BFA](../../../rart/rera-000-000-000-dulan/rart-000-000-001-bfa/README.md)
+    - **[T8.5](#t85-final-push-ctr)**: Final push for academic recognition of [RART-2: Collaborative Transaction Routing](../../../rart/rera-000-000-000-dulan/rart-000-000-002-ctr/README.md)
+    - **[T8.6](#t86-final-push-ris-stm)**: Final push for academic recognition of [RART-3: RIS-STM](../../../rart/rera-000-000-000-dulan/rart-000-000-003-ris-stm/README.md)
 
 **T8** focuses on finalizing demonstrations, exploring swarm coordination, and pushing for broader academic recognition of Ordered Atomic Collaboration (OAC).
 
@@ -292,13 +292,13 @@ All of these implementations are part of [Ramate LLC's](https://www.ramate.io) [
 #### T8.3: Research and experiment with swarm coordination mechanisms
 - **Lead:** [Liam Monninger](mailto:liam@ramate.io)
 
-#### T8.4: Final push for academic recognition of [RART-1: BFA](../../../rart/oera-000-000-000-dulan/rart-000-000-001-bfa/README.md)
+#### T8.4: Final push for academic recognition of [RART-1: BFA](../../../rart/rera-000-000-000-dulan/rart-000-000-001-bfa/README.md)
 - **Lead:** [Liam Monninger](mailto:liam@ramate.io)
 
-#### T8.5: Final push for academic recognition of [RART-2: Collaborative Transaction Routing](../../../rart/oera-000-000-000-dulan/rart-000-000-002-ctr/README.md)
+#### T8.5: Final push for academic recognition of [RART-2: Collaborative Transaction Routing](../../../rart/rera-000-000-000-dulan/rart-000-000-002-ctr/README.md)
 - **Lead:** [Liam Monninger](mailto:liam@ramate.io)
 
-#### T8.6: Final push for academic recognition of [RART-3: RIS-STM](../../../rart/oera-000-000-000-dulan/rart-000-000-003-ris-stm/README.md)
+#### T8.6: Final push for academic recognition of [RART-3: RIS-STM](../../../rart/rera-000-000-000-dulan/rart-000-000-003-ris-stm/README.md)
 - **Lead:** [Liam Monninger](mailto:liam@ramate.io)
 
 ### T9: Reorganization and Swarm Coordination App

@@ -1,7 +1,7 @@
 # OE-0: Dulan
 
 ## RGLOs
-- **[RGLO-0: Artifact](/rglo/oera-000-000-000-dulan/rglo-000-000-000-artifact/README.md):** defines the term Artifact which refers to the various O* documents.
+- **[RGLO-0: Artifact](/rglo/rera-000-000-000-dulan/rglo-000-000-000-artifact/README.md):** defines the term Artifact which refers to the various O* documents.
 
 <!--OAC FOOTER: DO NOT REMOVE THIS LINE-->
 ---

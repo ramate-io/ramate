@@ -1,9 +1,9 @@
-# OERA
-OAC Eras (OERA) are the periods over which a governing body makes decisions. All other OAC [Artifacts](../rglo/oera-000-000-000-dulan/rglo-000-000-000-artifact/README.md) are indexed by OERA.
+# RERA
+OAC Eras (RERA) are the periods over which a governing body makes decisions. All other OAC [Artifacts](../rglo/rera-000-000-000-dulan/rglo-000-000-000-artifact/README.md) are indexed by RERA.
 
-The current era is [OERA-0: Dulan](./oera-000-000-000-dulan/README.md).
+The current era is [RERA-0: Dulan](./rera-000-000-000-dulan/README.md).
 
-- **[OERA-0: Dulan](./oera-000-000-000-dulan/README.md):** the foundational era in which OAC is bootstrapped by [Ramate LLC](https://www.ramate.io)
+- **[RERA-0: Dulan](./rera-000-000-000-dulan/README.md):** the foundational era in which OAC is bootstrapped by [Ramate LLC](https://www.ramate.io)
 
 <!--OAC FOOTER: DO NOT REMOVE THIS LINE-->
 ---

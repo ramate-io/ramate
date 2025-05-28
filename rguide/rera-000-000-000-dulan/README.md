@@ -1,8 +1,8 @@
-# RGUIDE: OERA-0: Dulan
-[OERA-0: Dulan](../../oera/oera-000-000-000-dulan/README.md) introduces of the first RGUIDE, [RGUIDE-0](./rguide-000-000-000/README.md) which describes the initial drive towards decentralized consequence and the suggested foundational papers.
+# RGUIDE: RERA-0: Dulan
+[RERA-0: Dulan](../../rera/rera-000-000-000-dulan/README.md) introduces of the first RGUIDE, [RGUIDE-0](./rguide-000-000-000/README.md) which describes the initial drive towards decentralized consequence and the suggested foundational papers.
 
 ## RGUIDEs
-- **[RGUIDE-0](/rguide/oera-000-000-000-dulan/rguide-000-000-000/README.md):** describes the initial drive towards decentralized consequence and the suggested foundational papers.
+- **[RGUIDE-0](/rguide/rera-000-000-000-dulan/rguide-000-000-000/README.md):** describes the initial drive towards decentralized consequence and the suggested foundational papers.
 
 <!--OAC FOOTER: DO NOT REMOVE THIS LINE-->
 ---

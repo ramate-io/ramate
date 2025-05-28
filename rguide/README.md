@@ -2,8 +2,8 @@
 OAC Guides (RGUIDE) provide useful guides and summaries of OAC.
 
 <!--START OAC INDEX: DO NOT REMOVE THIS LINE -->
-## [RGUIDE: OERA-0: DULAN](rera-000-000-000-dulan/README.md)
-- **[RGUIDE-0](/rguide/oera-000-000-000-dulan/rguide-000-000-000/README.md):** describes the initial drive towards decentralized consequence and the suggested foundational papers.
+## [RGUIDE: RERA-0: DULAN](rera-000-000-000-dulan/README.md)
+- **[RGUIDE-0](/rguide/rera-000-000-000-dulan/rguide-000-000-000/README.md):** describes the initial drive towards decentralized consequence and the suggested foundational papers.
 
 <!--OAC FOOTER: DO NOT REMOVE THIS LINE-->
 ---

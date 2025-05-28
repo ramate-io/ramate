@@ -1,8 +1,8 @@
 # RPRE
 
 <!--START OAC INDEX: DO NOT REMOVE THIS LINE -->
-## [RPRE: OERA-0: DULAN](rera-000-000-000-dulan/README.md)
-- **[RPRE-0](/rpre/oera-000-000-000-dulan/rpre-000-000-000/README.md):** an introduction to OAC for the prrspective contributor.
+## [RPRE: RERA-0: DULAN](rera-000-000-000-dulan/README.md)
+- **[RPRE-0](/rpre/rera-000-000-000-dulan/rpre-000-000-000/README.md):** an introduction to OAC for the prrspective contributor.
 
 <!--OAC FOOTER: DO NOT REMOVE THIS LINE-->
 ---

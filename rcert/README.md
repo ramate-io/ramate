@@ -2,8 +2,8 @@
 Description of RCERT.
 
 <!--START OAC INDEX: DO NOT REMOVE THIS LINE -->
-## [RCERT: OERA-0: DULAN](rera-000-000-000-dulan/README.md)
-**[RCERT-0: OAC](/rcert/oera-000-000-000-dulan/rcert-000-000-000-oac/README.md):** self-certifies this repository.
+## [RCERT: RERA-0: DULAN](rera-000-000-000-dulan/README.md)
+**[RCERT-0: OAC](/rcert/rera-000-000-000-dulan/rcert-000-000-000-oac/README.md):** self-certifies this repository.
 
 <!--OAC FOOTER: DO NOT REMOVE THIS LINE-->
 ---

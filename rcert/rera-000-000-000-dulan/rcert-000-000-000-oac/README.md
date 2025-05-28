@@ -2,7 +2,7 @@
 - **Authors:** [Liam Monninger](liam@ramate.io)
 - **Holder:** [OAC](https://github.com/ramate-io/oac)
 - **Pubkey:** [`cafe3368`](./pub.key)
-- **Original issuer:** [RGOV-O: Founding](../../../rgov/oera-000-000-000-dulan/rgov-000-000-000/README.md)
+- **Original issuer:** [RGOV-O: Founding](../../../rgov/rera-000-000-000-dulan/rgov-000-000-000/README.md)
 - **Contents:**
     - **[Terms](#terms)**
     - **[Conditions](#conditions)**
@@ -32,7 +32,7 @@ Pursuant to [T1](#t1-self-endorsement), we certify whatever content is on its `m
 We stipulate that the validity of this certificate is subject to [RGOV](../../../rgov/README.md). Events such as the transfer of this repository from the [`ramate-io`](https://github.com/ramate-io) GitHub organization may render this certificate invalid.
 
 ### C2: Subject to invalidation on OAC `main`
-We stipulate that the validity of this certificate depends upon its continued presence at the tip of [OAC](https://github.com/ramate-io/oac) repository's `main` branch. This certificate is an [Artifact](../../../rglo/oera-000-000-000-dulan/rglo-000-000-000-artifact/README.md) which becomes invalid when no longer included.
+We stipulate that the validity of this certificate depends upon its continued presence at the tip of [OAC](https://github.com/ramate-io/oac) repository's `main` branch. This certificate is an [Artifact](../../../rglo/rera-000-000-000-dulan/rglo-000-000-000-artifact/README.md) which becomes invalid when no longer included.
 
 ## Agreeing
 - **[AGR-1: Liam Monninger](./agreeing/agr-001-liam-monninger/README.md):** argues that guide describes the exploratory nature of this initial phase well ([Liam Monninger](mailto:liam@ramate.io)).

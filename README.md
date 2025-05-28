@@ -16,7 +16,7 @@
   Ordered Atomic Collaboration (OAC)
 </h1>
 
-We recommend those new to the paradigm review the latest [RGUIDE](./rguide/oera-000-000-000-dulan/rguide-000-000-000/README.md).
+We recommend those new to the paradigm review the latest [RGUIDE](./rguide/rera-000-000-000-dulan/rguide-000-000-000/README.md).
 
 OAC is intended to be conceptually oriented and implementation agnostic. Before contributing to this repository, consider whether your intents are implementation specific by reviewing the following:
 
@@ -45,8 +45,8 @@ Please see [CONTRIBUTING.md](CONTRIBUTING.md) file for additional contribution g
 ## Organization
 
 ### Artifacts
-Under [RGLO-0](./rglo/oera-000-000-000-dulan/rglo-000-000-000-artifact/README.md), this subsection defines the recognized artifact types. We recognize the following types:
-- [`oera`](./oera): OAC Eras (OERA) are the periods over which a governing body makes decisions. All other OAC [Artifacts](./rglo/oera-000-000-000-dulan/rglo-000-000-000-artifact/README.md) are indexed by OERA.
+Under [RGLO-0](./rglo/rera-000-000-000-dulan/rglo-000-000-000-artifact/README.md), this subsection defines the recognized artifact types. We recognize the following types:
+- [`rera`](./rera): OAC Eras (RERA) are the periods over which a governing body makes decisions. All other OAC [Artifacts](./rglo/rera-000-000-000-dulan/rglo-000-000-000-artifact/README.md) are indexed by RERA.
 - [`rglo`](./rglo/): OAC Glosses (RGLO) are defined terms for OAC.
 - [`rproc`](./opurp/): OAC Proclamations (RPROC) are statements of purpose for OAC.
 - [`rgov`](./rgov/): OAC Governance (RGOV) are constitutions of, procedures for, and interpretations of OAC governance.

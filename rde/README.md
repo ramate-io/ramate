@@ -2,8 +2,8 @@
 Description of RDE.
 
 <!--START OAC INDEX: DO NOT REMOVE THIS LINE -->
-## [RDE: OERA-0: DULAN](rera-000-000-000-dulan/README.md)
-- **[RDE-0](/rde/oera-000-000-000-dulan/rde-000-000-000/README.md):** requests standards for maintenance of this repository.
+## [RDE: RERA-0: DULAN](rera-000-000-000-dulan/README.md)
+- **[RDE-0](/rde/rera-000-000-000-dulan/rde-000-000-000/README.md):** requests standards for maintenance of this repository.
 
 <!--OAC FOOTER: DO NOT REMOVE THIS LINE-->
 ---
