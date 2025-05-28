@@ -1,36 +1,29 @@
 <div align="center">
   <picture>
     <source srcset="./assets/ramate-inverted-transparent.png" media="(prefers-color-scheme: dark)">
-    <img src="./assets/ramate-transparent.png" alt="Ordered Atomic Collaboration (OAC)"" height="120">
+    <img src="./assets/ramate-transparent.png" alt="Ramate" height="120">
   </picture>
 </div>
 </br>
 
-> Ordered Atomic Collaboration (OAC) is a paradigm for decentralized consequence.
+> Ramate is the organization with many branches.
 
 <h1>
   <picture>
     <source srcset="./assets/ramate-inverted-transparent.png" media="(prefers-color-scheme: dark)">
-    <img height="24" src="./assets/ramate-transparent.png" alt="OAC"/>
+    <img height="24" src="./assets/ramate-transparent.png" alt="Ramate"/>
   </picture>
-  Ordered Atomic Collaboration (OAC)
+  Ramate
 </h1>
 
-We recommend those new to the paradigm review the latest [RGUIDE](./rguide/rera-000-000-000-dulan/rguide-000-000-000/README.md).
+This repository contains organizational artifacts for [Ramate LLC](https://www.ramate.io).
 
-OAC is intended to be conceptually oriented and implementation agnostic. Before contributing to this repository, consider whether your intents are implementation specific by reviewing the following:
+We recommend those new to the organization review the latest [RGUIDE](./rguide/rera-000-000-000-dulan/rguide-000-000-000/README.md).
 
-- **[`robles`](https://github.com/ramate-io/robles):** [Ramate LLC's](https://www.ramate.io) implementation of OAC paradigm technrlogy . Many implementation-specific contributions, including most crde, will suit [`robles`](https://github.com/ramate-io/robles).
-- **[RDEMO](./rdemo/README.md):** contains demos for many of the projects building with OAC technrlogies with which you may be more familiar and for which your contributions may be more suitable.
+Our flagship project is [Robles](https://github.com/ramate-io/robles) which is an implementation of [OAC](https://github.com/ramate-io/oac) technologies. Ramate also governs the [OAC](https://github.com/ramate-io/oac) project.
 
-OAC also refers to the organization that manages this repository.
-
-> [!NOTE]
-> **OAC** is not a legally represented organization. While the contents of this repository describe internal governance and can be treated like bylaws, they are not binding in any legal jurisdiction.
->
-> The **OAC** repository is licensed under the [MIT License](./LICENSE) and can be used at will.
-
-Currently, OAC is governed by [Ramate LLC](https://www.ramate.io). Likewise all implementations of OAC protocols are found under Ramate LLC's [`robles`](https://github.com/ramate-io/robles) project.
+> [!INFO]
+> The organization of this repository is drawn from the organization of the [OAC](https://github.com/ramate-io/oac) repository.
 
 ## Contributing
 
@@ -68,7 +61,7 @@ Under [RGLO-0](./rglo/rera-000-000-000-dulan/rglo-000-000-000-artifact/README.md
   <a href="https://github.com/ramate-io/oac">
     <picture>
       <source srcset="/assets/ramate-inverted-transparent.png" media="(prefers-color-scheme: dark)">
-      <img height="24" src="/assets/ramate-transparent.png" alt="OAC"/>
+      <img height="24" src="/assets/ramate-transparent.png" alt="Ramate"/>
     </picture>
   </a>
   <br/>

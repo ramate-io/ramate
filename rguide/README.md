@@ -12,7 +12,7 @@ OAC Guides (RGUIDE) provide useful guides and summaries of OAC.
   <a href="https://github.com/ramate-io/oac">
     <picture>
       <source srcset="/assets/ramate-inverted-transparent.png" media="(prefers-color-scheme: dark)">
-      <img height="24" src="/assets/ramate-transparent.png" alt="OAC"/>
+      <img height="24" src="/assets/ramate-transparent.png" alt="Ramate"/>
     </picture>
   </a>
   <br/>

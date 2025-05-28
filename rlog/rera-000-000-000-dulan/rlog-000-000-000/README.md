@@ -114,7 +114,7 @@ c'(n, k) = \sum_{h = 2k + 1}^{\min(3k + 1, 2n + 1)} \binom{n}{h} \cdot \binom{n}
   <a href="https://github.com/ramate-io/oac">
     <picture>
       <source srcset="/assets/ramate-inverted-transparent.png" media="(prefers-color-scheme: dark)">
-      <img height="24" src="/assets/ramate-transparent.png" alt="OAC"/>
+      <img height="24" src="/assets/ramate-transparent.png" alt="Ramate"/>
     </picture>
   </a>
   <br/>

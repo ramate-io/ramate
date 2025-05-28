@@ -153,8 +153,8 @@
               chafa --size 30x30 --animate false --colors 8 --center true ./assets/ramate-transparent.png
 
               echo ""
-              echo "Ordered Atomic Collaboration (OAC)"
-              echo "OAC is a paradigm for decentralized consequence."
+              echo "Ramate"
+              echo "Ramate is the organization with many branches."
             '';
           };
         };

@@ -12,7 +12,7 @@ The current era is [RERA-0: Dulan](./rera-000-000-000-dulan/README.md).
   <a href="https://github.com/ramate-io/oac">
     <picture>
       <source srcset="/assets/ramate-inverted-transparent.png" media="(prefers-color-scheme: dark)">
-      <img height="24" src="/assets/ramate-transparent.png" alt="OAC"/>
+      <img height="24" src="/assets/ramate-transparent.png" alt="Ramate"/>
     </picture>
   </a>
   <br/>
