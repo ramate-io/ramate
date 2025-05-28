@@ -22,7 +22,7 @@ We recommend those new to the organization review the latest [RGUIDE](./rguide/r
 
 Our flagship project is [Robles](https://github.com/ramate-io/robles) which is an implementation of [OAC](https://github.com/ramate-io/oac) technologies. Ramate also governs the [OAC](https://github.com/ramate-io/oac) project.
 
-> [!INFO]
+> [!NOTE]
 > The organization of this repository is drawn from the organization of the [OAC](https://github.com/ramate-io/oac) repository.
 
 ## Contributing
