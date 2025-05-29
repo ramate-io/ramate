@@ -1,4 +1,4 @@
-# RPRE-0: Ratme
+# RPRE-0: Ramate
 - **Authors:** [Liam Monninger](mailto:liam@ramate.io)
 - **Deck:** [RPRE-0](https://docs.google.com/presentation/d/1fpZ6nMPYTul9SSmz23C25S46vbIoYi35Vr7mRzo5GRc/edit?usp=sharing)
 - **Deck Copy:** [RPRE-0](./RPRE-0_%20Ramate.pdf)
