@@ -12,7 +12,8 @@
 ## Summary
 The linked deck and presentation describes Ramate's long-term aspirations, its current commitment to developing [OAC](https://www.github.com/ramate-io/oac), and the short-term prospect of generating a revenue generating application, Thro.
 
-For those interested in digging into the conceptual basis for Ramate's initial pursuits, we recommend checking out [OAC](https://www.github.com/ramate-io/oac), particularly [OPRE-0](http://github.com/ramate-io/oac/tree/main/opre/oera-000-000-000-dulan/opre-000-000-000).
+> [!TIP]
+> For those interested in digging into the conceptual basis for Ramate's initial pursuits, we recommend checking out [OAC](https://www.github.com/ramate-io/oac), particularly [OPRE-0](http://github.com/ramate-io/oac/tree/main/opre/oera-000-000-000-dulan/opre-000-000-000).
 
 ## Agreeing
 - **[AGR-1: Liam Monninger](./agreeing/agr-001-liam-monninger/README.md):** argues that guide describes the exploratory nature of this initial phase well ([Liam Monninger](mailto:liam@ramate.io)).
