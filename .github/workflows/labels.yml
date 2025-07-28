@@ -17,7 +17,7 @@ jobs:
     env:
       LABELS_JSON: |
         [
-          {"name": "event", "color": "3cc225", "description": "A release, demonstration, or similar placed on a target date. All issues are ultimately justified up to events."},
+          {"name": "event", "color": "3cc225", "description": "A release, demonstration, or similar targeting a date. All issues are justified up to events."},
           {"name": "release-candidate", "color": "25c2b5", "description": "An intended update to software, documentation, or similar which constitutes a new usable version."},
           {"name": "feature", "color": "85c98e", "description": "Describes new behavior."},
           {"name": "bug", "color": "c98f85", "description": "Describes behavior which needs to be fixed."},
