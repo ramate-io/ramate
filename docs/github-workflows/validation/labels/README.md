@@ -11,7 +11,7 @@ The labels worfklow will delete additional labels when run on `main` or when the
 > [!WARN]
 > There are NOT currently any protections against this updating of labels. As a contributor, you should be mindful particularly not to remove labels without first checking with other contributors.
 
-<!--OAC FOOTER: DO NOT REMOVE THIS LINE-->
+<!--RAMATE FOOTER: DO NOT REMOVE THIS LINE-->
 ---
 
 <div align="center">

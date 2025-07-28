@@ -3,7 +3,7 @@
 ## RLEGs
 - **[RLEG-0](/rleg/rera-000-000-000-dulan/rleg-000-000-000/README.md):** describes the initial lack of binding legal organization, provides the MIT License as the only relevant material.
 
-<!--OAC FOOTER: DO NOT REMOVE THIS LINE-->
+<!--RAMATE FOOTER: DO NOT REMOVE THIS LINE-->
 ---
 
 <div align="center">

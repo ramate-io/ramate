@@ -5,7 +5,7 @@ We have documented the following features:
 
 - **[GitHub Workflows](./github-workflows/)**
 
-<!--OAC FOOTER: DO NOT REMOVE THIS LINE-->
+<!--RAMATE FOOTER: DO NOT REMOVE THIS LINE-->
 ---
 
 <div align="center">

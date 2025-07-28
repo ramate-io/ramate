@@ -4,7 +4,7 @@ Validation workflows are concerned with validating the correctness of changes.
 ## [Labels](./labels/)
 The **Labels** workflows are concerned with maintaining GitHub labels.
 
-<!--OAC FOOTER: DO NOT REMOVE THIS LINE-->
+<!--RAMATE FOOTER: DO NOT REMOVE THIS LINE-->
 ---
 
 <div align="center">

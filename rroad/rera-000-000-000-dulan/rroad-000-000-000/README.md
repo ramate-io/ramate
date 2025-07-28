@@ -340,7 +340,7 @@ In the very least, this update of governance should include moving OAC out from 
 ## Appendix
 $\emptyset$
 
-<!--OAC FOOTER: DO NOT REMOVE THIS LINE-->
+<!--RAMATE FOOTER: DO NOT REMOVE THIS LINE-->
 ---
 
 <div align="center">

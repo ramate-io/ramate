@@ -54,7 +54,7 @@ Under [RGLO-0](./rglo/rera-000-000-000-dulan/rglo-000-000-000-artifact/README.md
 - [`rpre`](./rpre/): Ramate Presentations (RPRE) are presentations about Ramate.
 - [`rdemo`](./rdemo/): Ramate Demonstrations (RDEMO) are selected demonstrations of Ramate technologies.
 
-<!--OAC FOOTER: DO NOT REMOVE THIS LINE-->
+<!--RAMATE FOOTER: DO NOT REMOVE THIS LINE-->
 ---
 
 <div align="center">

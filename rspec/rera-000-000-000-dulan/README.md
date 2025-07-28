@@ -3,7 +3,7 @@
 ## RSPECs
 - **[RSPEC-0](/rspec/rera-000-000-000-dulan/rspec-000-000-000/README.md):** a specification for how to use and maintain this repository.
 
-<!--OAC FOOTER: DO NOT REMOVE THIS LINE-->
+<!--RAMATE FOOTER: DO NOT REMOVE THIS LINE-->
 ---
 
 <div align="center">

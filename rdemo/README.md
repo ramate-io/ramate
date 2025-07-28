@@ -4,7 +4,7 @@ Description of RDEMO.
 <!--START OAC INDEX: DO NOT REMOVE THIS LINE -->
 ## [RDEMO: RERA-0: DULAN](rera-000-000-000-dulan/README.md)
 
-<!--OAC FOOTER: DO NOT REMOVE THIS LINE-->
+<!--RAMATE FOOTER: DO NOT REMOVE THIS LINE-->
 ---
 
 <div align="center">

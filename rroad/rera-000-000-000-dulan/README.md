@@ -3,7 +3,7 @@
 ## RROADs
 - **[RROAD-0](/rroad/rera-000-000-000-dulan/rroad-000-000-000/README.md):** the initial roadmap for OAC.
 
-<!--OAC FOOTER: DO NOT REMOVE THIS LINE-->
+<!--RAMATE FOOTER: DO NOT REMOVE THIS LINE-->
 ---
 
 <div align="center">

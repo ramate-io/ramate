@@ -4,7 +4,7 @@
 ## RGUIDEs
 - **[RGUIDE-0](/rguide/rera-000-000-000-dulan/rguide-000-000-000/README.md):** describes the initial drive towards decentralized consequence and the suggested foundational papers.
 
-<!--OAC FOOTER: DO NOT REMOVE THIS LINE-->
+<!--RAMATE FOOTER: DO NOT REMOVE THIS LINE-->
 ---
 
 <div align="center">
