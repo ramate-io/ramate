@@ -57,6 +57,7 @@ jobs:
 
           // Remove labels not in LABELS_JSON if on main or if commit message contains debug(ci:labels:deletion)
           const commitMessage = process.env.GITHUB_COMMIT_MESSAGE || '';
+          console.log(`DEBUG ${commitMessage}`);
           if (
             process.env.GITHUB_REF === 'refs/heads/main' ||
             process.env.GITHUB_REF_NAME === 'main' ||
