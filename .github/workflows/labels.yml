@@ -38,7 +38,7 @@ jobs:
 
           // Helper to robustly detect 'already_exists' error
           function isAlreadyExistsError(error) {
-            return error.code === 'already_exists';
+            return error.status === 'already_exists';
           }
 
           // Remove labels not in LABELS_JSON if on main
