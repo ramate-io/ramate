@@ -21,10 +21,10 @@ jobs:
           {"name": "docs", "color": "85b0c9", "description": "Describes important updates to documentation."},
           {"name": "delivery", "color": "85c9b9", "description": "Describes important updates to delivery mechanisms."},
           {"name": "validation", "color": "b785c9", "description": "Describes important updates to validation mechanisms."},
-          {"name": "priority:low", "color": "298ef2", "description": "Ops task"},
-          {"name": "priority:medium", "color": "f28729", "description": "Ops task"},
-          {"name": "priority:high", "color": "f22929", "description": "Related to GitHub Actions CI"},
-          {"name": "priority:urgent", "color": "c842f5", "description": "Demo label"}
+          {"name": "priority:low", "color": "298ef2", "description": "Low-priority issues should not be worked on at the expense of other issues."},
+          {"name": "priority:medium", "color": "f28729", "description": "Medium-priority issues should be worked on sparingly when other issues are available."},
+          {"name": "priority:high", "color": "f22929", "description": "High-priority issues should be worked on at the expense of most other issues."},
+          {"name": "priority:urgent", "color": "c842f5", "description": "Urgent-priority issues should be worked on at the expense of all other issues."}
         ]
     steps:
     - uses: actions/github-script@v7
