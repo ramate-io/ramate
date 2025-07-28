@@ -30,6 +30,10 @@ jobs:
           {"name": "priority:urgent", "color": "c842f5", "description": "Urgent-priority issues should be worked on at the expense of all other issues."}
         ]
     steps:
+    - name: Get latest commit message
+      id: get_commit_msg
+      run: |
+        echo "GITHUB_COMMIT_MESSAGE=$(git log -1 --pretty=%B)" >> $GITHUB_ENV
     - uses: actions/github-script@v7
       with:
         script: |
@@ -52,8 +56,13 @@ jobs:
             return false;
           }
 
-          // Remove labels not in LABELS_JSON if on main
-          if (process.env.GITHUB_REF === 'refs/heads/main' || process.env.GITHUB_REF_NAME === 'main') {
+          // Remove labels not in LABELS_JSON if on main or if commit message contains debug(ci:labels:deletion)
+          const commitMessage = process.env.GITHUB_COMMIT_MESSAGE || '';
+          if (
+            process.env.GITHUB_REF === 'refs/heads/main' ||
+            process.env.GITHUB_REF_NAME === 'main' ||
+            commitMessage.includes('debug(ci:labels:deletion)')
+          ) {
             const existingLabels = await github.paginate(github.rest.issues.listLabelsForRepo, {
               owner: context.repo.owner,
               repo: context.repo.repo,
