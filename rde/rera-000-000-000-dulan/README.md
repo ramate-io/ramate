@@ -3,7 +3,7 @@
 ## RDEs
 - **[RDE-0](/rde/rera-000-000-000-dulan/rde-000-000-000/README.md):** requests standards for maintenance of this repository.
 
-<!--OAC FOOTER: DO NOT REMOVE THIS LINE-->
+<!--RAMATE FOOTER: DO NOT REMOVE THIS LINE-->
 ---
 
 <div align="center">

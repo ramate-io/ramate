@@ -3,7 +3,7 @@
 ## RPREs
 - **[RPRE-0](/rpre/rera-000-000-000-dulan/rpre-000-000-000/README.md):** an introduction to OAC for the prrspective contributor.
 
-<!--OAC FOOTER: DO NOT REMOVE THIS LINE-->
+<!--RAMATE FOOTER: DO NOT REMOVE THIS LINE-->
 ---
 
 <div align="center">

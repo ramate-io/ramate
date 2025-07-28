@@ -6,7 +6,7 @@ There are two categories of workflows presented as subdirectories:
 - **[Validation](./validation/)**: workflows concerned with validating the correctness of changes.
 - **[Delivery](./delivery/)**: workflows concerned with delivering changes.
 
-<!--OAC FOOTER: DO NOT REMOVE THIS LINE-->
+<!--RAMATE FOOTER: DO NOT REMOVE THIS LINE-->
 ---
 
 <div align="center">

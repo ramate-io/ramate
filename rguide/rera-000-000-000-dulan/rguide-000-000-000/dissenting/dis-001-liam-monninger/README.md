@@ -1,7 +1,7 @@
 # DIS-1: Liam Monninger
 - **Authors:** [Liam Monninger](mailto:liam@ramate.io)
 
-<!--OAC FOOTER: DO NOT REMOVE THIS LINE-->
+<!--RAMATE FOOTER: DO NOT REMOVE THIS LINE-->
 ---
 
 <div align="center">

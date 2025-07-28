@@ -75,7 +75,7 @@ As described in [RGOV-0](../../rgov/rera-000-000-000-dulan/rgov-000-000-000/READ
 ## Appendix
 $\emptyset$
 
-<!--OAC FOOTER: DO NOT REMOVE THIS LINE-->
+<!--RAMATE FOOTER: DO NOT REMOVE THIS LINE-->
 ---
 
 <div align="center">

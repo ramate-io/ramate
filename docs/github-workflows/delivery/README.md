@@ -1,7 +1,7 @@
 # Delivery
 Delivery workflows are concerned with delivering changes.
 
-<!--OAC FOOTER: DO NOT REMOVE THIS LINE-->
+<!--RAMATE FOOTER: DO NOT REMOVE THIS LINE-->
 ---
 
 <div align="center">

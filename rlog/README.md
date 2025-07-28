@@ -4,7 +4,7 @@
 ## [RLOG: RERA-0: DULAN](rera-000-000-000-dulan/README.md)
 - **[RLOG-0](/rlog/rera-000-000-000-dulan/rlog-000-000-000/README.md):** some playing around with combinatorics from BFA paper for [RPRE-0](/rpre/rera-000-000-000-dulan/rpre-000-000-000/README.md) and similar.
 
-<!--OAC FOOTER: DO NOT REMOVE THIS LINE-->
+<!--RAMATE FOOTER: DO NOT REMOVE THIS LINE-->
 ---
 
 <div align="center">

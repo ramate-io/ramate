@@ -107,7 +107,7 @@ c'(n, k) = \sum_{h = 2k + 1}^{\min(3k + 1, 2n + 1)} \binom{n}{h} \cdot \binom{n}
 \end{aligned}
 ```
 
-<!--OAC FOOTER: DO NOT REMOVE THIS LINE-->
+<!--RAMATE FOOTER: DO NOT REMOVE THIS LINE-->
 ---
 
 <div align="center">

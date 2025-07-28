@@ -3,7 +3,7 @@
 ## RPROCs
 - **[RPROC-0](/rproc/rera-000-000-000-dulan/rproc-000-000-000/README.md):** an aspirational statement of initial intent for OAC: building decentralized consequence.
 
-<!--OAC FOOTER: DO NOT REMOVE THIS LINE-->
+<!--RAMATE FOOTER: DO NOT REMOVE THIS LINE-->
 ---
 
 <div align="center">

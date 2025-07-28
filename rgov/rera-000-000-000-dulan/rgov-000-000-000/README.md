@@ -44,7 +44,7 @@ We assert there is no precedence for interpretation owing to the lack of [contin
 ## Appendix
 $\emptyset$
 
-<!--OAC FOOTER: DO NOT REMOVE THIS LINE-->
+<!--RAMATE FOOTER: DO NOT REMOVE THIS LINE-->
 ---
 
 <div align="center">

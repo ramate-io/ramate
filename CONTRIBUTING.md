@@ -11,7 +11,7 @@ To produce and maintain these [Artifacts](./rglo/rera-000-000-000-dulan/rglo-000
 | [Release Candidates](https://github.com/ramate-io/oac/issues?q=is%3Aissue%20state%3Aopen%20label%3Arelease-candidate) | Feature-complete versions linked to events. |
 | [Features & Bugs](https://github.com/ramate-io/oac/issues?q=is%3Aissue%20state%3Aopen%20label%3Afeature%2Cbug%20label%3Apriority%3Aurgent%2Cpriority%3Ahigh) | High-priority `feature` and `bug` issues. |
 
-<!--OAC FOOTER: DO NOT REMOVE THIS LINE-->
+<!--RAMATE FOOTER: DO NOT REMOVE THIS LINE-->
 ---
 
 <div align="center">

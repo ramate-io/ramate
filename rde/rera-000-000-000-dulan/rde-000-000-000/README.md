@@ -34,7 +34,7 @@ In addition to drafting individual [Artifacts](../../../rglo/rera-000-000-000-du
 ## Appendix
 $\emptyset$
 
-<!--OAC FOOTER: DO NOT REMOVE THIS LINE-->
+<!--RAMATE FOOTER: DO NOT REMOVE THIS LINE-->
 ---
 
 <div align="center">
