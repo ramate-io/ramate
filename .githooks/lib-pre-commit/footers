@@ -12,7 +12,7 @@ status() {
     fi
 }
 
-echo "Running pre-commit hook: Managing OAC footer in markdown files..."
+echo "Running pre-commit hook: Managing RAMATE footer in markdown files..."
 
 # Find all tracked markdown files in the repository, excluding template files
 FILES=$(git ls-files --cached --exclude-standard -- '*.md' | grep -v '\.template\.md$')
@@ -39,7 +39,7 @@ for file in $FILES; do
     # Remove existing footer if present and clean up whitespace
     awk '
         BEGIN { in_footer=0; last_was_empty=0 }
-        /<!--OAC FOOTER: DO NOT REMOVE THIS LINE-->/ { in_footer=1; next }
+        /<!--RAMATE FOOTER: DO NOT REMOVE THIS LINE-->/ { in_footer=1; next }
         in_footer && /^--$/ { next }
         in_footer && /^<h5>/ { next }
         in_footer && /^<\/h5>/ { in_footer=0; next }
