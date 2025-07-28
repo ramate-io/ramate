@@ -33,13 +33,19 @@ jobs:
     - name: Get latest commit message
       id: get_commit_msg
       run: |
+        COMMIT_MSG=""
         if [ -n "$GITHUB_EVENT_PATH" ]; then
-          COMMIT_MSG=$(jq -r '.head_commit.message // .commits[0].message // empty' "$GITHUB_EVENT_PATH")
+          # Try push event, then PR event
+          COMMIT_MSG=$(jq -r '.head_commit.message // .commits[0].message // .pull_request.title // .pull_request.body // empty' "$GITHUB_EVENT_PATH")
         fi
-        if [ -z "$COMMIT_MSG" ]; then
-          COMMIT_MSG=$(git log -1 --pretty=%B)
+        # Fallback to git log if still empty and .git exists
+        if [ -z "$COMMIT_MSG" ] && [ -d .git ]; then
+          COMMIT_MSG=$(git log -1 --pretty=%B || true)
         fi
-        echo "GITHUB_COMMIT_MESSAGE=$COMMIT_MSG" >> $GITHUB_ENV
+        # Always set the env var, even if empty, using multi-line safe syntax
+        echo "GITHUB_COMMIT_MESSAGE<<EOF" >> $GITHUB_ENV
+        echo "${COMMIT_MSG}" >> $GITHUB_ENV
+        echo "EOF" >> $GITHUB_ENV
     - uses: actions/github-script@v7
       with:
         script: |
