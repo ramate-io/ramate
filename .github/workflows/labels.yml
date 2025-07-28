@@ -7,6 +7,7 @@ on:
   push:
     paths:
     - '.github/workflows/labels.yml'
+  workflow_dispatch:
 
 jobs:
   create-labels:
@@ -33,8 +34,35 @@ jobs:
       with:
         script: |
           const labels = JSON.parse(process.env.LABELS_JSON);
+          const labelNames = labels.map(l => l.name);
+
+          // Remove labels not in LABELS_JSON if on main
+          if (process.env.GITHUB_REF === 'refs/heads/main' || process.env.GITHUB_REF_NAME === 'main') {
+            const existingLabels = await github.paginate(github.rest.issues.listLabelsForRepo, {
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              per_page: 100
+            });
+            for (const existing of existingLabels) {
+              if (!labelNames.includes(existing.name)) {
+                try {
+                  await github.rest.issues.deleteLabel({
+                    owner: context.repo.owner,
+                    repo: context.repo.repo,
+                    name: existing.name
+                  });
+                  console.log(`Deleted label '${existing.name}' not in LABELS_JSON.`);
+                } catch (error) {
+                  console.error(`Error deleting label '${existing.name}': ${error}`);
+                  throw error;
+                }
+              }
+            }
+          }
+
           for (const label of labels) {
             try {
+              // Try to create the label
               await github.rest.issues.createLabel({
                 owner: context.repo.owner,
                 repo: context.repo.repo,
@@ -42,13 +70,28 @@ jobs:
                 description: label.description || '',
                 color: label.color
               });
+              console.log(`Created label '${label.name}'.`);
             } catch (error) {
-              // Check if the error is because the label already exists
-              if (error.status === 422) {
-                console.log(`Label '${label.name}' already exists. Skipping.`);
+              // If label exists, update it
+              if (error.status === 422 && error.message && error.message.includes('already exists')) {
+                try {
+                  await github.rest.issues.updateLabel({
+                    owner: context.repo.owner,
+                    repo: context.repo.repo,
+                    name: label.name,
+                    new_name: label.name,
+                    description: label.description || '',
+                    color: label.color
+                  });
+                  console.log(`Updated label '${label.name}'.`);
+                } catch (updateError) {
+                  console.error(`Error updating label '${label.name}': ${updateError}`);
+                  throw updateError;
+                }
               } else {
-                // Log other errors
+                // Log and throw other errors
                 console.error(`Error creating label '${label.name}': ${error}`);
+                throw error;
               }
             }
           }
