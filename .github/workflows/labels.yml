@@ -36,6 +36,11 @@ jobs:
           const labels = JSON.parse(process.env.LABELS_JSON);
           const labelNames = labels.map(l => l.name);
 
+          // Helper to robustly detect 'already_exists' error
+          function isAlreadyExistsError(error) {
+            return error.code === 'already_exists';
+          }
+
           // Remove labels not in LABELS_JSON if on main
           if (process.env.GITHUB_REF === 'refs/heads/main' || process.env.GITHUB_REF_NAME === 'main') {
             const existingLabels = await github.paginate(github.rest.issues.listLabelsForRepo, {
@@ -71,12 +76,7 @@ jobs:
               });
               console.log(`Created label '${label.name}'.`);
             } catch (error) {
-              // Only check for 'already_exists' code in error.errors
-              const alreadyExists =
-                error.status === 422 &&
-                Array.isArray(error.errors) &&
-                error.errors.some(e => e.code === 'already_exists' && e.field === 'name');
-              if (alreadyExists) {
+              if (isAlreadyExistsError(error)) {
                 console.log(`Label '${label.name}' already exists. Attempting to update...`);
                 try {
                   await github.rest.issues.updateLabel({
