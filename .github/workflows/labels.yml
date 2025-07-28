@@ -1,6 +1,5 @@
 # Originally based on: https://til.simonwillison.net/github-actions/creating-github-labels
 #
-#
 name: Update repository labels
 
 on:
