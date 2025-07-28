@@ -1,6 +1,6 @@
 # Originally based on: https://til.simonwillison.net/github-actions/creating-github-labels
 #
-name: Manage labels
+name: Labels
 
 on:
   push:
