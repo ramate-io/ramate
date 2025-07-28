@@ -72,8 +72,9 @@ jobs:
               });
               console.log(`Created label '${label.name}'.`);
             } catch (error) {
-              // If label exists, update it
+              // If label exists, log and try to update
               if (error.status === 422 && error.message && error.message.includes('already exists')) {
+                console.log(`Label '${label.name}' already exists. Attempting to update...`);
                 try {
                   await github.rest.issues.updateLabel({
                     owner: context.repo.owner,
