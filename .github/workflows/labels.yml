@@ -38,6 +38,7 @@ jobs:
 
           // Helper to robustly detect 'already_exists' error
           function isAlreadyExistsError(error) {
+            console.log(`Error field: ${error.status}`);
             return error.status === 'already_exists';
           }
 
