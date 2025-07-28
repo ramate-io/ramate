@@ -1,0 +1,52 @@
+# Originally based on: https://til.simonwillison.net/github-actions/creating-github-labels
+name: Update repository labels
+
+on:
+  push:
+    paths:
+    - '.github/workflows/labels.yml'
+
+jobs:
+  create-labels:
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+    env:
+      LABELS_JSON: |
+        [
+          {"name": "event", "color": "3cc225", "description": "A release, demonstration, or similar placed on a target date. All issues are usually justified up to events."},
+          {"name": "release-candidate", "color": "25c2b5", "description": "An intended update to software, documentation, or similar which constitutes a new usable version thereof. Release candidates are typically the immediate children of events through which all other issues are mapped to events."},
+          {"name": "feature", "color": "85c98e", "description": "Describes new behavior."},
+          {"name": "bug", "color": "c98f85", "description": "Describes behavior which needs to be fixed."},
+          {"name": "docs", "color": "85b0c9", "description": "Describes important updates to documentation."},
+          {"name": "delivery", "color": "85c9b9", "description": "Describes important updates to delivery mechanisms."},
+          {"name": "validation", "color": "b785c9", "description": "Describes important updates to validation mechanisms."},
+          {"name": "priority:low", "color": "298ef2", "description": "Ops task"},
+          {"name": "priority:medium", "color": "f28729", "description": "Ops task"},
+          {"name": "priority:high", "color": "f22929", "description": "Related to GitHub Actions CI"},
+          {"name": "priority:urgent", "color": "c842f5", "description": "Demo label"}
+        ]
+    steps:
+    - uses: actions/github-script@v7
+      with:
+        script: |
+          const labels = JSON.parse(process.env.LABELS_JSON);
+          for (const label of labels) {
+            try {
+              await github.rest.issues.createLabel({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                name: label.name,
+                description: label.description || '',
+                color: label.color
+              });
+            } catch (error) {
+              // Check if the error is because the label already exists
+              if (error.status === 422) {
+                console.log(`Label '${label.name}' already exists. Skipping.`);
+              } else {
+                // Log other errors
+                console.error(`Error creating label '${label.name}': ${error}`);
+              }
+            }
+          }
