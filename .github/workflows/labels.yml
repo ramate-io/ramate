@@ -62,7 +62,6 @@ jobs:
 
           for (const label of labels) {
             try {
-              // Try to create the label
               await github.rest.issues.createLabel({
                 owner: context.repo.owner,
                 repo: context.repo.repo,
@@ -72,8 +71,12 @@ jobs:
               });
               console.log(`Created label '${label.name}'.`);
             } catch (error) {
-              // If label exists, log and try to update
-              if (error.status === 422 && error.message && error.message.includes('already exists')) {
+              // Only check for 'already_exists' code in error.errors
+              const alreadyExists =
+                error.status === 422 &&
+                Array.isArray(error.errors) &&
+                error.errors.some(e => e.code === 'already_exists' && e.field === 'name');
+              if (alreadyExists) {
                 console.log(`Label '${label.name}' already exists. Attempting to update...`);
                 try {
                   await github.rest.issues.updateLabel({
