@@ -38,8 +38,18 @@ jobs:
 
           // Helper to robustly detect 'already_exists' error
           function isAlreadyExistsError(error) {
-            console.log(`Error field: ${error.status}`);
-            return error.status === 'already_exists';
+            // Directly on the error object
+            if (error && error.code === 'already_exists') return true;
+            // In error.errors array
+            if (Array.isArray(error.errors) && error.errors.some(e => e.code === 'already_exists')) return true;
+            // In error.response.data.errors array
+            if (
+              error.response &&
+              error.response.data &&
+              Array.isArray(error.response.data.errors) &&
+              error.response.data.errors.some(e => e.code === 'already_exists')
+            ) return true;
+            return false;
           }
 
           // Remove labels not in LABELS_JSON if on main
