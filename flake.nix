@@ -23,7 +23,7 @@
 
         # An LLVM build environment
         dependencies = with pkgs; [
-          codespell
+          vale
           chafa
           perl
           llvmPackages.bintools

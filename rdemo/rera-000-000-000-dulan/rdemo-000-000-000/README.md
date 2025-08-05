@@ -7,7 +7,7 @@ Ordered Atomic Collaboration is a paradigm for decentralized consequence. OAC di
 ## Proclamation
 Ordered Atomic Collaboration is a paradigm for decentralized consequence.
 
-OAC imagines a technrlogical future wherein the value of secure compute over shared state is understood not in terms of participation for gain--but in terms of economies rendered against maliciousness. These economies form consequence from decentralized participation; they induce an order which becomes preferential to alternatives.
+OAC imagines a technological future wherein the value of secure compute over shared state is understood not in terms of participation for gain--but in terms of economies rendered against maliciousness. These economies form consequence from decentralized participation; they induce an order which becomes preferential to alternatives.
 
 ### Why OAC?
 OAC is ordered atomic collaboration:
@@ -15,7 +15,7 @@ OAC is ordered atomic collaboration:
 - OAC is **atomic** because these state transitions must either always complete or always fail.
 - OAC is **collaborative** because it seeks decentralized participation to produce economics against maliciousness.
 
-### How do OAC's objectives differ from existing technrlogies?
+### How do OAC's objectives differ from existing technologies?
 OAC skews away from traditional and popular decentralized and distributed compute in several ways:
 
 #### I1: Large footprint

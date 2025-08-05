@@ -12,45 +12,90 @@ status() {
     fi
 }
 
-echo "Running pre-commit hook: Spell checking..."
+echo "Running pre-commit hook: Vale prose linting..."
 
-# Check if codespell is available
-if ! command -v codespell &> /dev/null; then
-    echo "❌ codespell command not found. Please install it first."
+# Check if Vale is available
+if ! command -v vale &> /dev/null; then
+    echo "❌ Vale command not found. Please install it first."
     exit 1
 fi
 
-# Run codespell on all tracked files, excluding some common false positives
-# and files that shouldn't be spell-checked
-echo "🔍 Checking spelling in tracked files..."
+# Check if Vale config exists
+if [ ! -f ".vale.ini" ] && [ ! -f "_vale.ini" ] && [ ! -f "vale.ini" ]; then
+    echo "⚠️  No Vale configuration found. Creating a basic .vale.ini file..."
+    cat > .vale.ini << 'EOF'
+# Vale configuration file
+# See https://vale.sh/docs/topics/config/ for more options
 
-# Get list of tracked files, excluding binary files and common false positive locations
-FILES=$(git ls-files --cached --exclude-standard | grep -E '\.(md|txt|yml|yaml|toml|rs|py|sh|nix)$' | grep -v -E '\.(lock|b64)$')
+StylesPath = .vale/styles
+
+MinAlertLevel = suggestion
+
+# Packages to install with 'vale sync'
+Packages = Microsoft, write-good
+
+# Global settings
+[*]
+# Basic Vale rules that work without external packages
+BasedOnStyles = Vale
+
+# Markdown-specific settings
+[*.md]
+BasedOnStyles = Vale, Microsoft, write-good
+
+# Text files
+[*.txt]
+BasedOnStyles = Vale, Microsoft, write-good
+
+# RestructuredText
+[*.rst]
+BasedOnStyles = Vale, Microsoft, write-good
+EOF
+    echo "📝 Created .vale.ini configuration file"
+fi
+
+# Ensure styles directory exists and sync packages if needed
+if [ ! -d ".vale/styles" ]; then
+    echo "📁 Creating .vale/styles directory..."
+    mkdir -p .vale/styles
+fi
+
+# Check if styles need to be synced
+if [ -f ".vale.ini" ] && [ ! -f ".vale/styles/.packages" ]; then
+    echo "📦 Syncing Vale packages (first time setup)..."
+    if vale sync; then
+        echo "✅ Vale packages synced successfully"
+    else
+        echo "⚠️  Failed to sync Vale packages, continuing with basic rules only"
+    fi
+fi
+
+echo "🔍 Running Vale on prose files..."
+
+# Get list of tracked prose files
+FILES=$(git ls-files --cached --exclude-standard | grep -E '\.(md|txt|rst|adoc|asciidoc)$')
 
 if [ -z "$FILES" ]; then
-    echo "📭 No text files found to spell check."
+    echo "📭 No prose files found to lint."
     exit 0
 fi
 
 # Count files for progress
 TOTAL_FILES=$(echo "$FILES" | wc -l | tr -d ' ')
-echo "📝 Found $TOTAL_FILES files to check"
+echo "📝 Found $TOTAL_FILES prose files to check"
 
-# Run codespell with some common options:
-# --check-filenames: also check filenames for typos
-# --skip: skip files/patterns that commonly have false positives
-# --quiet-level=2: only show errors, not warnings
-# --count: show number of errors found
-if codespell \
-    --check-filenames \
-    --skip="*.lock,*.b64,*.png,*.jpg,*.jpeg,*.gif,*.ico,*.svg" \
-    --quiet-level=2 \
-    --count \
-    $FILES; then
-    echo "✨ Spell check completed successfully!"
+# Run Vale with options:
+# --no-exit: don't exit with error code on warnings
+# --output=line: use line-based output format for better readability
+# --sort: sort output by filename
+if vale --output=line --sort $FILES; then
+    echo "✨ Vale prose linting completed successfully!"
     exit 0
 else
-    echo "❌ Spell check found issues. Please fix the typos above and try again."
-    echo "💡 Tip: You can add words to a .codespellrc file or use # codespell:ignore comments for false positives"
+    echo "❌ Vale found prose issues. Please review and fix the issues above."
+    echo "💡 Tips:"
+    echo "   - Add custom rules to .vale.ini"
+    echo "   - Use <!-- vale off --> and <!-- vale on --> to disable checks in sections"
+    echo "   - Install additional style packages with 'vale sync'"
     exit 1
 fi
