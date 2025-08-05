@@ -39,3 +39,5 @@ pipelining
 Thro
 walkthrough
 implementer
+Wardley
+geometrization
