@@ -13,7 +13,7 @@ All other artifacts are either "Proposed" or "Revoked" and their status is refle
 
 ## Usage
 - All Artifacts in this repository SHALL have been subjected to pull-request review.
-- The deliverable output of OAC is its Artifacts.
+- The deliverable output of Ramate includes its Artifacts.
 
 ## Agreeing
 - **[AGR-1: Liam Monninger](./agreeing/agr-001-liam-monninger/README.md):** argues that the delegation to [Ramate LLC's](https://www.ramate.io) suits this early developmental phase ([Liam Monninger](mailto:liam@ramate.io)).

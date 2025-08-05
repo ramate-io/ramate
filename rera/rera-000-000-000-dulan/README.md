@@ -17,7 +17,9 @@
 ## Naming
 
 ## Governance
-As described in [RGOV-0](../../rgov/rera-000-000-000-dulan/rgov-000-000-000/README.md), in the Dulan Era, the defined governance of OAC concerns purely the acceptance of [Artifacts](../../rglo/rera-000-000-000-dulan/rglo-000-000-000-artifact/README.md) in this repository, for which [Ramate LLC](https://www.ramate.io) is the sole governing party. [Ramate LLC](https://www.ramate.io) may decide on its own terms which [Artifacts](../../rglo/rera-000-000-000-dulan/rglo-000-000-000-artifact/README.md) to accept. Currently, [Ramate LLC's](https://www.ramate.io) decision making with respect to OAC is delegate by [RAGOV](https://github.com/ramate-io/ramate/tree/main/ragov) to the [`robles`](https://github.com/ramate-io/robles) project under [RRGOV](https://github.com/ramate-io/robles/tree/main/rrgov).
+As described in [RGOV-0](../../rgov/rera-000-000-000-dulan/rgov-000-000-000/README.md), in the Dulan Era, the defined governance of OAC concerns purely the acceptance of [Artifacts](../../rglo/rera-000-000-000-dulan/rglo-000-000-000-artifact/README.md) in this repository, for which [Ramate LLC](https://www.ramate.io) is the sole governing party. [Ramate LLC](https://www.ramate.io) may decide on its own terms which [Artifacts](../../rglo/rera-000-000-000-dulan/rglo-000-000-000-artifact/README.md) to accept.
+
+Currently, [Ramate LLC's](https://www.ramate.io) decision making with respect to OAC is delegate by [RGOV](https://github.com/ramate-io/ramate/tree/main/ragov) to the [`robles`](https://github.com/ramate-io/robles) project under [RRGOV](https://github.com/ramate-io/robles/tree/main/rrgov).
 
 > [!NOTE]
 >
