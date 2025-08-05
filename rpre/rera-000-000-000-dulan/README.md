@@ -1,7 +1,7 @@
 # OE-0: Dulan
 
 ## RPREs
-- **[RPRE-0](/rpre/rera-000-000-000-dulan/rpre-000-000-000/README.md):** an introduction to OAC for the prrspective contributor.
+- **[RPRE-0](/rpre/rera-000-000-000-dulan/rpre-000-000-000/README.md):** an introduction to OAC for the prospective contributor.
 
 <!--RAMATE FOOTER: DO NOT REMOVE THIS LINE-->
 ---
