@@ -22,53 +22,12 @@ fi
 
 # Check if Vale config exists
 if [ ! -f ".vale.ini" ] && [ ! -f "_vale.ini" ] && [ ! -f "vale.ini" ]; then
-    echo "⚠️  No Vale configuration found. Creating a basic .vale.ini file..."
-    cat > .vale.ini << 'EOF'
-# Vale configuration file
-# See https://vale.sh/docs/topics/config/ for more options
-
-StylesPath = .vale/styles
-
-MinAlertLevel = suggestion
-
-# Packages to install with 'vale sync'
-Packages = Microsoft, write-good
-
-# Global settings
-[*]
-# Basic Vale rules that work without external packages
-BasedOnStyles = Vale
-
-# Markdown-specific settings
-[*.md]
-BasedOnStyles = Vale, Microsoft, write-good
-
-# Text files
-[*.txt]
-BasedOnStyles = Vale, Microsoft, write-good
-
-# RestructuredText
-[*.rst]
-BasedOnStyles = Vale, Microsoft, write-good
-EOF
-    echo "📝 Created .vale.ini configuration file"
+    echo "❌ No Vale configuration found. Expected .vale.ini to be committed to the repository."
+    exit 1
 fi
 
-# Ensure styles directory exists and sync packages if needed
-if [ ! -d ".vale/styles" ]; then
-    echo "📁 Creating .vale/styles directory..."
-    mkdir -p .vale/styles
-fi
-
-# Check if styles need to be synced
-if [ -f ".vale.ini" ] && [ ! -f ".vale/styles/.packages" ]; then
-    echo "📦 Syncing Vale packages (first time setup)..."
-    if vale sync; then
-        echo "✅ Vale packages synced successfully"
-    else
-        echo "⚠️  Failed to sync Vale packages, continuing with basic rules only"
-    fi
-fi
+# Note: Vale configuration and vocabulary files are committed to the repository
+# No setup or sync steps needed
 
 echo "🔍 Running Vale on prose files..."
 
