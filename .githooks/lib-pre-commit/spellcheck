@@ -1,0 +1,56 @@
+#!/bin/bash
+
+set -e
+
+# Status helper function
+status() {
+    if [ $? -eq 0 ]; then
+        echo "✅ $1"
+    else
+        echo "❌ $1"
+        return 1
+    fi
+}
+
+echo "Running pre-commit hook: Spell checking..."
+
+# Check if codespell is available
+if ! command -v codespell &> /dev/null; then
+    echo "❌ codespell command not found. Please install it first."
+    exit 1
+fi
+
+# Run codespell on all tracked files, excluding some common false positives
+# and files that shouldn't be spell-checked
+echo "🔍 Checking spelling in tracked files..."
+
+# Get list of tracked files, excluding binary files and common false positive locations
+FILES=$(git ls-files --cached --exclude-standard | grep -E '\.(md|txt|yml|yaml|toml|rs|py|sh|nix)$' | grep -v -E '\.(lock|b64)$')
+
+if [ -z "$FILES" ]; then
+    echo "📭 No text files found to spell check."
+    exit 0
+fi
+
+# Count files for progress
+TOTAL_FILES=$(echo "$FILES" | wc -l | tr -d ' ')
+echo "📝 Found $TOTAL_FILES files to check"
+
+# Run codespell with some common options:
+# --check-filenames: also check filenames for typos
+# --skip: skip files/patterns that commonly have false positives
+# --quiet-level=2: only show errors, not warnings
+# --count: show number of errors found
+if codespell \
+    --check-filenames \
+    --skip="*.lock,*.b64,*.png,*.jpg,*.jpeg,*.gif,*.ico,*.svg" \
+    --quiet-level=2 \
+    --count \
+    $FILES; then
+    echo "✨ Spell check completed successfully!"
+    exit 0
+else
+    echo "❌ Spell check found issues. Please fix the typos above and try again."
+    echo "💡 Tip: You can add words to a .codespellrc file or use # codespell:ignore comments for false positives"
+    exit 1
+fi
