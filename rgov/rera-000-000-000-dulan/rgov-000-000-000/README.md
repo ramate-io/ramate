@@ -10,7 +10,11 @@
     - **[Appendix](#appendix)**
 
 ## Summary
-We establish that the objects of governance are [Artifacts](../../../rglo/rera-000-000-000-dulan/rglo-000-000-000-artifact/README.md) and [Ramate LLC](https://www.ramate.io) controls these artifacts.
+We adopt the standard proposed in **[OGOV-0](https://github.com/ramate-io/oac/blob/main/ogov/oera-000-000-000-dulan/ogov-000-000-000/README.md)**.
+
+We establish that the objects of governance are [Artifacts](../../../rglo/rera-000-000-000-dulan/rglo-000-000-000-artifact/README.md) and [Ramate LLC](https://www.ramate.io) controls these artifacts solely. Additionally, as [Liam Monninger](mailto:liam@ramate.io) is the sole memmer of Ramate LLC there are no non-trivial bylaws; all decisions are his.
+
+Finally, we delegate Ramate'd decision making w.r.t. its implementation of OAC protocols to the [`robles`](https://github.com/ramate-io/robles) project under [ROGOV](https://github.com/ramate-io/robles/tree/main/rogov).
 
 ## Continuity
 As the first RGOV, this document does not establish continuity with any previous regime.
@@ -26,11 +30,10 @@ The governing body SHALL make decisions on the inclusion of [Artifacts](../../..
 ### M2: [Ramate LLC](https://www.ramate.io) is the governing body.
 [Ramate LLC](https://www.ramate.io) SHALL retain the right to make decisions pursuant to [M1](#m1-artifacts-are-the-objects-of-governance) as it sees fit.
 
-> [!NOTE]
->
-> **[[Liam Monninger]](mailto:liam@ramate.io)**
->
-> Currently, [Ramate LLC's](https://www.ramate.io) decision making with respect to OAC is delegate by [RAGOV](https://github.com/ramate-io/ramate/tree/main/ragov) to the [`robles`](https://github.com/ramate-io/robles) project under [RRGOV](https://github.com/ramate-io/robles/tree/main/rrgov).
+### M3: [`robles`](https://github.com/ramate-io/robles) SHALL govern decisions concerning the implementation of OAC
+The implementation of [OAC](https://github.com/ramate-io/oac) protocols SHALL be governed by [`robles`](https://github.com/ramate-io/robles).
+
+This does not include [Ramate LLC's](https://www.ramate.io) decision making concerning its continued support of the project nor decision making within OAC under [Ramate LLC's](https://www.ramate.io). Instead, this simply refers to the governance of implementation decision-making.
 
 ## Interpretations
 We assert there is no precedence for interpretation owing to the lack of [continuity](#continuity).

@@ -1,6 +1,6 @@
 # RCERT-0: Self-certification of Ramate
 - **Authors:** [Liam Monninger](liam@ramate.io)
-- **Holder:** [OAC](https://github.com/ramate-io/oac)
+- **Holder:** [Ramate](https://github.com/ramate-io/ramate)
 - **Pubkey:** [`cafe3368`](./pub.key)
 - **Original issuer:** [RGOV-O: Founding](../../../rgov/rera-000-000-000-dulan/rgov-000-000-000/README.md)
 - **Contents:**
@@ -13,7 +13,7 @@
 ## Terms
 - **Contents:**
     - **[T1](#t1-self-endorsement):** Self-endorsement
-    - **[T2](#t2-correctness-of-oac-main):** Correctness of [OAC](https://github.com/ramate-io/oac) `main`
+    - **[T2](#t2-correctness-of-ramate-main):** Correctness of [OAC](https://github.com/ramate-io/ramate) `main`
 
 ### T1: Self-endorsement
 We hereby endorse this, the [Ramate](https://github.com/ramate-io) GitHub organization, as the valid developer of Ramate software.
