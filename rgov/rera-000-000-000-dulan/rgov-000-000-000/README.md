@@ -12,7 +12,7 @@
 ## Summary
 We adopt the standard proposed in **[OGOV-0](https://github.com/ramate-io/oac/blob/main/ogov/oera-000-000-000-dulan/ogov-000-000-000/README.md)**.
 
-We establish that the objects of governance are [Artifacts](../../../rglo/rera-000-000-000-dulan/rglo-000-000-000-artifact/README.md) and [Ramate LLC](https://www.ramate.io) controls these artifacts solely. Additionally, as [Liam Monninger](mailto:liam@ramate.io) is the sole memmer of Ramate LLC there are no non-trivial bylaws; all decisions are his.
+We establish that the objects of governance are [Artifacts](../../../rglo/rera-000-000-000-dulan/rglo-000-000-000-artifact/README.md) and [Ramate LLC](https://www.ramate.io) controls these artifacts solely. Additionally, as [Liam Monninger](mailto:liam@ramate.io) is the sole member of Ramate LLC there are no non-trivial bylaws; all decisions are his.
 
 Finally, we delegate Ramate'd decision making w.r.t. its implementation of OAC protocols to the [`robles`](https://github.com/ramate-io/robles) project under [ROGOV](https://github.com/ramate-io/robles/tree/main/rogov).
 

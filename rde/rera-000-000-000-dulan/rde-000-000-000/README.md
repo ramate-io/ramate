@@ -8,7 +8,7 @@
   - **[Appendix](#appendix)**
 
 ## Summary
-We apply the same premise ase [ODE-0](https://github.com/ramate-io/oac/blob/main/ode/oera-000-000-000-dulan/ode-000-000-000/README.md).
+We apply the same premise as [ODE-0](https://github.com/ramate-io/oac/blob/main/ode/oera-000-000-000-dulan/ode-000-000-000/README.md).
 
 ## Desiderata
 - **Contents:**

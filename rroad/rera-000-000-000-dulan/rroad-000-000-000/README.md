@@ -160,7 +160,7 @@ All of these implementations are part of [Ramate LLC's](https://www.ramate.io) [
     - **[T4.2](#t42-collaborate-with-stanford-colleague)**: Collaborate with Stanford colleague working with Mary Wooters on exotic probabilistic distributed VM
     - **[T4.3](#t43-begin-zhiye-implementation)**: Begin [`zhiye`](https://github.com/ramate-io/zhiye) implementation
 
-**T4** focuses on exploring exotic execution mrdels and probabilistic distributed systems for Ordered Atomic Collaboration (OAC).
+**T4** focuses on exploring exotic execution models and probabilistic distributed systems for Ordered Atomic Collaboration (OAC).
 
 **T4** seeks to accomplish the following itemized objectives:
 
@@ -324,7 +324,7 @@ All of these implementations are part of [Ramate LLC's](https://www.ramate.io) [
 #### T9.1: Update the governance of OAC for greater decentralization
 - **Lead:** [Liam Monninger](mailto:liam@ramate.io)
 
-We intend to push for greater decentralization of OAC governance. OAC should be organization whose development is guided openly and transparently by many parties. Just as our technrlogy derives consequence through participation, so to should the organization developing said technrlogy.
+We intend to push for greater decentralization of OAC governance. OAC should be organization whose development is guided openly and transparently by many parties. Just as our technology derives consequence through participation, so to should the organization developing said technology.
 
 In the very least, this update of governance should include moving OAC out from under [Ramate LLC's](https://www.ramate.io) governance if such has not already occurred.
 
