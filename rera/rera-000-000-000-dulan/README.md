@@ -17,7 +17,7 @@
 ## Naming
 
 ## Governance
-As described in [RGOV-0](../../rgov/rera-000-000-000-dulan/rgov-000-000-000/README.md), in the Dulan Era, the defined governance of OAC concerns purely the acceptance of [Artifacts](../../rglo/rera-000-000-000-dulan/rglo-000-000-000-artifact/README.md) in this repository, for which [Ramate LLC](https://www.ramate.io) is the sole governing party. [Ramate LLC](https://www.ramate.io) may decide on its own terms which [Artifacts](../../rglo/rera-000-000-000-dulan/rglo-000-000-000-artifact/README.md) to accept.
+As described in [RGOV-0](../../rgov/rera-000-000-000-dulan/rgov-000-000-000/README.md), in the Dulan Era, the governance of [Ramate LLC](https://www.ramate.io) relies on the individual decisions of the LLC's single member, [Liam Monninger](mailto:liam@ramate.io). We do, however, ascribe to several standards concerning organization and transparency.
 
 Currently, [Ramate LLC's](https://www.ramate.io) decision making with respect to OAC is delegate by [RGOV](https://github.com/ramate-io/ramate/tree/main/ragov) to the [`robles`](https://github.com/ramate-io/robles) project under [RRGOV](https://github.com/ramate-io/robles/tree/main/rrgov).
 
@@ -25,7 +25,7 @@ Currently, [Ramate LLC's](https://www.ramate.io) decision making with respect to
 >
 > **[[Liam Monninger]](mailto:liam@ramate.io)**
 >
-> At the time of writing, [Ramate LLC](https://www.ramate.io) is my single-member LLC. However, I have intentions both to expand the partnership and open up the governance of the [`robles`](https://github.com/ramate-io/robles).
+> At the time of writing, [Ramate LLC](https://www.ramate.io) is my single-member LLC. However, I have intentions both to expand the partnership and open up the governance of the [Robles](https://github.com/ramate-io/robles).
 
 ## Artifacts
 

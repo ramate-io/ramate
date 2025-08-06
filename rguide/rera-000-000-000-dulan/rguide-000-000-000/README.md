@@ -1,4 +1,4 @@
-# RGUIDE-0: Welcome to OAC in the Dulan Era!
+# RGUIDE-0: Welcome to Ramate in the Dulan Era!
 - **Authors:** [Liam Monninger](mailto:liam@ramate.io)
 - **Contents:**
   - **[Guide](#guide)**
@@ -7,13 +7,13 @@
   - **[Appendix](#appendix)**
 
 ## Guide
-OAC is just beginning as a project! We use a system for grouping work by periods we call [OAC Eras (RERA)](../../../rera/). The current era is [RERA-0: Dulan](../../../rera/rera-000-000-000-dulan/README.md) and is our very first.
+Ramate is just getting started as an organization, in an era we call the **Dulan Era**.
 
-To kick off the **Dulan Era**, we made a proclamation about our intent to build systems of "decentralized consequence" called [RPROC-0: Decentralized Consequence](../../../rproc/rera-000-000-000-dulan/rproc-000-000-000/README.md). This proclamation is key to understanding the motives behind this project. Read it!
+To kick off the **Dulan Era**, we made a proclamation about our intent to grow the organization with structure and diversity called [RPROC-0: An Adventure of Branches](../../../rproc/rera-000-000-000-dulan/rproc-000-000-000/README.md). This proclamation is key to understanding the motives of the organization. Read it!
 
-From [RPROC-0: Decentralized Consequence](../../../rproc/rera-000-000-000-dulan/rproc-000-000-000/README.md), we produced a roadmap, [RROAD-0: The Attempt](../../../rroad/rera-000-000-000-dulan/rroad-000-000-000/README.md), for validating the foundational concepts of the project. We recommend you read [RROAD-0: The Attempt](../../../rroad/rera-000-000-000-dulan/rroad-000-000-000/README.md) to understand how the project is being pursued.
+From [RPROC-0: An Adventure of Branches](../../../rproc/rera-000-000-000-dulan/rproc-000-000-000/README.md), we produced a roadmap, [RROAD-0: A Steward](../../../rroad/rera-000-000-000-dulan/rroad-000-000-000/README.md), for validating the foundational concepts of the project. We recommend you read [RROAD-0: A Steward](../../../rroad/rera-000-000-000-dulan/rroad-000-000-000/README.md) to understand how the project is being pursued.
 
-Once you've familiarized yourself with [RPROC-0: Decentralized Consequence](../../../rproc/rera-000-000-000-dulan/rproc-000-000-000/README.md) and [RROAD-0: The Attempt](../../../rroad/rera-000-000-000-dulan/rroad-000-000-000/README.md), take the time to read through the [RART index](../../../rart/). OAC is a conceptually oriented project--intended almost like a journal or academic institution; RART are our key conceptual outputs.
+Once you've familiarized yourself with [RPROC-0: An Adventure of Branches](../../../rproc/rera-000-000-000-dulan/rproc-000-000-000/README.md) and [RROAD-0: A Steward](../../../rroad/rera-000-000-000-dulan/rroad-000-000-000/README.md), take the time review the
 
 Once you've done the above, you should have a strong enough sense of the project to explore at will! Welcome aboard!
 
