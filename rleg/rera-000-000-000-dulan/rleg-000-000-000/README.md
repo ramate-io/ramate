@@ -9,7 +9,7 @@
   - **[Appendix](#appendix)**
 
 ## Summary
-OAC is provided under an [MIT License](https://opensource.org/license/mit).
+Ramate is provided under an [MIT License](https://opensource.org/license/mit). We will generally attempt to use this license as much as possible throughout the organization.
 
 ## Documents
 - **Contents:**

@@ -9,13 +9,13 @@
 ## Guide
 Ramate is just getting started as an organization, in an era we call the **Dulan Era**.
 
-To kick off the **Dulan Era**, we made a proclamation about our intent to grow the organization with structure and diversity called [RPROC-0: An Adventure of Branches](../../../rproc/rera-000-000-000-dulan/rproc-000-000-000/README.md). This proclamation is key to understanding the motives of the organization. Read it!
+To kick off the **Dulan Era**, [Liam Monninger](mailto:liam@ramate.io) wrote a charter called [RPROC-0: An Adventure of Branches](../../../rproc/rera-000-000-000-dulan/rproc-000-000-000/README.md) which describes the intended mindset and scale of Ramate. Read it to get sense of the organization's character.
 
-From [RPROC-0: An Adventure of Branches](../../../rproc/rera-000-000-000-dulan/rproc-000-000-000/README.md), we produced a roadmap, [RROAD-0: A Steward](../../../rroad/rera-000-000-000-dulan/rroad-000-000-000/README.md), for validating the foundational concepts of the project. We recommend you read [RROAD-0: A Steward](../../../rroad/rera-000-000-000-dulan/rroad-000-000-000/README.md) to understand how the project is being pursued.
+[RPRE-0](/rpre/rera-000-000-000-dulan/rpre-000-000-000/) provides a more grounded but still aspirational introduction overview of the organizations beginnings. It was used to pitch Ramate amongst friends, family, and colleagues.
 
-Once you've familiarized yourself with [RPROC-0: An Adventure of Branches](../../../rproc/rera-000-000-000-dulan/rproc-000-000-000/README.md) and [RROAD-0: A Steward](../../../rroad/rera-000-000-000-dulan/rroad-000-000-000/README.md), take the time review the
+To get a sense of how Ramate is governing itself during this early era, read [RGOV-0](/rgov/rera-000-000-000-dulan/rgov-000-000-000/), which emphasizes the single-member LLC decision-making but with some commitments to standards of transparency.
 
-Once you've done the above, you should have a strong enough sense of the project to explore at will! Welcome aboard!
+Finally, we recommend hopping over to [OAC](https://github.com/ramate-io/oac) and [Robles](https://github.com/ramate-io/robles) which are Ramate's flagship projects.
 
 ## Agreeing
 - **[AGR-1: Liam Monninger](./agreeing/agr-001-liam-monninger/README.md):** argues that guide describes the exploratory nature of this initial phase well ([Liam Monninger](mailto:liam@ramate.io)).
