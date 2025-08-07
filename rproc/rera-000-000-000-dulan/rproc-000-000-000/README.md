@@ -3,6 +3,9 @@
 - **Contents:**
   - **[Summary](#summary)**
   - **[Proclamation](#proclamation)**
+  - **[Agreeing](#agreeing)**
+  - **[Dissenting](#dissenting)**
+  - **[Appendix](#appendix)**
 
 ## Summary
 Ramate intends to stand for its namesake--as an organization with branches; one with structure, pragmatism, and divergence that operates; that is curious, steady, and small. Slowly, I ([Liam Monninger](mailto:liam@ramate.io)) endeavor to build the organization up as a guild for those fingerling pursuits which reach out towards the sun--which fan out boldly across the solution space and draw back to a humanistic trunk.
@@ -57,6 +60,15 @@ When our resources are tapped, we shall take it as a sign our role in the projec
 Whenever, Ramate should remain a body small and tightly-coupled enough that one knows personally all of the personalities in the organization.
 
 For all that I have said, little is certain. This shall be an adventure--an adventure of branches.
+
+## Agreeing
+$\emptyset$
+
+## Dissenting
+$\emptyset$
+
+## Appendix
+$\emptyset$
 
 <!--RAMATE FOOTER: DO NOT REMOVE THIS LINE-->
 ---

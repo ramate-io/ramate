@@ -18,10 +18,10 @@ To get a sense of how Ramate is governing itself during this early era, read [RG
 Finally, we recommend hopping over to [OAC](https://github.com/ramate-io/oac) and [Robles](https://github.com/ramate-io/robles) which are Ramate's flagship projects.
 
 ## Agreeing
-- **[AGR-1: Liam Monninger](./agreeing/agr-001-liam-monninger/README.md):** argues that guide describes the exploratory nature of this initial phase well ([Liam Monninger](mailto:liam@ramate.io)).
+$\emptyset$
 
 ## Dissenting
-- **[DIS-1: Liam Monninger](./dissenting/dis-001-liam-monninger/README.md):** argues that the guide does not make it clear how to participate ([Liam Monninger](mailto:liam@ramate.io)).
+$\emptyset$
 
 ## Appendix
 $\emptyset$

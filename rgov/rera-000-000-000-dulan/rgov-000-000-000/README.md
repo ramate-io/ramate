@@ -35,7 +35,7 @@ We establish that the objects of governance are all the properties of [Ramate LL
 Thus, Ramate LLC SHALL henceforth make a best to effort to take all decisions which concern the objects of governance via the procedures defined in this repository.
 
 ### M2: [Ramate LLC](https://www.ramate.io) is the governing body.
-[Ramate LLC](https://www.ramate.io) SHALL retain the right to make decisions pursuant to [M1](#m1-artifacts-are-the-objects-of-governance) as it sees fit. As currently, [Ramate LLC](https://www.ramate.io) is a single-member LLC without any bylaws, no further specification is needed. All decisions are left to [Liam Monninger](mailto:liam@ramate.io).
+[Ramate LLC](https://www.ramate.io) SHALL retain the right to make decisions pursuant to [M1](#m1-the-objects-of-governance-are-the-ramate-llcs-properties-agreements-and-bylaws) as it sees fit. As currently, [Ramate LLC](https://www.ramate.io) is a single-member LLC without any bylaws, no further specification is needed. All decisions are left to [Liam Monninger](mailto:liam@ramate.io).
 
 ### M3: [Ramate LLC](https://www.ramate.io) SHALL publish the agreements to which it is party as [RLEG](/rleg/) to the maximum extent allowed by said agreements.
 In the event that [Ramate LLC](https://www.ramate.io) enters into any agreement with any party in any jurisdiction, including with the State itself, [Ramate LLC](https://www.ramate.io) SHALL  publish said agreement as an [RLEG](/rleg/) in this repository unless said agreement would otherwise prohibit.
@@ -62,10 +62,10 @@ This does not include [Ramate LLC's](https://www.ramate.io) decision making conc
 We assert there is no precedence for interpretation owing to the lack of [continuity](#continuity).
 
 ## Agreeing
-- **[AGR-1: Liam Monninger](./agreeing/agr-001-liam-monninger/README.md):** argues that the delegation to [Ramate LLC](https://www.ramate.io) suits this early developmental phase ([Liam Monninger](mailto:liam@ramate.io)).
+$\emptyset$
 
 ## Dissenting
-- **[DIS-1: Liam Monninger](./dissenting/dis-001-liam-monninger/README.md):** argues that the stipulations on [Ramate LLC's](https://www.ramate.io) internal governance are too light ([Liam Monninger](mailto:liam@ramate.io)).
+$\emptyset$
 
 ## Appendix
 $\emptyset$

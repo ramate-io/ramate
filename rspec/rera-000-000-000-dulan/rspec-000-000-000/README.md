@@ -1,6 +1,6 @@
 # RSPEC-0: Use, Organization, and Maintenance of the Ramate Repository
 - **Authors:** [Liam Monninger](mailto:liam@ramate.io)
-- **Desiderata:** [RDE-0](../../../rde/rera-000-000-000-dulan/rde-000-000-000/README.md)
+- **Desiderata:** [RDE-0](/rde/rera-000-000-000-dulan/rde-000-000-000/README.md)
 - **Contents:**
   - **[Summary](#summary)**
   - **[Motivation](#motivation)**
@@ -14,11 +14,11 @@
 We adopt standards analogous to [OSPEC-0](https://github.com/ramate-io/oac/tree/main/ospec/oera-000-000-000-dulan/ospec-000-000-000) for the use, organization, and maintenance of the Ramate Repository.
 
 ## Motivation
-[RDE-0](../../../rde/rera-000-000-000-dulan/rde-000-000-000/README.md) provides a clear motivation for the specification of the use, organization, and maintenance of the Ramate repository by reference to [ODE-0](https://github.com/ramate-io/oac/blob/main/ode/oera-000-000-000-dulan/ode-000-000-000/README.md). We adopt [OSPEC-0](https://github.com/ramate-io/oac/tree/main/ospec/oera-000-000-000-dulan/ospec-000-000-000) standards which itself naturally respond to [ODE-0](https://github.com/ramate-io/oac/blob/main/ode/oera-000-000-000-dulan/ode-000-000-000/README.md).
+[RDE-0](/rde/rera-000-000-000-dulan/rde-000-000-000/README.md) provides a clear motivation for the specification of the use, organization, and maintenance of the Ramate repository by reference to [ODE-0](https://github.com/ramate-io/oac/blob/main/ode/oera-000-000-000-dulan/ode-000-000-000/README.md). We adopt [OSPEC-0](https://github.com/ramate-io/oac/tree/main/ospec/oera-000-000-000-dulan/ospec-000-000-000) standards which itself naturally respond to [ODE-0](https://github.com/ramate-io/oac/blob/main/ode/oera-000-000-000-dulan/ode-000-000-000/README.md).
 
 ## Specification
 - **Contents:**
-  - **[S1](#s1-use-of--0-artifacts-as-templates):**
+  - **[S1](#s1-adoption-of-standards-analogous-to-ospec-0):** Adoption of standards analogous to [OSPEC-0](https://github.com/ramate-io/oac/tree/main/ospec/oera-000-000-000-dulan/ospec-000-000-000)
 
 ### S1: Adoption of standards analogous to [OSPEC-0](https://github.com/ramate-io/oac/tree/main/ospec/oera-000-000-000-dulan/ospec-000-000-000)
 We adopt standards analogous to [OSPEC-0](https://github.com/ramate-io/oac/tree/main/ospec/oera-000-000-000-dulan/ospec-000-000-000).
@@ -29,10 +29,10 @@ Where these standards do not clearly apply, raise a [Discussion](https://github.
 We assert this is an arbitrary and adaptive standard that contains no obvious contradictions. We admit improvements to this standard when contradictions arise.
 
 ## Agreeing
-- **[AGR-1: Liam Monninger](./agreeing/agr-001-liam-monninger/README.md):** argues that guide describes the exploratory nature of this initial phase well ([Liam Monninger](mailto:liam@ramate.io)).
+$\emptyset$
 
 ## Dissenting
-- **[DIS-1: Liam Monninger](./dissenting/dis-001-liam-monninger/README.md):** argues that the guide does not make it clear how to participate ([Liam Monninger](mailto:liam@ramate.io)).
+$\emptyset$
 
 ## Appendix
 $\emptyset$

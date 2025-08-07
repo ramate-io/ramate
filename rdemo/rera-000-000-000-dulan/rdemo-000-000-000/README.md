@@ -1,10 +1,18 @@
 # RDEMO-0: The Ramate Repository
 - **Authors:** [Liam Monninger](mailto:liam@ramate.io)
 
-> [!WARN]
-> **[[Liam Monninger](mailto:liam@ramate.io)]**
->
-> **TODO**
+## Summary
+
+## Proclamation
+
+## Agreeing
+$\emptyset$
+
+## Dissenting
+$\emptyset$
+
+## Appendix
+$\emptyset$
 
 <!--RAMATE FOOTER: DO NOT REMOVE THIS LINE-->
 ---

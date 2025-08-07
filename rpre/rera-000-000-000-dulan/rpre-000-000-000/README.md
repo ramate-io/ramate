@@ -16,10 +16,10 @@ The linked deck and presentation describe Ramate's long-term aspirations, its cu
 > For those interested in digging into the conceptual basis for Ramate's initial pursuits, we recommend checking out [OAC](https://www.github.com/ramate-io/oac), particularly [OPRE-0](http://github.com/ramate-io/oac/tree/main/opre/oera-000-000-000-dulan/opre-000-000-000).
 
 ## Agreeing
-- **[AGR-1: Liam Monninger](./agreeing/agr-001-liam-monninger/README.md):** argues that guide describes the exploratory nature of this initial phase well ([Liam Monninger](mailto:liam@ramate.io)).
+$\emptyset$
 
 ## Dissenting
-- **[DIS-1: Liam Monninger](./dissenting/dis-001-liam-monninger/README.md):** argues that the guide does not make it clear how to participate ([Liam Monninger](mailto:liam@ramate.io)).
+$\emptyset$
 
 ## Appendix
 $\emptyset$

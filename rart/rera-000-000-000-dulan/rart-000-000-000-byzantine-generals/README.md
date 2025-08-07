@@ -20,12 +20,14 @@
 ## Justification
 This approach to describing organizational intelligence--both in its form and in the process described by Simon Wardley in [Wardley Maps](https://github.com/HiredThought/wardley-maps-ebook/raw/main/bin/Wardley%20Maps%20-%20Simon%20Wardley.pdf)--helps apply special reasoning into the context of business intelligence. We believe this can be a useful tool for strategy, tactics, and planning.
 
-## Appendix
+## Agreeing
 $\emptyset$
 
-## Agreeing
-
 ## Dissenting
+$\emptyset$
+
+## Appendix
+$\emptyset$
 
 <!--RAMATE FOOTER: DO NOT REMOVE THIS LINE-->
 ---
