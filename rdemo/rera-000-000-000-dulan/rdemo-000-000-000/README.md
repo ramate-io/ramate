@@ -1,4 +1,4 @@
-# RPROC-0: Decentralized Consequence
+# RDEMO-0: The Ramate Repository
 - **Authors:** [Liam Monninger](mailto:liam@ramate.io)
 
 ## Summary

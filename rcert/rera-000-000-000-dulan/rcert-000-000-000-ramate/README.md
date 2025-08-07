@@ -1,6 +1,6 @@
 # RCERT-0: Self-certification of Ramate
 - **Authors:** [Liam Monninger](liam@ramate.io)
-- **Holder:** [OAC](https://github.com/ramate-io/oac)
+- **Holder:** [Ramate](https://github.com/ramate-io/ramate)
 - **Pubkey:** [`cafe3368`](./pub.key)
 - **Original issuer:** [RGOV-O: Founding](../../../rgov/rera-000-000-000-dulan/rgov-000-000-000/README.md)
 - **Contents:**

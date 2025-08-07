@@ -1,7 +1,7 @@
 # OE-0: Dulan
 
 ## RGOVs
-**[RGOV-0](/rgov/rera-000-000-000-dulan/rgov-000-000-000/README.md):** describes the initial governance under [Ramate LLC](https://www.ramate.io).
+**[RGOV-0](/rgov/rera-000-000-000-dulan/rgov-000-000-000/README.md):** describes the initial governance of [Ramate LLC](https://www.ramate.io).
 
 <!--RAMATE FOOTER: DO NOT REMOVE THIS LINE-->
 ---

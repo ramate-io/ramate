@@ -1,7 +1,7 @@
 # OE-0: Dulan
 
 ## RCERTs
-**[RCERT-0: OAC](/rcert/rera-000-000-000-dulan/rcert-000-000-000-oac/README.md):** self-certifies this repository.
+**[RCERT-0: OAC](/rcert/rera-000-000-000-dulan/rcert-000-000-000-ramate/README.md):** self-certifies this repository.
 
 <!--RAMATE FOOTER: DO NOT REMOVE THIS LINE-->
 ---

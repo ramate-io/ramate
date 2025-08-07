@@ -1,4 +1,4 @@
-# RDE-0: Use, Organization, and Maintenance of the OAC Repository
+# RDE-0: Use, Organization, and Maintenance of the Ramate Repository
 - **Authors:** [Liam Monninger](mailto:liam@ramate.io)
 - **Contents:**
   - **[Summary](#summary)**
@@ -8,22 +8,14 @@
   - **[Appendix](#appendix)**
 
 ## Summary
-OAC has expressed intents to be a highly-organized project which is governed via this repository. As such, we request that use, organization, and maintenance of this repository be specified.
+We apply the same premise as [ODE-0](https://github.com/ramate-io/oac/blob/main/ode/oera-000-000-000-dulan/ode-000-000-000/README.md).
 
 ## Desiderata
 - **Contents:**
-  - **[D1](#d1-provide-templates-for-artifacts-and-describe-their-usage):** Provide templates for [Artifacts](../../../rglo/rera-000-000-000-dulan/rglo-000-000-000-artifact/README.md) and describe their usage
-  - **[D2](#d2-describe-the-overall-organization-of-the-artifacts):** Describe the overall organization of the [Artifacts](../../../rglo/rera-000-000-000-dulan/rglo-000-000-000-artifact/README.md)
-  - **[D3](#d3-describe-responsibilities-for-maintenance-of-this-repository):** Describe responsibilities for maintenance of this repository
+  - **[D1](#d1-fulfill-requirements-analogous-to-ode-0):** Fulfill requirements analogous to **[ODE-0](https://github.com/ramate-io/oac/blob/main/ode/oera-000-000-000-dulan/ode-000-000-000/README.md)**
 
-### D1: Provide templates for [Artifacts](../../../rglo/rera-000-000-000-dulan/rglo-000-000-000-artifact/README.md) and describe their usage
-[RGOV-0](../../../rgov/rera-000-000-000-dulan/rgov-000-000-000/README.md) asserts that the objects of governance--and thus the decided output of this repository--are the [Artifacts](../../../rglo/rera-000-000-000-dulan/rglo-000-000-000-artifact/README.md). In order for contributors to effectively add to these [Artifacts](../../../rglo/rera-000-000-000-dulan/rglo-000-000-000-artifact/README.md), they must be informed how draft them and generally use them.
-
-### D2: Describe the overall organization of the [Artifacts](../../../rglo/rera-000-000-000-dulan/rglo-000-000-000-artifact/README.md)
-In addition to drafting individual [Artifacts](../../../rglo/rera-000-000-000-dulan/rglo-000-000-000-artifact/README.md), Contributors must also clearly understand how the artifacts should be organized with respect to each other. This includes placement in directories, indexing, source control, etc.
-
-### D3: Describe responsibilities for maintenance of this repository
-[Ramate LLC](https://www.ramate.io) has been identified as the organization responsible for governing this repository, which currently means addressing the inclusion of [Artifacts](../../../rglo/rera-000-000-000-dulan/rglo-000-000-000-artifact/README.md). In greater procedural detail, describe what this entails.
+### D1: Fulfill requirements analogous to [ODE-0](https://github.com/ramate-io/oac/blob/main/ode/oera-000-000-000-dulan/ode-000-000-000/README.md)
+For the sake of brevity, we simply requisite a mapping of requirements from **[ODE-0](https://github.com/ramate-io/oac/blob/main/ode/oera-000-000-000-dulan/ode-000-000-000/README.md)** onto this repository.
 
 ## Agreeing
 $\emptyset$
