@@ -16,7 +16,7 @@
   Ramate
 </h1>
 
-This repository contains organizational artifacts for [Ramate LLC](https://www.ramate.io).
+This repository contains artifacts for [Ramate LLC](https://www.ramate.io).
 
 We recommend those new to the organization review the latest [RGUIDE](./rguide/rera-000-000-000-dulan/rguide-000-000-000/README.md).
 
