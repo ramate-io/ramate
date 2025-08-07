@@ -13,7 +13,7 @@
 ## Terms
 - **Contents:**
     - **[T1](#t1-self-endorsement):** Self-endorsement
-    - **[T2](#t2-correctness-of-oac-main):** Correctness of [OAC](https://github.com/ramate-io/oac) `main`
+    - **[T2](#t2-correctness-of-ramate-main-branches):** Correctness of [OAC](https://github.com/ramate-io/oac) `main`
 
 ### T1: Self-endorsement
 We hereby endorse this, the [Ramate](https://github.com/ramate-io) GitHub organization, as the valid developer of Ramate software.
@@ -35,10 +35,10 @@ We stipulate that the validity of this certificate is subject to [RGOV](../../..
 We stipulate that the validity of this certificate depends upon its continued presence at the tip of [Ramate](https://github.com/ramate-io/ramate) repository's `main` branch. This certificate is an [Artifact](../../../rglo/rera-000-000-000-dulan/rglo-000-000-000-artifact/README.md) which becomes invalid when no longer included.
 
 ## Agreeing
-- **[AGR-1: Liam Monninger](./agreeing/agr-001-liam-monninger/README.md):** argues that guide describes the exploratory nature of this initial phase well ([Liam Monninger](mailto:liam@ramate.io)).
+$\emptyset$
 
 ## Dissenting
-- **[DIS-1: Liam Monninger](./dissenting/dis-001-liam-monninger/README.md):** argues that the guide does not make it clear how to participate ([Liam Monninger](mailto:liam@ramate.io)).
+$\emptyset$
 
 ## Appendix
 $\emptyset$

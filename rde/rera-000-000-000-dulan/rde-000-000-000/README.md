@@ -2,7 +2,7 @@
 - **Authors:** [Liam Monninger](mailto:liam@ramate.io)
 - **Contents:**
   - **[Summary](#summary)**
-  - **[Desiderata](#specification)**
+  - **[Desiderata](#desiderata)**
   - **[Agreeing](#agreeing)**
   - **[Dissenting](#dissenting)**
   - **[Appendix](#appendix)**
@@ -26,10 +26,10 @@ In addition to drafting individual [Artifacts](../../../rglo/rera-000-000-000-du
 [Ramate LLC](https://www.ramate.io) has been identified as the organization responsible for governing this repository, which currently means addressing the inclusion of [Artifacts](../../../rglo/rera-000-000-000-dulan/rglo-000-000-000-artifact/README.md). In greater procedural detail, describe what this entails.
 
 ## Agreeing
-- **[AGR-1: Liam Monninger](./agreeing/agr-001-liam-monninger/README.md):** argues that guide describes the exploratory nature of this initial phase well ([Liam Monninger](mailto:liam@ramate.io)).
+$\emptyset$
 
 ## Dissenting
-- **[DIS-1: Liam Monninger](./dissenting/dis-001-liam-monninger/README.md):** argues that the guide does not make it clear how to participate ([Liam Monninger](mailto:liam@ramate.io)).
+$\emptyset$
 
 ## Appendix
 $\emptyset$

@@ -33,12 +33,14 @@ This foundational paper informs [FLP Impossibility](https://groups.csail.mit.edu
 Separately, the [The Byzantine Generals Problem](./the-byzantine-generals-problem.pdf) describes the important theoretical realization that "the only way to
 reduce the cost is to make assumptions about the type of failure that may occur" (Lamport et al., 1982, p. 401). This realization sets the stage for all practical classes of fault-tolerant coordination protocol to follow and is an otherwise implicit assumption in our definitions of BFT-related protocol classes.
 
-## Appendix
+## Agreeing
 $\emptyset$
 
-## Agreeing
-
 ## Dissenting
+$\emptyset$
+
+## Appendix
+$\emptyset$
 
 <!--RAMATE FOOTER: DO NOT REMOVE THIS LINE-->
 ---
