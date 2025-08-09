@@ -45,7 +45,7 @@ The `ramate`, `oac`, and `robles` repositories are very similar structurally, bu
 > The last example of a VM adapter between some BFA subprotocol and some kind of Von Neumann/control flow virtual machine is a good one.
 >
 > - The specification for how this would generally be done correctly would be an [`ospec`](https://www.loom.com/share/41360faceca24d96af5909a568c8eec1?t=335&sid=1cf57144-c9b1-49c3-a827-2ae1bd466b64).
-> - The description of a business plan or need might be found as a line item in an [`rroad](https://github.com/ramate-io/ramate/tree/main/rroad)`.
+> - The description of a business plan or need might be found as a line item in an [`rroad`](https://github.com/ramate-io/ramate/tree/main/rroad).
 > - The specification for how to implement this as a component in [`fuste`](https://github.com/ramate-io/fuste) would be a [`rospec`](https://github.com/ramate-io/robles/tree/main/rospec).
 
 <!--RAMATE FOOTER: DO NOT REMOVE THIS LINE-->

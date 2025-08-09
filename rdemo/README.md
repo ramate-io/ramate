@@ -3,6 +3,7 @@ RDEMOs are demonstrations of Ramate technologies, processes, and similar.
 
 <!--START OAC INDEX: DO NOT REMOVE THIS LINE -->
 ## [RDEMO: RERA-0: DULAN](rera-000-000-000-dulan/README.md)
+- **[RDEMO-0: The Ramate Repository](/rdemo/rera-000-000-000-dulan/rdemo-000-000-000/):** demonstrates the use of this repository.
 
 <!--RAMATE FOOTER: DO NOT REMOVE THIS LINE-->
 ---
