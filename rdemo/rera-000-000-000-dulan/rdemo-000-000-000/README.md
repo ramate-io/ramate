@@ -1,4 +1,4 @@
-# RDEMO-0: Demonstrating the OAC Repository
+# RDEMO-0: The Ramate Repository
 - **Authors:** [Liam Monninger](mailto:liam@ramate.io)
 - **Recording:** [RDEMO-0: The Ramate Repository](https://www.loom.com/share/41360faceca24d96af5909a568c8eec1?sid=e57bf9bc-5590-4d3c-8eaf-44c6a99cb3a1)
 - **Transcript:** [Transcript](./Transcript.md)

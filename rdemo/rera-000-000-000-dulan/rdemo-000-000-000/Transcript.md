@@ -1,5 +1,5 @@
 # Transcript
-- **Authors:** [Liam Monninger](liam@ramate.io)
+- **Authors:** [Liam Monninger](mailto:liam@ramate.io)
 
 <!-- vale off -->
 00:00 Hey everybody, I'm gonna talk quickly through the Remate repository, provide a demo of how to use it, uhm, the bottom line is most of this is identical to, uhm, OAC, the artifact system is similar, uhm, when you're actually like working on editing, you're gonna work with a PixFlake that set up similar
@@ -39,28 +39,6 @@
 09:44 Okay, so that's, that's how these repositories which are similar in structure differ semantically and how they all come together. Hopefully that provides some initial motivation.
 09:59 Uhm, and hopefully this will this video on the whole gives a sense of how to use Remate and what you should do with it.
 <!-- vale on -->
-
-<!--OAC FOOTER: DO NOT REMOVE THIS LINE-->
----
-
-<div align="center">
-  <a href="https://github.com/ramate-io/oac">
-    <picture>
-      <source srcset="/assets/oac-inverted-transparent.png" media="(prefers-color-scheme: dark)">
-      <img height="24" src="/assets/oac-transparent.png" alt="OAC"/>
-    </picture>
-  </a>
-  <br/>
-  <sub>
-    <b>Ordered Atomic Collaboration (OAC)</b>
-    <br/>
-    &copy; 2025 <a href="https://github.com/ramate-io/oac">ramate-io/oac</a>
-    <br/>
-    <a href="https://github.com/ramate-io/oac/blob/main/LICENSE">MIT License</a>
-    <br/>
-    <a href="https://www.ramate.io">ramate.io</a>
-  </sub>
-</div>
 
 <!--RAMATE FOOTER: DO NOT REMOVE THIS LINE-->
 ---
