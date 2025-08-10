@@ -18,7 +18,8 @@
 
 This repository contains artifacts for [Ramate LLC](https://www.ramate.io).
 
-We recommend those new to the organization review the latest [RGUIDE](./rguide/rera-000-000-000-dulan/rguide-000-000-000/README.md).
+> [!TIP]
+> For those new to Robles, we recommending following **[RGUIDE-0](/rguide/rera-000-000-000-dulan/rguide-000-000-000/README.md)**.
 
 Our flagship project is [Robles](https://github.com/ramate-io/robles) which is an implementation of [OAC](https://github.com/ramate-io/oac) technologies. Ramate also governs the [OAC](https://github.com/ramate-io/oac) project.
 
@@ -29,9 +30,9 @@ Our flagship project is [Robles](https://github.com/ramate-io/robles) which is a
 
 | Task | Description |
 |------|-------------|
-| [Upcoming Events](https://github.com/ramate-io/oac/issues?q=is%3Aissue%20state%3Aopen%20label%3Apriority%3Ahigh%2Cpriority%3Amedium%20label%3Aevent) | High-priority `event` issues with planned completion dates. |
-| [Release Candidates](https://github.com/ramate-io/oac/issues?q=is%3Aissue%20state%3Aopen%20label%3Arelease-candidate) | Feature-complete versions linked to events. |
-| [Features & Bugs](https://github.com/ramate-io/oac/issues?q=is%3Aissue%20state%3Aopen%20label%3Afeature%2Cbug%20label%3Apriority%3Aurgent%2Cpriority%3Ahigh) | High-priority `feature` and `bug` issues. |
+| [Upcoming Events](https://github.com/ramate-io/ramate/issues?q=is%3Aissue%20state%3Aopen%20label%3Apriority%3Ahigh%2Cpriority%3Amedium%20label%3Aevent) | High-priority `event` issues with planned completion dates. |
+| [Release Candidates](https://github.com/ramate-io/ramate/issues?q=is%3Aissue%20state%3Aopen%20label%3Arelease-candidate) | Feature-complete versions linked to events. |
+| [Features & Bugs](https://github.com/ramate-io/ramate/issues?q=is%3Aissue%20state%3Aopen%20label%3Afeature%2Cbug%20label%3Apriority%3Aurgent%2Cpriority%3Ahigh) | High-priority `feature` and `bug` issues. |
 
 Please see [CONTRIBUTING.md](CONTRIBUTING.md) file for additional contribution guidelines.
 

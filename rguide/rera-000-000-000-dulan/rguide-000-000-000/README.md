@@ -7,13 +7,15 @@
   - **[Appendix](#appendix)**
 
 ## Guide
-Ramate is just getting started as an organization, in an era we call the **Dulan Era**.
+Ramate is just getting started as an organization. We call this era the **Dulan Era**.
 
 To kick off the **Dulan Era**, [Liam Monninger](mailto:liam@ramate.io) wrote a charter called [RPROC-0: An Adventure of Branches](../../../rproc/rera-000-000-000-dulan/rproc-000-000-000/README.md) which describes the intended mindset and scale of Ramate. Read it to get sense of the organization's character.
 
-[RPRE-0](/rpre/rera-000-000-000-dulan/rpre-000-000-000/) provides a more grounded but still aspirational introduction overview of the organizations beginnings. It was used to pitch Ramate amongst friends, family, and colleagues.
+[RPRE-0](/rpre/rera-000-000-000-dulan/rpre-000-000-000/README.md) provides a more grounded but still aspirational introduction overview of the organizations beginnings. It was used to pitch Ramate amongst friends, family, and colleagues.
 
 To get a sense of how Ramate is governing itself during this early era, read [RGOV-0](/rgov/rera-000-000-000-dulan/rgov-000-000-000/), which emphasizes the single-member LLC decision-making but with some commitments to standards of transparency.
+
+Once you've familiarized yourself with the above, you should be just about ready to contribute. To get to the nitty-gritty of how to do so, review [RDEMO-0](/rdemo/rera-000-000-000-dulan/rdemo-000-000-000/README.md).
 
 Finally, we recommend hopping over to [OAC](https://github.com/ramate-io/oac) and [Robles](https://github.com/ramate-io/robles) which are Ramate's flagship projects.
 

@@ -3,7 +3,7 @@ Description of RGLO
 
 <!--START OAC INDEX: DO NOT REMOVE THIS LINE -->
 ## [RGLO: RERA-0: DULAN](rera-000-000-000-dulan/README.md)
-- **[RGLO-0: Artifact](/rglo/rera-000-000-000-dulan/rglo-000-000-000-artifact/README.md):** defines the term Artifact which refers to the various O* documents.
+- **[RGLO-0: Artifact](/rglo/rera-000-000-000-dulan/rglo-000-000-000-artifact/README.md):** defines the term Artifact.
 
 <!--RAMATE FOOTER: DO NOT REMOVE THIS LINE-->
 ---

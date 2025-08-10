@@ -1,4 +1,4 @@
-# OE-0: Dulan
+# RERA-0: Dulan
 
 ## RSPECs
 - **[RSPEC-0](/rspec/rera-000-000-000-dulan/rspec-000-000-000/README.md):** a specification for how to use and maintain this repository.

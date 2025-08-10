@@ -1,7 +1,7 @@
-# OE-0: Dulan
+# RERA-0: Dulan
 
 ## RPROCs
-- **[RPROC-0](/rproc/rera-000-000-000-dulan/rproc-000-000-000/README.md):** an aspirational statement of initial intent for OAC: building decentralized consequence.
+- **[RPROC-0](/rproc/rera-000-000-000-dulan/rproc-000-000-000/README.md):** a philosophical charter about Ramate as an organization.
 
 <!--RAMATE FOOTER: DO NOT REMOVE THIS LINE-->
 ---
