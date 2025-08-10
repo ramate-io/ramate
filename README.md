@@ -19,7 +19,7 @@
 This repository contains artifacts for [Ramate LLC](https://www.ramate.io).
 
 > [!TIP]
-> For those new to Robles, we recommending following **[RGUIDE-0](/rguide/rera-000-000-000-dulan/rguide-000-000-000/README.md)**.
+> For those new to Ramate, we recommending following **[RGUIDE-0](/rguide/rera-000-000-000-dulan/rguide-000-000-000/README.md)**.
 
 Our flagship project is [Robles](https://github.com/ramate-io/robles) which is an implementation of [OAC](https://github.com/ramate-io/oac) technologies. Ramate also governs the [OAC](https://github.com/ramate-io/oac) project.
 
