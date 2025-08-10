@@ -2,7 +2,7 @@
 
 <!--START OAC INDEX: DO NOT REMOVE THIS LINE -->
 ## [RPRE: RERA-0: DULAN](rera-000-000-000-dulan/README.md)
-- **[RPRE-0](/rpre/rera-000-000-000-dulan/rpre-000-000-000/README.md):** an introduction to OAC for the prospective contributor.
+- **[RPRE-0](/rpre/rera-000-000-000-dulan/rpre-000-000-000/README.md):** provides an introduction to Ramate as a technology collective and business.
 
 <!--RAMATE FOOTER: DO NOT REMOVE THIS LINE-->
 ---
