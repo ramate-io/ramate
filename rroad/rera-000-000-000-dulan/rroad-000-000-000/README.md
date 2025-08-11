@@ -1,4 +1,4 @@
-# RROAD-0: To spin a yarn
+# RROAD-0: Gameplan
 - **Authors:** [Liam Monninger](liam@ramate.io)
 - **Contents:**
   - **[Summary](#summary)**
@@ -12,6 +12,15 @@
 ## Roadmap
 - **All leads:** [Liam Monninger](mailto:liam@ramate.io)
 - **Contents:**
+  - **[T1: Complete OROAD-0](#t1-complete-oroad-0)**
+  - **[T2: Meditation](#t2-meditation)**
+  - **[T3: Try out revenue models](#t3-try-out-revenue-models)**
+  - **[T4: Grow the organization](#t4-grow-the-organization)**
+  - **[T5: Structure small grants](#t5-structure-small-grants)**
+  - **[T6: Get good at something](#t6-get-good-at-something)**
+  - **[T7: Find a groove](#t7-find-a-groove)**
+  - **[T8: Create the lifestyle](#t8-create-the-lifestyle)**
+  - **[T9: Fulfill the charter](#t9-fulfill-the-charter)**
 
 ### T1: Complete OROAD-0
 > [!IMPORTANT]
@@ -21,6 +30,10 @@
 - **Depends on:** $\emptyset$
 - **Ends:** T1 + 9 Months
 - **Contents:**
+  - **[T1.1](#t11-complete-oroad-0):** Complete OROAD-0
+  - **[T1.2](#t12-ensure-ramate-llc-is-legally-prepared-to-employ-or-contract-contributors)**: Ensure Ramate LLC is legally prepared to employ or contract contributors
+  - **[T1.3](#t13-identify-ip-strategy-and-prepare-licensing):** Identify IP strategy and prepare licensing
+  - **[T1.4](#t14-experiment-with-some-less-intensive-ventures):** Experiment with some less intensive ventures
 
 **T1** seeks the completion of [OROAD-0](https://github.com/ramate-io/oac/blob/main/oroad/oera-000-000-000-dulan/oroad-000-000-000/README.md). [OROAD-0](https://github.com/ramate-io/oac/blob/main/oroad/oera-000-000-000-dulan/oroad-000-000-000/README.md) contains provisions for technology, staff, and funding.
 
@@ -79,6 +92,13 @@ These sorts of less intensive ventures could form a revenue backbone for Ramate 
 - **Depends on:** [T1](#t1-complete-oroad-0)
 - **Ends:** T2 + 3 Months
 - **Contents:**
+  - **[T2.1](#t21-cut-back-operations):** Cut back operations
+  - **[T2.2](#t22-liam-monninger-to-focus-on-personal-finances):** Liam Monninger to focus on personal finances
+  - **[T2.3](#t23-check-in-with-prospective-collaborators):** Check-in with prospective collaborators
+  - **[T2.4](#t24-go-low-cost):** Go low cost
+  - **[T2.5](#t25-dogfood):** Dogfood
+  - **[T2.6](#t26-check-out-the-competition):** Check out the competition
+  - **[T2.7](#t27-gather-wisdom-from-mentors):** Gather wisdom from mentors
 
 After the success of **[T1](#t1-complete-oroad-0)**, we should have a lot of information about how the Ramate will be able to proceed practically.
 
@@ -133,6 +153,12 @@ Check-in with mentors. This will likely involve a bit of travel to these mentors
 - **Depends on:** [T2](#t2-meditation)
 - **Ends:** T3 + 1 year
 - **Contents:**
+  - **[T3.1](#t31-generate-revenue-from-a-consumer-application):** Generate revenue from a consumer application
+  - **[T3.2](#t32-generate-revenue-from-infrastructure-platform):** Generate revenue from infrastructure platform
+  - **[T3.3](#t33-generate-revenue-from-implementation-services):** Generate revenue from implementation services
+  - **[T3.4](#t34-launch-spinouts-through-collaborators-maintain-open-source):** Launch spinouts through collaborators, maintain open source
+  - **[T3.5](#t35-consider-outside-investment-and-investor-signals):** Consider outside investment and investor signals
+  - **[T3.6](#t36-short-sighted-services):** Short-sighted services
 
 Under [T1](#t1-complete-oroad-0) we should have began to fill out a few different revenue models: applications, infrastructure, implementation services, open-source foundation, etc. **T3** would seek to temporarily shift the focus away from developing technology and instead to investing resources into pursuing these revenue models.
 
@@ -188,7 +214,7 @@ We would very much want to skew towards identifying closely-aligned investors an
 
 As an exercise in agility and dogfooding which could bear fruit, we suggest engaging in monthly attempts to stand-up a useful service, often API, for which we can charge a usage fee.
 
-Ideally, this would have something to do with existing software, specifically [OAC](https://github.com/ramate-io/oac) and [Robles](https://github.com/ramate-io/robles), so as to informal the value of those projects.
+Ideally, this would have something to do with existing software, specifically [OAC](https://github.com/ramate-io/oac) and [Robles](https://github.com/ramate-io/robles), so as to inform the value of those projects.
 
 ### T4: Grow the organization
 > [!IMPORTANT]
@@ -198,6 +224,9 @@ Ideally, this would have something to do with existing software, specifically [O
 - **Depends on:** [T2](#t2-meditation)
 - **Ends:** T4 + 2 years
 - **Contents:**
+  - **[T4.1](#t41-get-a-core):** Get a core
+  - **[T4.2](#t42-liam-monninger-to-operate-out-of-the-us-and-europe):** Liam Monninger to operate out of the US and Europe
+  - **[T4.3](#t43-slowly-form-small-list-of-close-partnerships):** Slowly form small list of close partnerships
 
 In order to facilitate [T3](#t3-try-out-revenue-models) and eventually segue into [T6](#t6-get-good-at-something), [T7](#t7-find-a-groove), and beyond, we will need to grow the organization. **T4** is thus the period when Ramate starts to transition to an organization where people work together consistently, as opposed to a loose and exploratory set of collaborations.
 
@@ -206,14 +235,18 @@ In order to facilitate [T3](#t3-try-out-revenue-models) and eventually segue int
 
 We start growing staff by employing a core cast of collaborators.
 
-All-in-all, Ramate should feel like a burgeoning guild or workshop of closely knit creatives. Our Projects Leads tinker, our Operations Leads ensure the workshop is a functional space, our Marketing Leads make it an inviting place, and our Business Leads make sure the lights stay on.
+All-in-all, Ramate should feel like a burgeoning guild or workshop of closely knit creatives. Our Projects Leads tinker, our Operators ensure the workshop is a functional space, our Marketers make it an inviting place, and our Commercialists make sure the lights stay on.
 
 We thus suggest the following shape for the organization:
 
-- **Project Leads x 3:** collaborators with strong research and engineering backgrounds, who may have ambitions to lead their own projects through Ramate. These Project Leads should be comfortable working through operations, marketing, and business considerations; they should want to own output end-to-end, but be able to benefit from the additional perspective and capacity dedicated collaborators in those domains provide. [Liam Monninger](mailto:liam@ramate.io) would primarily function as a Project Lead.
-- **Operations Leads x 1:** collaborators who closely understand the products and services--ideally being able to contribute to some extent--but who will primarily deal in planning, human resources, finances, and other operational tasks. We are roughly looking for an engineer who wants to deal with a bit of paperwork, write a bit less code, and not get too heady.
-- **Marketing Leads x 1:** creatives who grasp the ethos of Ramate and can individually translate this into brand and outreach. We are roughly looking for somebody happy taking time to generate non-technical content that excites.
-- **Business Leads x 1:** collaborators concerned with presenting business models, conducting market research, selling, working with lawyers, and generally channeling creative output into pursuits that can sustain Ramate. We are roughly looking for somebody who will slowly and carefully find highly-aligned business opportunities and structures.
+- **Affiliates x 3:** collaborators with strong research and engineering backgrounds, who may have ambitions to lead their own projects through Ramate. These Affiliates should be comfortable working through operations, marketing, and business considerations; they should want to own output end-to-end, but be able to benefit from the additional perspective and capacity dedicated collaborators in those domains provide. [Liam Monninger](mailto:liam@ramate.io) would primarily function as a Affiliate.
+- **Operators x 1:** collaborators who closely understand the products and services--ideally being able to contribute to some extent--but who will primarily deal in planning, human resources, finances, and other operational tasks. We are roughly looking for an engineer who wants to deal with a bit of paperwork, write a bit less code, and not get too heady.
+- **Marketers x 1:** creatives who grasp the ethos of Ramate and can individually translate this into brand and outreach. We are roughly looking for somebody happy taking time to generate non-technical content that excites.
+- **Commercialists x 1:** collaborators concerned with presenting business models, conducting market research, selling, working with lawyers, and generally channeling creative output into pursuits that can sustain Ramate. We are roughly looking for somebody who will slowly and carefully find highly-aligned business opportunities and structures.
+
+We anticipate collaborators would rotate through Ramate--attempting their own ventures and coming back. However, during this period we would want to keep the core mostly intact particularly the **Affiliates** and the **Operator**, so that we can establish a culture of work to which the later more fluid dynamics can be anchored.
+
+Throughout the various eras at Ramate, we expect collaborators will be highly familiar--people we know personally or with whom we have worked with closely in the past.
 
 #### T4.2: Liam Monninger to operate out of the US and Europe
 - **[Leads]:** [Liam Monninger](mailto:liam@ramate.io)
@@ -233,6 +266,9 @@ We anticipate Ramate's most predictable success--in terms of adoption and revenu
 - **Depends on:** [T2](#t2-meditation)
 - **Ends:** T5 + 6 months
 - **Contents:**
+  - **[T5.1](#t51-work-on-grant-to-internet-research-initiative-at-ucla):** Work on grant to Internet Research Initiative at UCLA
+  - **[T5.2](#t52-stanford-summer-doctoral-intern):** Stanford summer doctoral intern
+  - **[T5.3](#t53-grant-to-dr-naiks-lab):** Grant to Dr. Naik's lab
 
 We propose that, following [T2](#t2-meditation), we would like to issue a series of small grants to research institutions which may help further technical pursuits while also establishing a talent pipeline.
 
@@ -259,6 +295,11 @@ We propose that, following [T2](#t2-meditation), we would like to issue a series
 - **Depends on:** [T3](#t3-try-out-revenue-models)
 - **Ends:** T6 + 1 year
 - **Contents:**
+  - **[T6.1](#t61-analyze-and-optimize-best-revenue-model-from-t3):** Analyze and optimize best revenue model from T3
+  - **[T6.2](#t62-improve-relevant-technology):** Improve relevant technology
+  - **[T6.3](#t63-refine-operations):** Refine operations
+  - **[T6.3](#t63-review-and-refine-brand):** Review and refine brand
+  - **[T6.4](#t64-expand-the-workshop):** Expand the workshop
 
 Under **T6**, we would pick the "best" revenue model from **[T3](#t3-try-out-revenue-models)** and place most of our efforts on it.
 
@@ -284,32 +325,176 @@ Our workshop should be expanding under [T4.1](#t41-get-a-core). Regardless, we s
 
 Our marketing should be expanding under [T4.1](#t41-get-a-core). Regardless, we should take time to review and refine our branding
 
+#### T6.4: Expand the workshop
+- **Leads:** [Liam Monninger](mailto:liam@ramate.io)
+
+As we start to get good at our business, we would like to bring some more collaborators into the workshop. We don't expect massive expanding operations, marketing, or business development--in some sense we hope we don't do much of that in the long run either.
+
+We thus suggest the following shape:
+
+- **Affiliates x 4:** see [T4.1](#t41-get-a-core).
+- **Operators x 1:** see [T4.1](#t41-get-a-core).
+- **Marketers x 1:** see [T4.1](#t41-get-a-core).
+- **Commercialists x 1:** see [T4.1](#t41-get-a-core).
+- **Designers x 1:** creatives who will focus on design of products and merchandise. This will be someone to reduce the creative load on the Marketer and hopefully add idiosyncrasy and quality to our aesthetics.
+- **Engineers x 3:** collaborators who have a strong research and engineering background, but don't necessarily want to be conceptual helmsman or pursue their own projects to the same extent as the **Affiliates**. These are people comfortable with being extra hands in the workshop.
+- **Analysts x 1:** collaborators who have strong ability working with data and are interested in performing meta-analyses of Ramate.
+
+At this point, we would expect collaborators to be rotating through Ramate. In particular, we would hope **Affiliates** are spinning out projects and, thus, that there is, in the least, some resource share with these projects.
+
+We expect those who fill into the **Engineer**, **Designer**, and **Analyst** roles may be less committed to projects which are specific to Ramate.
+
 ### T7: Find a groove
 > [!IMPORTANT]
->
+> **T7** further expands the core operations following the success of [T6](#t6-get-good-at-something)
 
 - **Starts:** T6 + 1 year
 - **Depends on:** [T4](#t4-grow-the-organization), [T5](#t5-structure-small-grants), [T6](#t6-get-good-at-something)
 - **Ends:** T7 + 2 years
 - **Contents:**
+  - **[T7.1](#t71-expand-the-workshop):** Expand the workshop
+  - **[T7.2](#t72-continue-to-refine-core-business):** Continue to refine core business
+  - **[T7.3](#t73-recover-diversity):** Recover diversity
+
+Now that we have a business that is functioning, we start to grow it slightly and regain some of the technical diversity with which we began.
+
+The diversity of our pursuits beyond the core technological thrust should be progressed concurrently. However, this is left **[T8](#t8-create-the-lifestyle)**.
+
+#### T7.1: Expand the workshop
+- **Leads:** [Liam Monninger](mailto:liam@ramate.io)
+
+To facilitate growing business and technical diversity, we add to the team.
+
+We suggest the following shape for core operations:
+
+- **Affiliates x 5:** see [T4.1](#t41-get-a-core).
+- **Operators x 2:** see [T4.1](#t41-get-a-core).
+- **Marketers x 1:** see [T4.1](#t41-get-a-core).
+- **Commercialists x 1:** see [T4.1](#t41-get-a-core).
+- **Designers x 1:** see [T6.4](#t64-expand-the-workshop).
+- **Engineers x 5:** see [T6.4](#t64-expand-the-workshop).
+- **Analysts x 1:** see [T6.4](#t64-expand-the-workshop).
+
+We have now reached close to the final form. **Affiliates**, as always perform end-to-end roles guiding their projects. We expand the **Operators** to account for the expectation of shared planning with spinouts and partners. We also add a couple more **Engineers** to scale development.
+
+The other roles remain the same. While an argument could be made for placing these roles in dialogue with specialist colleagues by adding additional headcount, we again want to run things through the **Affiliates**. They should be sounding boards for the **Marketer**, the **Designer**, the **Commercialist**, and the **Analyst**.
+
+#### T7.2: Continue to refine core business
+- **Leads:** [Liam Monninger](mailto:liam@ramate.io)
+
+Continue to refine the core business, following the steps from [T6: Get good at something](#t6-get-good-at-something).
+
+#### T7.3: Recover diversity
+- **Leads:** [Liam Monninger](mailto:liam@ramate.io)
+
+Begin to reintroduce attempts at revenue models from [T3: Try out revenue models](#t3-try-out-revenue-models). We may find these more effective with our positioning and operational expertise.
+
+Additionally, we should now be able to invest in a more diverse **Affiliate** projects.
+
+> [!NOTE]
+> **[T8](#t8-create-the-lifestyle)** provides for some additional exploratory positions for more diverse ventures.
 
 ### T8: Create the lifestyle
 > [!IMPORTANT]
->
+> **T8** diversifies Ramate's pursuits and externalities, following the success [T6](#t6-get-good-at-something).
 
 - **Starts:** T6 + 1 year
 - **Depends on:** [T4](#t4-grow-the-organization), [T5](#t5-structure-small-grants), [T6](#t6-get-good-at-something)
 - **Ends:** T8 + 2 years
 - **Contents:**
+  - **[T8.1](#t81-get-our-workspaces):** Get our workspaces
+  - **[T8.2](#t82-fold-in-smaller-efforts):** Fold in smaller efforts
+  - **[T8.3](#t83-add-some-character-to-the-workshop):** Add some character to the workshop
+
+#### T8.1: Get our workspaces
+- **Leads:** [Liam Monninger](mailto:liam@ramate.io)
+
+At this point, we would like to have some workspaces for Ramate. However, we'd like for these to be in quieter locales, have shared use, and be accompanied with living quarters.
+
+We'd like to aim for one workspace in the United States, one in Europe, and one in Asia.
+
+We currently like the following US locations:
+- Chico, CA
+- Carmel, CA
+- Portola Valley, CA
+- San Clemente, CA
+- Waimea, Kona, HI
+- Poipu, Kauai, HI
+
+We currently like the following European locations:
+- Ortisei, South Tirol, Italy
+- Marazion/Penzance, Cornwall, UK
+- St. Ives, Cornwall, UK
+- Ereceira, Portugal
+- Bilbao, Spain
+- Lyon, France
+- Sankt Anton am Arlberg, Austria
+
+We currently like the following Asian locations:
+- Kamakura, Japan
+- Ohara, Japan
+- Da'an, Taipei, Taiwan
+- Dulan, Taiwan
+
+We would like to operate each with a workspace for Ramate, a joined service such as a restaurant, and perhaps local shop.
+
+We would also like to have nearby living quarters so as to facilitate colocations, periods working from the location individually, and general Ramate perks.
+
+#### T8.2: Fold in smaller efforts
+- **Leads:** [Liam Monninger](mailto:liam@ramate.io)
+
+We move to bring the smaller and more tangential efforts, such as those suggested by [T1.4](#t14-experiment-with-some-less-intensive-ventures), into Ramate operations properly.
+
+#### T8.3: Add some character to the workshop
+- **Leads:** [Liam Monninger](mailto:liam@ramate.io)
+
+To facilitate [T8.1](#t81-get-our-workspaces) and [T8.2](#t82-fold-in-smaller-efforts), we add to the team as follows:
+
+- **Venturists x 2:** a collaborator performing a non-technical equivalent to **Affiliates** for the peripheral ventures in which Ramate engages.
+- **Superintendents x 1:** a collaborator who oversees operations for the workspaces, joined services, and pursuits of the **Venturists**.
 
 ### T9: Fulfill the charter
 > [!IMPORTANT]
->
+> **T9** is the endgame. Having achieved stability in its intended character, Ramate pursues its charter.
 
 - **Starts:** T8 + 2 years
 - **Depends on:** [T7](#t7-find-a-groove), [T8](#t8-create-the-lifestyle)
 - **Ends:** $\emptyset$
 - **Contents:**
+  - **[T9.1](#t91-final-intended-expansion-of-the-workshop):** Final intended expansion of the workshop
+  - **[T9.2](#t92-pursue-topics-in-ai-safety-swarm-coordination-and-robotics):** Pursue topics in AI safety, swarm coordination, and robotics
+  - **[T9.3](#t93-fulfill-the-charter):** Fulfill the charter
+
+#### T9.1: Final intended expansion of the workshop
+- **Leads:** [Liam Monninger](mailto:liam@ramate.io)
+
+We make what we intend as the final expansion of the workshop to reach Ramate's steadystate. It takes the following form:
+
+- **Affiliates x 7:** see [T4.1](#t41-get-a-core).
+- **Operators x 2:** see [T4.1](#t41-get-a-core).
+- **Marketers x 2:** see [T4.1](#t41-get-a-core).
+- **Commercialists x 1:** see [T4.1](#t41-get-a-core).
+- **Designers x 2:** see [T6.4](#t64-expand-the-workshop).
+- **Engineers x 5:** see [T6.4](#t64-expand-the-workshop).
+- **Analysts x 1:** see [T6.4](#t64-expand-the-workshop).
+- **Venturists x 3:** see [T8.3](#t83-add-some-character-to-the-workshop).
+- **Superintendents x 1:** see [T8.3](#t83-add-some-character-to-the-workshop).
+
+We expand the **Affiliates** to continue to capture core technical value generation. We add an additional **Marketer** to support the expansion of **Affiliate** and **Venturist** projects. We add an additional designer primarily to ensure **Venturist** projects have available design resources. Finally, we add an additional **Venturist** to propel peripheral projects.
+
+At this point, the rotation effect should be in full effect. However, we expect that the value and sticking power of the Ramate organization is apparent to its participants, and thus that it is a fairly predictable springboard.
+
+#### T9.2: Pursue topics in AI safety, swarm coordination, and robotics
+- **Leads:** [Liam Monninger](mailto:liam@ramate.io)
+
+[OAC](https://www.github.com/ramate-io/oac) begins with a lofty ambition of pursuing solutions to AI safety problems for a future of safe swarm coordination and robotics. If this pursuit has not properly kicked-off, we would like to ensure it does once Ramate has stabilized.
+
+#### T9.3: Fulfill the charter
+- **Leads:** [Liam Monninger](mailto:liam@ramate.io)
+
+[RPROC-0](/rproc/rera-000-000-000-dulan/rproc-000-000-000/README.md) describes a philosophical character for Ramate which is humanistically branching. This means leaning into our diverse pursuits and living out the dream of the wonderful workshop we hope to have built.
+
+While we anticipate the core problems with which [OAC](https://www.github.com/ramate-io/oac) contends will always be a sort of practical anchor, the ideal to which we appeal is the sense of the workshop itself.
 
 ## Agreeing
 $\emptyset$
