@@ -8,6 +8,7 @@
   - **[Appendix](#appendix)**
 
 ## Summary
+RROAD-0 sketches an aspirational roadmap from [OROAD-0](https://github.com/ramate-io/oac/blob/main/oroad/oera-000-000-000-dulan/oroad-000-000-000/README.md) to an ideal endstate wherein Ramate has realized [Liam Monninger's](mailto:liam@ramate.io) original ambition of the organization as a close knit workshop built around a core of computing projects. This is the "gameplan" with which Ramate embarks.
 
 ## Roadmap
 - **All leads:** [Liam Monninger](mailto:liam@ramate.io)
