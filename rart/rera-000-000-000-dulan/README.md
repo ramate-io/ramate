@@ -1,7 +1,7 @@
 # RART: RERA-0: Dulan
 
 ## RARTs
-- **[RART-0](/rart/rera-000-000-000-dulan/rart-000-000-000-byzantine-generals/README.md):** describes the relevance of Wardley Maps to Ramate's operations.
+- **[RART-0](/rart/rera-000-000-000-dulan/rart-000-000-000-wardley-maps):** describes the relevance of Wardley Maps to Ramate's operations.
 
 <!--RAMATE FOOTER: DO NOT REMOVE THIS LINE-->
 ---
