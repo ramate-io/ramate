@@ -26,7 +26,6 @@
           ltex-ls-plus
           nodejs_20
           lychee
-          vale
           chafa
           perl
           llvmPackages.bintools

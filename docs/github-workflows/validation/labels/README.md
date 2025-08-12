@@ -6,7 +6,9 @@ The labels workflows are defined as follows:
 ## Usage
 The labels workflows will update the labels for this repository to correspond to those found in the `LABELS_JSON` hardcoded into [`labels.yml`](../../../../.github/workflows/labels.yml) whenever a commit is pushed to the GitHub remote.
 
-The labels workflow will delete additional labels when run on `main` or when the commit message contains `debug(ci:labels:deletion)`.
+<!-- ltex: enabled=false -->
+The Labels workflow will delete additional labels when run on `main` or when the commit message contains `debug(ci:labels:deletion)`.
+<!-- ltex: enabled=true -->
 
 > [!WARN]
 > There are NOT currently any protections against this updating of labels. As a contributor, you should be mindful particularly not to remove labels without first checking with other contributors.

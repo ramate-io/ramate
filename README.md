@@ -17,7 +17,7 @@
 </h1>
 
 > [!TIP]
-> For those new to Ramate, we recommending following **[RGUIDE-0](/rguide/rera-000-000-000-dulan/rguide-000-000-000/README.md)**.
+> For those new to Ramate, we recommend following **[RGUIDE-0](/rguide/rera-000-000-000-dulan/rguide-000-000-000/README.md)**.
 
 > [!NOTE]
 > The organization of this repository is drawn from the organization of the [OAC](https://github.com/ramate-io/oac) repository.

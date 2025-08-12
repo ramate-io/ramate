@@ -5,7 +5,7 @@
 Ramate is lifting off the ground. I'm using this log to capture some thoughts I have about the organization particularly under **[OROAD-5: Week 0](https://github.com/ramate-io/oac/tree/main/oroad/oera-000-000-000-dulan/oroad-000-000-005)**.
 
 ## Log
-To this point, there have of course been some fits and starts, and the approach I am taking to organizing the project is a bit cumbersome. However, I am hoping that paying these upfront costs allows me to accelerate into the coming weeks.
+To this point, there have of course been some fits and starts, and the approach I am taking to organize the project is a bit cumbersome. However, I am hoping that paying these upfront costs allows me to accelerate into the coming weeks.
 
 I feel I have already experienced some of these benefits even as I draft up much of this rather superfluous material. There's a certain completeness of thought available.
 

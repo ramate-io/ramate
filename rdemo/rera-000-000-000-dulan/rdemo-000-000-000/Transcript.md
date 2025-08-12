@@ -1,6 +1,7 @@
 # Transcript
 - **Authors:** [Liam Monninger](mailto:liam@ramate.io)
 
+<!-- ltex: enabled=false -->
 <!-- vale off -->
 00:00 Hey everybody, I'm gonna talk quickly through the Remate repository, provide a demo of how to use it, uhm, the bottom line is most of this is identical to, uhm, OAC, the artifact system is similar, uhm, when you're actually like working on editing, you're gonna work with a PixFlake that set up similar
 00:26 pre-commit hooks or similar labels are generated a similar way. You can find information about the issues, uhm, from the same table, with the same labels, with the same relationship between release candidates and events.
@@ -39,6 +40,7 @@
 09:44 Okay, so that's, that's how these repositories which are similar in structure differ semantically and how they all come together. Hopefully that provides some initial motivation.
 09:59 Uhm, and hopefully this will this video on the whole gives a sense of how to use Remate and what you should do with it.
 <!-- vale on -->
+<!-- ltex: enabled=true -->
 
 <!--RAMATE FOOTER: DO NOT REMOVE THIS LINE-->
 ---
