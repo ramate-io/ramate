@@ -1,4 +1,5 @@
 # RPROC
+Ramate Proclamations (RPROC) are statements of purpose for Ramate.
 
 <!--START OAC INDEX: DO NOT REMOVE THIS LINE -->
 ## [RPROC: RERA-0: DULAN](rera-000-000-000-dulan/README.md)

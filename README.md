@@ -45,6 +45,7 @@ Please see [CONTRIBUTING.md](CONTRIBUTING.md) file for additional contribution g
 
 ### Artifacts
 Under [RGLO-0](./rglo/rera-000-000-000-dulan/rglo-000-000-000-artifact/README.md), this subsection defines the recognized artifact types. We recognize the following types:
+
 - [`rera`](./rera): Ramate Eras (RERA) are the periods over which a governing body makes decisions. All other Ramate [Artifacts](./rglo/rera-000-000-000-dulan/rglo-000-000-000-artifact/README.md) are indexed by RERA.
 - [`rglo`](./rglo/): Ramate Glosses (RGLO) are defined terms for Ramate.
 - [`rproc`](./rproc/): Ramate Proclamations (RPROC) are statements of purpose for Ramate.

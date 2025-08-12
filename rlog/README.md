@@ -1,4 +1,5 @@
 # RLOG
+Ramate Logs (RLOG) are periodically submitted logs describing various developments within the Ramate organization.
 
 <!--START OAC INDEX: DO NOT REMOVE THIS LINE -->
 ## [RLOG: RERA-0: DULAN](rera-000-000-000-dulan/README.md)

@@ -1,5 +1,5 @@
 # RERA
-OAC Eras (RERA) are the periods over which a governing body makes decisions. All other OAC [Artifacts](../rglo/rera-000-000-000-dulan/rglo-000-000-000-artifact/README.md) are indexed by RERA.
+Ramate Eras (RERA) are the periods over which a governing body makes decisions. All other Ramate [Artifacts](../rglo/rera-000-000-000-dulan/rglo-000-000-000-artifact/README.md) are indexed by RERA.
 
 The current era is [RERA-0: Dulan](./rera-000-000-000-dulan/README.md).
 

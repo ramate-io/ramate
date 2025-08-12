@@ -1,5 +1,5 @@
 # RLEG
-Description of RLEG.
+Ramate Legal Documents (RLEG) are published legal documents covering Ramate operations in any jurisdiction.
 
 <!--START OAC INDEX: DO NOT REMOVE THIS LINE -->
 ## [RLEG: RERA-0: DULAN](rera-000-000-000-dulan/README.md)

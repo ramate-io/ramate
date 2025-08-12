@@ -1,5 +1,5 @@
 # RGUIDE
-OAC Guides (RGUIDE) provide useful guides and summaries of OAC.
+Ramate Guides (RGUIDE) are guides or summaries of Ramate.
 
 <!--START OAC INDEX: DO NOT REMOVE THIS LINE -->
 ## [RGUIDE: RERA-0: DULAN](rera-000-000-000-dulan/README.md)

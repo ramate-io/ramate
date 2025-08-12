@@ -1,5 +1,5 @@
 # RDE
-Description of RDE.
+Ramate Desiderata (RDE) describe wants, open problems, and similar within the Ramate paradigm.
 
 <!--START OAC INDEX: DO NOT REMOVE THIS LINE -->
 ## [RDE: RERA-0: DULAN](rera-000-000-000-dulan/README.md)

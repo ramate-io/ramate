@@ -1,5 +1,5 @@
 # RDEMO
-RDEMOs are demonstrations of Ramate technologies, processes, and similar.
+Ramate Demonstrations (RDEMO) are selected demonstrations of Ramate technologies.
 
 <!--START OAC INDEX: DO NOT REMOVE THIS LINE -->
 ## [RDEMO: RERA-0: DULAN](rera-000-000-000-dulan/README.md)
