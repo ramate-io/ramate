@@ -2,7 +2,7 @@
 - **Authors:** [Liam Monninger](liam@ramate.io)
 - **Holder:** [Ramate](https://github.com/ramate-io/ramate)
 - **Pubkey:** [`cafe3368`](./pub.key)
-- **Original issuer:** [RGOV-O: Founding](../../../rgov/rera-000-000-000-dulan/rgov-000-000-000/README.md)
+- **Original issuer:** [RGOV-0: Founding](../../../rgov/rera-000-000-000-dulan/rgov-000-000-000/README.md)
 - **Contents:**
     - **[Terms](#terms)**
     - **[Conditions](#conditions)**
@@ -21,7 +21,7 @@ We hereby endorse this, the [Ramate](https://github.com/ramate-io) GitHub organi
 ### T2: Correctness of [Ramate](https://github.com/ramate-io) `main` branches
 We hereby certify all content on the `main` branches of [Ramate](https://github.com/ramate-io) as correct implementations of its technology to the best of our knowledge. Tags may sometimes indicate versions which are correct for a particular environment. However, each `main` branch shall satisfy some referential notion of correctness.
 
-Pursuant to [T1](#t1-self-endorsement), we certify whatever content is on a `main` branch is correct, owing the to reflexive nature of this certificate.
+Pursuant to [T1](#t1-self-endorsement), we certify whatever content is on a `main` branch is correct, owing to the reflexive nature of this certificate.
 
 ## Conditions
 - **Contents:**

@@ -16,15 +16,20 @@
   Ramate
 </h1>
 
-This repository contains artifacts for [Ramate LLC](https://www.ramate.io).
-
 > [!TIP]
-> For those new to Ramate, we recommending following **[RGUIDE-0](/rguide/rera-000-000-000-dulan/rguide-000-000-000/README.md)**.
-
-Our flagship project is [Robles](https://github.com/ramate-io/robles) which is an implementation of [OAC](https://github.com/ramate-io/oac) technologies. Ramate also governs the [OAC](https://github.com/ramate-io/oac) project.
+> For those new to Ramate, we recommend following **[RGUIDE-0](/rguide/rera-000-000-000-dulan/rguide-000-000-000/README.md)**.
 
 > [!NOTE]
 > The organization of this repository is drawn from the organization of the [OAC](https://github.com/ramate-io/oac) repository.
+
+This repository contains artifacts for [Ramate LLC](https://www.ramate.io).
+
+Our flagship project is [Robles](https://github.com/ramate-io/robles) which is an implementation of [OAC](https://github.com/ramate-io/oac) technologies. Ramate also governs the [OAC](https://github.com/ramate-io/oac) project.
+
+Below is a complete list of our active projects:
+
+- **[OAC](https://github.com/ramate-io/oac):** a paradigm for decentralized consequence.
+- **[Robles](https://github.com/ramate-io/robles):** Ramate's stack for programming distributed and decentralized systems with OAC.
 
 ## Contributing
 
@@ -54,6 +59,9 @@ Under [RGLO-0](./rglo/rera-000-000-000-dulan/rglo-000-000-000-artifact/README.md
 - [`rguide`](./rguide/): Ramate Guides (RGUIDE) are guides or summaries of Ramate.
 - [`rpre`](./rpre/): Ramate Presentations (RPRE) are presentations about Ramate.
 - [`rdemo`](./rdemo/): Ramate Demonstrations (RDEMO) are selected demonstrations of Ramate technologies.
+
+### Docs
+The [`./docs`](/docs/) directory contains documentation for advanced maintenance of this repository. It describes things like pre-commit hooks and GitHub workflows.
 
 <!--RAMATE FOOTER: DO NOT REMOVE THIS LINE-->
 ---

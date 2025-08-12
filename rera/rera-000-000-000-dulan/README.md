@@ -19,7 +19,7 @@
 ## Governance
 As described in [RGOV-0](../../rgov/rera-000-000-000-dulan/rgov-000-000-000/README.md), in the Dulan Era, the governance of [Ramate LLC](https://www.ramate.io) relies on the individual decisions of the LLC's single member, [Liam Monninger](mailto:liam@ramate.io). We do, however, ascribe to several standards concerning organization and transparency.
 
-Currently, [Ramate LLC's](https://www.ramate.io) decision making with respect to OAC is delegate by [RGOV](https://github.com/ramate-io/ramate/tree/main/rgov) to the [Robles](https://github.com/ramate-io/robles) project under [RRGOV](https://github.com/ramate-io/robles/tree/main/rogov).
+Currently, [Ramate LLC's](https://www.ramate.io) decision-making with respect to OAC is delegate by [RGOV](https://github.com/ramate-io/ramate/tree/main/rgov) to the [Robles](https://github.com/ramate-io/robles) project under [ROGOV](https://github.com/ramate-io/robles/tree/main/rogov).
 
 > [!NOTE]
 >

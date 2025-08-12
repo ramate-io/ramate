@@ -16,7 +16,7 @@ We establish that the objects of governance are all the properties of [Ramate LL
 
 As [Liam Monninger](mailto:liam@ramate.io) is the sole member of Ramate LLC there are no non-trivial bylaws during [RERA-0: Dulan](/rera/rera-000-000-000-dulan/README.md). All decisions are de facto his. However, we provide several standards to which he and Ramate LLC shall commit.
 
-Finally, we delegate Ramate'd decision making w.r.t. its implementation of [OAC](https://github.com/ramate-io/oac) protocols to the [Robles](https://github.com/ramate-io/robles) project under [ROGOV](https://github.com/ramate-io/robles/tree/main/rogov).
+Finally, we delegate Ramate'd decision-making w.r.t. its implementation of [OAC](https://github.com/ramate-io/oac) protocols to the [Robles](https://github.com/ramate-io/robles) project under [ROGOV](https://github.com/ramate-io/robles/tree/main/rogov).
 
 ## Continuity
 As the first RGOV, this document does not establish continuity with any previous regime.
@@ -26,7 +26,9 @@ As the first RGOV, this document does not establish continuity with any previous
     - **[M1](#m1-the-objects-of-governance-are-the-ramate-llcs-properties-agreements-and-bylaws):** The objects of governance are the [Ramate LLC](https://www.ramate.io)'s properties, agreements, and bylaws.
     - **[M2](#m2-ramate-llc-is-the-governing-body):** [Ramate LLC](https://www.ramate.io) is the governing body.
     - **[M3](#m3-ramate-llc-shall-publish-the-agreements-to-which-it-is-party-as-rleg-to-the-maximum-extent-allowed-by-said-agreements):** [Ramate LLC](https://www.ramate.io) SHALL publish the agreements to which it is party as [RLEG](/rleg/) to the maximum extent allowed by said agreements.
+
     - **[M4](#m4-ramate-llc-shall-make-a-best-effort-to-publish-its-finances-to-the-maximum-extent-allowed-as-rleg):** [Ramate LLC](https://www.ramate.io) SHALL make a best effort to publish its finances to the maximum extent allowed as [RLEG](/rleg/)
+
     - **[M5](#m5-robles-shall-govern-decisions-concerning-the-implementation-of-oac):** [Robles](https://github.com/ramate-io/robles) SHALL govern decisions concerning the implementation of [OAC](https://www.ramate.io).
 
 ### M1: The objects of governance are the [Ramate LLC](https://www.ramate.io)'s properties, agreements, and bylaws.
@@ -38,7 +40,7 @@ Thus, Ramate LLC SHALL henceforth make a best to effort to take all decisions wh
 [Ramate LLC](https://www.ramate.io) SHALL retain the right to make decisions pursuant to [M1](#m1-the-objects-of-governance-are-the-ramate-llcs-properties-agreements-and-bylaws) as it sees fit. As currently, [Ramate LLC](https://www.ramate.io) is a single-member LLC without any bylaws, no further specification is needed. All decisions are left to [Liam Monninger](mailto:liam@ramate.io).
 
 ### M3: [Ramate LLC](https://www.ramate.io) SHALL publish the agreements to which it is party as [RLEG](/rleg/) to the maximum extent allowed by said agreements.
-In the event that [Ramate LLC](https://www.ramate.io) enters into any agreement with any party in any jurisdiction, including with the State itself, [Ramate LLC](https://www.ramate.io) SHALL  publish said agreement as an [RLEG](/rleg/) in this repository unless said agreement would otherwise prohibit.
+In the event that [Ramate LLC](https://www.ramate.io) enters into any agreement with any party in any jurisdiction, including with the State itself, [Ramate LLC](https://www.ramate.io) SHALL publish said agreement as an [RLEG](/rleg/) in this repository unless said agreement would otherwise prohibit.
 
 > [!NOTE]
 > **[[Liam Monninger](mailto:liam@ramate.io)]**
@@ -56,7 +58,7 @@ In the event that [Ramate LLC](https://www.ramate.io) enters into any agreement 
 ### M5: [Robles](https://github.com/ramate-io/robles) SHALL govern decisions concerning the implementation of [OAC](https://www.ramate.io).
 The implementation of [OAC](https://github.com/ramate-io/oac) protocols SHALL be governed by [Robles](https://github.com/ramate-io/robles).
 
-This does not include [Ramate LLC's](https://www.ramate.io) decision making concerning its continued support of the project nor decision making within OAC under [Ramate LLC's](https://www.ramate.io) governance. Instead, this simply refers to the governance of implementation decision-making.
+This does not include [Ramate LLC's](https://www.ramate.io) decision-making concerning its continued support of the project nor decision-making within OAC under [Ramate LLC's](https://www.ramate.io) governance. Instead, this simply refers to the governance of implementation decision-making.
 
 ## Interpretations
 We assert there is no precedence for interpretation owing to the lack of [continuity](#continuity).

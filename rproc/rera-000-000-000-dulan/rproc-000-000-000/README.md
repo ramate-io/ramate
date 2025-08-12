@@ -31,9 +31,10 @@ I have seen--in my albeit short experience--that a proclamation of growing nimbl
 
 I have seen too often scale--even slight--bury the plot and dialogue of enterprise.
 
-There is an art to this. An organization, particularly one formed as a business, is a non-trivial structure. Its bounds are unclear and it is difficult to glue all of the local realities into a cohesive model.
+There is an art to this. An organization, particularly one formed as a business, is a non-trivial structure. Its bounds are unclear, and it is difficult to glue each of the local realities into a cohesive model.
 
-The art which Ramate shall endeavor shifts the notion of agility to one of branching. Branching concerns itself not with movement for the sake of the organization's benefit, but asks what pursuits we may support and later be supported by. Branching does not emphasize speed, but its steadiness surprises as splits become exponential. Branching does not leap to scale, there is only so much the tree can support before its essence is best left to a new seed.
+The art which Ramate shall endeavor shifts the notion of agility to one of branching. Branching concerns itself not with movement for the sake of the organization's benefit, but asks what pursuits we may support and later be supported by. Branching does not emphasize
+speed, but its steadiness surprises as splits become exponential. Branching does not leap to scale, there is only so much the tree can support before its essence is best left to a new seed.
 
 This is to say, I endeavor to keep Ramate curious.
 
@@ -53,11 +54,11 @@ When we can rush a project for a leap in wealth, we shall mostly decline.
 
 This is to say, I endeavor to keep Ramate small.
 
-When an platform needs outside investment to grow, we shall most often spin out.
+When a platform needs outside investment to grow, we shall most often spin out.
 
 When our resources are tapped, we shall take it as a sign our role in the project should be reassessed.
 
-Whenever, Ramate should remain a body small and tightly-coupled enough that one knows personally all of the personalities in the organization.
+Whenever, Ramate should remain a body small and tightly coupled enough that one knows personally all the personalities in the organization.
 
 For all that I have said, little is certain. This shall be an adventure--an adventure of branches.
 

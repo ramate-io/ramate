@@ -1,5 +1,5 @@
 # RGLO
-Description of RGLO
+RGLOs are glosses or glossary entries for important terms in Ramate.
 
 <!--START OAC INDEX: DO NOT REMOVE THIS LINE -->
 ## [RGLO: RERA-0: DULAN](rera-000-000-000-dulan/README.md)
