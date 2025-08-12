@@ -57,7 +57,7 @@ When an platform needs outside investment to grow, we shall most often spin out.
 
 When our resources are tapped, we shall take it as a sign our role in the project should be reassessed.
 
-Whenever, Ramate should remain a body small and tightly-coupled enough that one knows personally all of the personalities in the organization.
+Whenever, Ramate should remain a body small and tightly coupled enough that one knows personally all the personalities in the organization.
 
 For all that I have said, little is certain. This shall be an adventure--an adventure of branches.
 

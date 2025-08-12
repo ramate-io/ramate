@@ -26,8 +26,14 @@ if [ ! -f ".vale.ini" ] && [ ! -f "_vale.ini" ] && [ ! -f "vale.ini" ]; then
     exit 1
 fi
 
-# Note: Vale configuration and vocabulary files are committed to the repository
-# No setup or sync steps needed
+# Sync Vale packages to ensure all styles are available
+echo "📦 Syncing Vale packages..."
+if vale sync; then
+    status "Vale packages synced successfully"
+else
+    echo "❌ Failed to sync Vale packages"
+    exit 1
+fi
 
 echo "🔍 Running Vale on prose files..."
 
