@@ -1,5 +1,5 @@
 # GitHub workflow documentation
-This directory documents GitHub workflows
+This directory documents GitHub workflows.
 
 There are two categories of workflows presented as subdirectories:
 

@@ -1,5 +1,5 @@
 # RGOV
-Description of RGOV
+RGOVs are governance documents for Ramate.
 
 <!--START OAC INDEX: DO NOT REMOVE THIS LINE -->
 ## [RGOV: RERA-0: DULAN](rera-000-000-000-dulan/README.md)

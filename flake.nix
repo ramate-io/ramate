@@ -23,6 +23,8 @@
 
         # An LLVM build environment
         dependencies = with pkgs; [
+          ltex-ls-plus
+          nodejs_20
           lychee
           vale
           chafa
