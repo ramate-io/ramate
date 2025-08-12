@@ -33,7 +33,7 @@ TOTAL_FILES=$(echo "$FILES" | wc -l | tr -d ' ')
 echo "📝 Found $TOTAL_FILES prose files to check for grammar"
 
 # Check all files for grammar issues using ltex-cli-plus
-echo "🔍 Running grammar check on prose files..."
+echo "🔍 Running grammar and spellcheck on prose files..."
 
 # Create a temporary file to capture output
 TEMP_OUTPUT=$(mktemp)
