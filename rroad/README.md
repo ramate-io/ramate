@@ -1,5 +1,5 @@
 # RROAD
-RROADs are roadmaps for Ramate.
+Ramate Roadmaps (RROAD) are roadmaps describing the intents and objectives of Ramate as an organization.
 
 <!--START OAC INDEX: DO NOT REMOVE THIS LINE -->
 ## [RROAD: RERA-0: DULAN](rera-000-000-000-dulan/README.md)

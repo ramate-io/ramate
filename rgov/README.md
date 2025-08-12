@@ -1,5 +1,5 @@
 # RGOV
-RGOVs are governance documents for Ramate.
+Ramate Governance (RGOV) are constitutions of, procedures for, and interpretations of Ramate governance.
 
 <!--START OAC INDEX: DO NOT REMOVE THIS LINE -->
 ## [RGOV: RERA-0: DULAN](rera-000-000-000-dulan/README.md)

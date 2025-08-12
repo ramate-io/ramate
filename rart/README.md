@@ -1,5 +1,5 @@
 # RART
-Description of RART.
+Ramate Articles (RART) are academic papers and similar content which are designated as key to Ramate pursuits. In comparison to OAC, these articles are less focused and included as a sort of "mood wall" for contributors and members of the organization.
 
 <!--START OAC INDEX: DO NOT REMOVE THIS LINE -->
 ## [RART: RERA-0: DULAN](rera-000-000-000-dulan/README.md)

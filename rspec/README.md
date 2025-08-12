@@ -1,4 +1,5 @@
 # RSPEC
+Ramate Specifications (RSPEC) describe specifications and are typically written in response to RDE. Generally, contributors should use RSPEC to justify non-trivial changes to this repository.
 
 <!--START OAC INDEX: DO NOT REMOVE THIS LINE -->
 ## [RSPEC: RERA-0: DULAN](rera-000-000-000-dulan/README.md)
