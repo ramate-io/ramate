@@ -59,12 +59,8 @@ cat > "$TEMP_DIR/ltex-ls-plus-config.json" << 'EOF'
       "en-US": [
         "PASSIVE_VOICE",
         "OXFORD_SPELLING_Z_NOT_S",
-        "COMMA_WHICH",
-        "SENTENCE_WHITESPACE",
         "UPPERCASE_SENTENCE_START",
-        "DOUBLE_PUNCTUATION",
-        "STYLE_REPEATED_WORD_RULE",
-        "WORD_REPEAT_BEGINNING_RULE"
+        "STYLE_REPEATED_WORD_RULE"
       ]
     },
     "hiddenFalsePositives": [],
