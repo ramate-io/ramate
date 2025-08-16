@@ -1,8 +1,8 @@
-# RPRE-0: First Wardley Maps
+# RPRE-33: First Wardley Maps
 - **Authors:** [Liam Monninger](mailto:liam@ramate.io)
 - **Deck:** [RPRE-0](https://docs.google.com/presentation/d/18uuMPPGDqlWZQywuReJvlcBxD3C46sTmpfqp7x8OyP0/edit?usp=sharing)
-- **Deck Copy:** $\emptyset$
-- **Recording:** $\emptyset$
+- **Deck Copy:** [RPRE-33: First Wardley Maps](./RPRE-33_%20First%20Wardley%20Maps.pdf)
+- **Recording:** [RPRE-33: First Wardley Maps](https://www.loom.com/share/5f1860dba02f4449a6226ddd5d317b17?sid=8551ce74-74b7-482f-b92d-1311ef307e37)
 - **Contents:**
   - **[Summary](#summary)**
   - **[Agreeing](#agreeing)**
