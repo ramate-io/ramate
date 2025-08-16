@@ -154,7 +154,9 @@
         "RSPEC",
         "RLOG",
         "RPROC",
-        "ROGOV"
+        "ROGOV",
+        "RDE-n",
+        "Roadline"
       ]
     },
     "bibtex": { "fields": {} },
