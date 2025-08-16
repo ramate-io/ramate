@@ -35,7 +35,7 @@ Wherein the subsequent requirements do not clarify a design choice, match the sp
 To determine the timescale, use the following procedure:
 
 1. Take the average of all task durations, $\bar{d}$.
-2. Compute $\text{min-unit}(\bar{d})$ where $\text{min-unit} : D \to \{\text{days}, \text{weeks}, \text{biweeks}, \text{months}, \text{quarters}, \text{halfyears}, \text{years}, \text{quadrennia}, \text{decades} \}$
+2. Compute $\text{min-unit}(\bar{d})$ where $\text{min-unit} : D \to \\{\text{days}, \text{weeks}, \text{biweeks}, \text{months}, \text{quarters}, \text{halfyears}, \text{years}, \text{quadrennia}, \text{decades} \\}$
 
 ## Correctness
 - **Contents:**
