@@ -2,7 +2,6 @@
 
 ## RSPECs
 - **[RSPEC-0](/rspec/rera-000-000-000-dulan/rspec-000-000-000/README.md):** a specification for how to use and maintain this repository.
-- **[RDE-34](/rde/rera-000-000-000-dulan/rde-000-000-034/README.md):** specifies the alpha version of the Roadline canvas.
 
 <!--RAMATE FOOTER: DO NOT REMOVE THIS LINE-->
 ---
