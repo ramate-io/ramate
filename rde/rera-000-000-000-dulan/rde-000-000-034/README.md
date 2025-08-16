@@ -1,4 +1,4 @@
-# RDE-n: Roadline Canvas
+# RDE-34: Roadline Canvas
 - **Authors:** [Liam Monninger](mailto:liam@ramate.io)
 - **Contents:**
   - **[Summary](#summary)**
@@ -10,18 +10,23 @@
 ## Summary
 We request a canvas rendering for the Roadline API matching the wireframe and specification below.
 
-## Desiderata
-- **Contents:**
-  - **[D1](#d1-where-otherwise-unclear-match-implementation-to-the-provided-wireframe):** Where otherwise unclear match implementation to the provided wireframe
-
-### D1: Where otherwise unclear match implementation to the provided wireframe
-
-Wherein the subsequent requirements do not clarify a design choice, match the implementation to the wireframe available on Google Slides as [RDE-n: Roadline Wireframe](https://docs.google.com/presentation/d/1kCjFFrHlWfHX6Zcc69eGlUhTnU_ifVSCQ7bdjzoXDsE/edit?usp=sharing) or the copy [RDE-n: Roadline Wireframe](./RDE-n_%20Roadline%20Canvas.pdf).
-
 > [!NOTE]
 > **[[Liam Monninger]](mailto:liam@ramate.io)**
 >
-> For the moment, we will refrain from adding further desiderata. We will amend this RDE when it becomes evident that we need to do so.
+> ["Why this is an RDE"](https://github.com/ramate-io/ramate/pull/34#issuecomment-3193449569) to better understand why I've chosen to use the RDE format instead of the RSPEC format.
+
+## Desiderata
+- **Contents:**
+  - **[D1](#d1-where-otherwise-unclear-match-implementation-to-the-provided-wireframe):** Where otherwise unclear match implementation to the provided wireframe
+  - **[D2](#d2-provide-a-reasonable-means-of-determining-a-single-unit-on-the-month-axis):** Provide a reasonable means of determining a single unit on the "Month" axis
+
+### D1: Where otherwise unclear match implementation to the provided wireframe
+
+Wherein the subsequent requirements do not clarify a design choice, match the specification or implementation to the wireframe available on Google Slides as [RDE-n: Roadline Wireframe](https://docs.google.com/presentation/d/1kCjFFrHlWfHX6Zcc69eGlUhTnU_ifVSCQ7bdjzoXDsE/edit?usp=sharing) or the copy [RDE-n: Roadline Wireframe](./RDE-n_%20Roadline%20Canvas.pdf).
+
+### D2: Provide a reasonable means of determining a single unit on the "Month" axis
+
+The "Months" axis should be scaled to some single unit timescale. We do not in fact only intend to support months as a unit of time.
 
 ## Agreeing
 $\emptyset$
