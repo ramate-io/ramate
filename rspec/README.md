@@ -4,7 +4,7 @@ Ramate Specifications (RSPEC) describe specifications and are typically written 
 <!--START OAC INDEX: DO NOT REMOVE THIS LINE -->
 ## [RSPEC: RERA-0: DULAN](rera-000-000-000-dulan/README.md)
 - **[RSPEC-0](/rspec/rera-000-000-000-dulan/rspec-000-000-000/README.md):** a specification for how to use and maintain this repository.
-- **[RDE-34](/rde/rera-000-000-000-dulan/rde-000-000-034/README.md):** specifies the alpha version of the Roadline canvas.
+- **[RSPEC-34](/rspec/rera-000-000-000-dulan/rspec-000-000-034/README.md):** specifies the alpha version of the Roadline canvas.
 
 <!--RAMATE FOOTER: DO NOT REMOVE THIS LINE-->
 ---
