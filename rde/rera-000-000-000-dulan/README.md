@@ -2,7 +2,6 @@
 
 ## RDEs
 - **[RDE-0](/rde/rera-000-000-000-dulan/rde-000-000-000/README.md):** requests standards for maintenance of this repository.
-- **[RDE-34](/rde/rera-000-000-000-dulan/rde-000-000-034/README.md):** requests a canvas for the Roadline API matching certain criteria.
 
 <!--RAMATE FOOTER: DO NOT REMOVE THIS LINE-->
 ---
