@@ -135,7 +135,7 @@ Write the note.
   - **[T4.1](#t41-review-works-relevant-works-referencing-hkr):** Review Works Relevant Works Referencing HKR
   - **[T4.2](#t42-miscellany):** Miscellany
 
-[Algebraic Topology](https://pi.math.cornell.edu/~hatcher/AT/AT.pdf) is a standard introduction to the field. It is worth taking time to review as [Liam Monninger](mailto:liam@ramate.io) has not attempted to properly study field for several years.
+**T4** continues with the literature review originally endeavored for the [BFA](https://github.com/ramate-io/oac/pull/2), focusing in particularly on those works which reference HKR from [T1](#t1-complete-all-exercises-in-distributed-computing-through-combinatorial-topology).
 
 #### T4.1: Review Works Relevant Works Referencing HKR
 - **Leads:** [Liam Monninger](mailto:liam@ramate.io)
@@ -146,6 +146,22 @@ Review Works Relevant Works Referencing HKR. Update this bullet point with works
 - **Leads:** [Liam Monninger](mailto:liam@ramate.io)
 
 This target is to capture miscellaneous papers which are reviewed to help extend beyond the HKR-related review.
+
+### T5: Develop the Category BFA
+> [!IMPORTANT]
+> **T5** marks continuous work to develop the Category BFA which will be placed on hold should nothing draw up in 5 months time.
+
+- **Starts:** T5 + 0 months
+- **Depends on:**
+- **Ends:** T5 + 5 months
+- **Contents:**
+  - **[5.1](#t51-continue-to-develop-the-category-bfa):** Continue to Develop the Category BFA
+
+**T5** marks continuous work to develop the Category BFA which will be placed on hold should nothing draw up in 5 months time.
+
+#### T5.1: Continue to Develop the Category BFA
+
+Continue to develop the category BFA, drawing from [T1](#t1-complete-all-exercises-in-distributed-computing-through-combinatorial-topology), [T2](#t2-complete-selected-exercises-from-algebraic-topology), [T3](#t3-write-note-for-bfa-paper), and [T4](#t4-extended-literature-review).
 
 ## Agreeing
 $\emptyset$
