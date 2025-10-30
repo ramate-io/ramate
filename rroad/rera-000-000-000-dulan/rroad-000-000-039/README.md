@@ -66,7 +66,7 @@ Complete the exercises in Part 4: Advanced Topics.
 
 ### T2: Complete Selected Exercises from [Algebraic Topology](https://pi.math.cornell.edu/~hatcher/AT/AT.pdf)
 > [!IMPORTANT]
-> **T2** is a review of the fundamentals of Algebraic Topology to be strongly equipped for the extending the relevant distributed computing frameworks.
+> **T2** is a review of the fundamentals of Algebraic Topology to be strongly equipped for extending the relevant distributed computing frameworks.
 
 - **Starts:** T1 + 0 months
 - **Depends on:** $\emptyset$
