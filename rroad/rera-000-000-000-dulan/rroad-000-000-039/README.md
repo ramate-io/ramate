@@ -26,7 +26,7 @@ In response to these learnings, RROAD-39 proposes in parallel the development of
 ## Roadmap
 - **All leads:** [Liam Monninger](mailto:liam@ramate.io)
 - **Contents:**
-  - **[T1: Complete OROAD-0](#t1-complete-oroad-0)**
+  - **[T1: Complete All Exercises in Distributed Computing through Combinatorial Topology](#t1-complete-all-exercises-in-distributed-computing-through-combinatorial-topology)**
   - **[T2: Meditation](#t2-meditation)**
   - **[T3: Try out revenue models](#t3-try-out-revenue-models)**
   - **[T4: Grow the organization](#t4-grow-the-organization)**
@@ -36,74 +36,47 @@ In response to these learnings, RROAD-39 proposes in parallel the development of
   - **[T8: Create the lifestyle](#t8-create-the-lifestyle)**
   - **[T9: Fulfill the charter](#t9-fulfill-the-charter)**
 
-### T1: Complete OROAD-0
+### T1: Complete All Exercises in [Distributed Computing through Combinatorial Topology](https://www.sciencedirect.com/book/9780124045781/distributed-computing-through-combinatorial-topology)
 > [!IMPORTANT]
-> **T1** is where we put some meat on the bone by pursuing **[OROAD-0](https://github.com/ramate-io/oac/blob/main/oroad/oera-000-000-000-dulan/oroad-000-000-000/README.md)**
+> **T1** is a grounding in the works of Herlihy, Kozlov, Rajsbaum, and related experts via their graduate textbook.
 
 - **Starts:** T1 + 0 months
 - **Depends on:** $\emptyset$
-- **Ends:** T1 + 1 Months
+- **Ends:** T1 + 3 Weeks
 - **Contents:**
-  - **[T1.1](#t11-complete-oroad-0):** Complete OROAD-0
-  - **[T1.2](#t12-ensure-ramate-llc-is-legally-prepared-to-employ-or-contract-contributors)**: Ensure Ramate LLC is legally prepared to employ or contract contributors
-  - **[T1.3](#t13-identify-ip-strategy-and-prepare-licensing):** Identify IP strategy and prepare licensing
-  - **[T1.4](#t14-experiment-with-some-less-intensive-ventures):** Experiment with some less intensive ventures
+  - **[T1.1](#t11-part-1-fundamentals):** Part 1: Fundamentals
+  - **[T1.2](#t12-part-2-colorless-tasks)**: Part 2: Colorless Tasks
+  - **[T1.3](#t13-part-3-general-tasks):** Part 3: General Tasks
+  - **[T1.4](#t14-part-4-advanced-topics):** Part 4: Advanced Topics
 
-**T1** seeks the completion of [OROAD-0](https://github.com/ramate-io/oac/blob/main/oroad/oera-000-000-000-dulan/oroad-000-000-000/README.md). [OROAD-0](https://github.com/ramate-io/oac/blob/main/oroad/oera-000-000-000-dulan/oroad-000-000-000/README.md) contains provisions for technology, staff, and funding.
+Herlihy, Kozlov, and Rajsbaum have a textbook on [Distributed Computing through Combinatorial Topology](https://www.sciencedirect.com/book/9780124045781/distributed-computing-through-combinatorial-topology). Reviewing this will provide a strong survey of the existing the literature to ensure any fundamental misunderstandings do not distract or delude from the pursuit of an improvement in approximate consensus algorithms.
 
-As noted in [RPRE-0](/rpre/rera-000-000-000-dulan/rpre-000-000-000/README.md), we are making a bet on [OAC](https://www.github.com/ramate-io/oac). **T1** is the roadmap which initially guides this bet.
-
-This period will be primarily characterized by [Liam Monninger](mailto:liam@ramate.io) working alone but slowly generating interest in Ramate's projects amongst peers as well as trying out collaborations.
-
-#### T1.1: Complete OROAD-0
+#### T1.1: Part 1: Fundamentals
 - **Leads:** [Liam Monninger](mailto:liam@ramate.io)
 
-Complete [OROAD-0](https://github.com/ramate-io/oac/blob/main/oroad/oera-000-000-000-dulan/oroad-000-000-000/README.md).
+Complete the exercises in Part 1: Fundamentals.
 
-#### T1.2: Ensure Ramate LLC is legally prepared to employ or contract contributors
+#### T1.2: Part 2: Colorless Tasks
 - **Leads:** [Liam Monninger](mailto:liam@ramate.io)
 
-Take steps to ensure that Ramate LLC is legally prepared to employ or contract contributors in the United States, the United Kingdom, the European Union, Taiwan, and Japan.
+Complete the exercises in Part 2: Colorless Tasks.
 
-> [!NOTE]
-> **[[Liam Monninger]](mailto:liam@ramate.io)**
->
-> I would love to have the ability to employ or contract contributors outside these jurisdictions. But, these will be the priorities.
-
-> [!IMPORTANT]
-> **[[Liam Monninger]](mailto:liam@ramate.io)**
->
-> This could be viewed as a dependency for some objectives in [OROAD-0](https://github.com/ramate-io/oac/blob/main/oroad/oera-000-000-000-dulan/oroad-000-000-000/README.md).
-
-#### T1.3: Identify IP strategy and prepare licensing
+#### T1.3: Part 3: General Tasks
 - **Leads:** [Liam Monninger](mailto:liam@ramate.io)
 
-During [OROAD-0](https://github.com/ramate-io/oac/blob/main/oroad/oera-000-000-000-dulan/oroad-000-000-000/README.md), we will be teasing out many revenue models: application developer, infrastructure provider, implementation services, open-source foundation, etc. To ensure we are in a good position to accelerate on the application developer model in particular, we will want to have a coherent legal and operational strategy about how to develop applications in a manner which preserves their IP but also the open goals of OAC, Ramate, and Robles.
+Complete the exercises in Part 3: General Tasks.
 
-To this point, the primary instinct has been to suggest a spinout for all IP we would like to protect for the purpose of revenue and likewise those ventures which are characterized by revenue-driving business operations. That is, each application or application suite would have a spinout. However, it ought to be well understood how such a spinout would come about and direct revenue back to Ramate s.t. such a strategy could be quickly rolled-out in **[T2](#t2-meditation)**.
-
-#### T1.4: Experiment with some less intensive ventures
+#### T1.4: Part 4: Advanced Topics
 - **Leads:** [Liam Monninger](mailto:liam@ramate.io)
 
-Ramate does not intend to have a restrictive sense of self. Further, it is currently and simply [Liam Monninger's](mailto:liam@ramate.io) single-member LLC. We should lean into this perspective and position early on by trying some less intensive ventures.
-
-These could include:
-- [Liam Monninger](mailto:liam@ramate.io) is building the [`roadline` API](https://github.com/ramate-io/oac/tree/main/oroad/oera-000-000-000-dulan/oroad-000-000-005#t6-roadline-api) for his internal planning. Maybe there's a way to push out a freemium application for this or some other API.
-- We are currently putting quite a bit of effort into our repository organization and docs. If other organizations like the way these are set up, it could be an easy contract here or there to do it for them.
-- [Liam Monninger](mailto:liam@ramate.io) has some contacts at a Taiwanese shoe company that has yet to hop to the US market. We could try a pop-up shop with relatively low overhead.
-- [Liam Monninger's](mailto:liam@ramate.io) brother is in wine. We could invest in his winemaking and see if we can turn a profit on a new bottle.
-- [Liam Monninger](mailto:liam@ramate.io) has a few special recipes he's been waiting to try as a pop-up food stand. May be worth a shot.
-- [Liam Monninger](mailto:liam@ramate.io) knows a few artists and people who are interested in creating spaces for creatives. We could invest as partners in the spaces. We could segue artist output into merchandise.
-- [Liam Monninger](mailto:liam@ramate.io) has several connections who are also launching technology startups which are further along. There could be small investments which we could make to generate some revenue from these.
-
-These sorts of less intensive ventures could form a revenue backbone for Ramate LLC which allows for more ambitious projects to continue with longer timelines.
+Complete the exercises in Part 4: Advanced Topics.
 
 ### T2: Meditation
 > [!IMPORTANT]
 > **T2** is where we take a brief pause to think about what may come next.
 
 - **Starts:** T1 + 9 months
-- **Depends on:** [T1](#t1-complete-oroad-0)
+- **Depends on:** [T1](#t1-complete-all-exercises-in-distributed-computing-through-combinatorial-topology)
 - **Ends:** T2 + 3 Months
 - **Contents:**
   - **[T2.1](#t21-cut-back-operations):** Cut back operations
@@ -113,8 +86,6 @@ These sorts of less intensive ventures could form a revenue backbone for Ramate 
   - **[T2.5](#t25-dogfood):** Dogfood
   - **[T2.6](#t26-check-out-the-competition):** Check out the competition
   - **[T2.7](#t27-gather-wisdom-from-mentors):** Gather wisdom from mentors
-
-After the success of **[T1](#t1-complete-oroad-0)**, we should have a lot of information about how the Ramate will be able to proceed practically.
 
 We should know how much funding we have. We should know if there is initial interest in the technology we are building. We should have a sense of how difficult continuing to pursue the planned project and revenue models shall be.
 
@@ -174,13 +145,9 @@ Check-in with mentors. This will likely involve a bit of travel to these mentors
   - **[T3.5](#t35-consider-outside-investment-and-investor-signals):** Consider outside investment and investor signals
   - **[T3.6](#t36-short-sighted-services):** Short-sighted services
 
-Under [T1](#t1-complete-oroad-0) we should have begun to fill out a few different revenue models: applications, infrastructure, implementation services, open-source foundation, etc. **T3** would seek to temporarily shift the focus away from developing technology and instead to investing resources into pursuing these revenue models.
-
 The intent of this phase is naturally to figure out how Ramate can properly sustain itself.
 
 All of this should proceed with or without milestones in [T4: Grow the organization](#t4-grow-the-organization). If necessary, [Liam Monninger](mailto:liam@ramate.io) continuing to go it mostly alone or a more independent set of collaborations should be within expectations.
-
-During this period and in future periods, we would still like to maintain the open mindset to smaller less intensive ventures indicated by [T1.4](#t14-experiment-with-some-less-intensive-ventures).
 
 #### T3.1: Generate revenue from a consumer application
 - **Leads:** [Liam Monninger](mailto:liam@ramate.io)
@@ -322,8 +289,6 @@ Under **T6**, we would pick the "best" revenue model from **[T3](#t3-try-out-rev
 
 Review the model from **[T3](#t3-try-out-revenue-models)**. Decide upon improvements. Rinse and repeat.
 
-We believe we should target covering 50% of total costs with this model. We are prepared to run Ramate at a loss of another year, but also expect smaller ventures in the vein of [T1.4](#t14-experiment-with-some-less-intensive-ventures) should bear some fruit.
-
 #### T6.2: Improve relevant technology
 - **Leads:** [Liam Monninger](mailto:liam@ramate.io)
 
@@ -456,8 +421,6 @@ We would also like to have nearby living quarters to facilitate colocations, per
 
 #### T8.2: Fold in smaller efforts
 - **Leads:** [Liam Monninger](mailto:liam@ramate.io)
-
-We move to bring the smaller and more tangential efforts, such as those suggested by [T1.4](#t14-experiment-with-some-less-intensive-ventures), into Ramate operations properly.
 
 #### T8.3: Add some character to the workshop
 - **Leads:** [Liam Monninger](mailto:liam@ramate.io)
