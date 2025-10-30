@@ -171,7 +171,8 @@
         "simplicial",
         "Gwrdfa",
         "Rajsbaum",
-        "Kozlov"
+        "Kozlov",
+        "HKR-related"
       ]
     },
     "bibtex": {

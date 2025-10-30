@@ -29,6 +29,7 @@ In response to these learnings, RROAD-39 proposes in parallel the development of
   - **[T1: Complete All Exercises in Distributed Computing through Combinatorial Topology](#t1-complete-all-exercises-in-distributed-computing-through-combinatorial-topology)**
   - **[T2: Complete Selected Exercises from Algebraic Topology](#t2-complete-selected-exercises-from-algebraic-topology)**
   - **[T3: Write Note for BFA Paper](#t3-write-note-for-bfa-paper)**
+  - **[T4: Extended Literature Review](#t4-extended-literature-review)**
 
 ### T1: Complete All Exercises in [Distributed Computing through Combinatorial Topology](https://www.sciencedirect.com/book/9780124045781/distributed-computing-through-combinatorial-topology)
 > [!IMPORTANT]
@@ -122,6 +123,29 @@ Complete the exercises in Section 4.1: Homotopy Groups.
 - **Leads:** [Liam Monninger](mailto:liam@ramate.io)
 
 Write the note.
+
+### T4: Extended Literature Review
+> [!IMPORTANT]
+> **T4** continues with the literature review originally endeavored for the [BFA](https://github.com/ramate-io/oac/pull/2), focusing in particularly on those works which reference HKR from [T1](#t1-complete-all-exercises-in-distributed-computing-through-combinatorial-topology).
+
+- **Starts:** T1 + 3 weeks
+- **Depends on:** [T1](#t1-complete-all-exercises-in-distributed-computing-through-combinatorial-topology)
+- **Ends:** T4 + 1 month
+- **Contents:**
+  - **[T4.1](#t41-review-works-relevant-works-referencing-hkr):** Review Works Relevant Works Referencing HKR
+  - **[T4.2](#t42-miscellany):** Miscellany
+
+[Algebraic Topology](https://pi.math.cornell.edu/~hatcher/AT/AT.pdf) is a standard introduction to the field. It is worth taking time to review as [Liam Monninger](mailto:liam@ramate.io) has not attempted to properly study field for several years.
+
+#### T4.1: Review Works Relevant Works Referencing HKR
+- **Leads:** [Liam Monninger](mailto:liam@ramate.io)
+
+Review Works Relevant Works Referencing HKR. Update this bullet point with works planned for in-depth review.
+
+#### T4.2: Miscellany
+- **Leads:** [Liam Monninger](mailto:liam@ramate.io)
+
+This target is to capture miscellaneous papers which are reviewed to help extend beyond the HKR-related review.
 
 ## Agreeing
 $\emptyset$
