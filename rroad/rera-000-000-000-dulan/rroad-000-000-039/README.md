@@ -28,6 +28,7 @@ In response to these learnings, RROAD-39 proposes in parallel the development of
 - **Contents:**
   - **[T1: Complete All Exercises in Distributed Computing through Combinatorial Topology](#t1-complete-all-exercises-in-distributed-computing-through-combinatorial-topology)**
   - **[T2: Complete Selected Exercises from Algebraic Topology](#t2-complete-selected-exercises-from-algebraic-topology)**
+  - **[T3: Write Note for BFA Paper](#t3-write-note-for-bfa-paper)**
 
 ### T1: Complete All Exercises in [Distributed Computing through Combinatorial Topology](https://www.sciencedirect.com/book/9780124045781/distributed-computing-through-combinatorial-topology)
 > [!IMPORTANT]
@@ -35,7 +36,7 @@ In response to these learnings, RROAD-39 proposes in parallel the development of
 
 - **Starts:** T1 + 0 months
 - **Depends on:** $\emptyset$
-- **Ends:** T1 + 3 Weeks
+- **Ends:** T1 + 3 weeks
 - **Contents:**
   - **[T1.1](#t11-part-1-fundamentals):** Part 1: Fundamentals
   - **[T1.2](#t12-part-2-colorless-tasks)**: Part 2: Colorless Tasks
@@ -68,9 +69,9 @@ Complete the exercises in Part 4: Advanced Topics.
 > [!IMPORTANT]
 > **T2** is a review of the fundamentals of Algebraic Topology to be strongly equipped for extending the relevant distributed computing frameworks.
 
-- **Starts:** T1 + 0 months
+- **Starts:** T2 + 0 months
 - **Depends on:** $\emptyset$
-- **Ends:** T1 + 1 Month
+- **Ends:** T2 + 1 month
 - **Contents:**
   - **[T2.1](#t21-chapter-0-underlying-geometric-notions):** Chapter 0: Underlying Geometric Notions
   - **[T2.2](#t12-part-2-colorless-tasks)**: Chapter 1: The Fundamental Group
@@ -104,6 +105,23 @@ Complete the exercises in Section 4.1: Homotopy Groups.
 
 > [!NOTE]
 > The driving interests in this chapter are cellular approximation and CW approximation. See this comment for why [CW approximation](https://math.stackexchange.com/a/2805959) in particular is useful when modeling with difficult spaces.
+
+### T3: Write Note for [BFA](https://github.com/ramate-io/oac/pull/2) Paper
+> [!IMPORTANT]
+> **T3** simply writes a note to stand for the BFA paper in the short-run, replacing the current ACM formatted text.
+
+- **Starts:** T1 + 3 weeks
+- **Depends on:** [T1](#t1-complete-all-exercises-in-distributed-computing-through-combinatorial-topology)
+- **Ends:** T3 + 1 week
+- **Contents:**
+  - **[T3.1](#t31-write-note-for-bfa-paper):** Write Note for [BFA](https://github.com/ramate-io/oac/pull/2) Paper
+
+**T3** simply writes a note to stand for the BFA paper in the short-run, replacing the current ACM formatted text.
+
+#### T3.1: Write Note for [BFA](https://github.com/ramate-io/oac/pull/2) Paper
+- **Leads:** [Liam Monninger](mailto:liam@ramate.io)
+
+Write the note.
 
 ## Agreeing
 $\emptyset$
