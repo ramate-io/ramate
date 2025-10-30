@@ -1,4 +1,4 @@
-# RROAD-0: A Second Breath
+# RROAD-39: A Second Breath
 - **Authors:** [Liam Monninger](liam@ramate.io)
 - **Contents:**
   - **[Summary](#summary)**
@@ -8,7 +8,18 @@
   - **[Appendix](#appendix)**
 
 ## Summary
-RROAD-0 sketches an aspirational roadmap from [OROAD-0](https://github.com/ramate-io/oac/blob/main/oroad/oera-000-000-000-dulan/oroad-000-000-000/README.md) to an ideal endstate wherein Ramate has realized [Liam Monninger's](mailto:liam@ramate.io) original ambition of the organization as a close-knit workshop built around a core of computing projects. This is the "gameplan" with which Ramate embarks.
+RROAD-39 responds to learnings from the execution of [OROAD-0](https://github.com/ramate-io/oac/blob/main/oroad/oera-000-000-000-dulan/oroad-000-000-000/README.md) to better inform Ramate's pursuit of the OAC project. It also responds to financial and career realities which may affect [Liam Monninger's](mailto:liam@ramate.io) ability to execute on the original ambition of the project in the coming year, 2026.
+
+In particular, while researching a categorical representation of topological protocols for distributed systems, [Liam Monninger](mailto:liam@ramate.io) came across what may be an impossibility result closely related to [Mendes and Herlihy, 2013](https://www.semanticscholar.org/paper/Multidimensional-approximate-agreement-in-Byzantine-Mendes-Herlihy/fadd83389e4d24c3692a678b35564cca2d5e8259) and [Vaidya and Garg, 2013](https://arxiv.org/abs/1302.2543). As a less intensive task, he would like to study this potential impossibility result and attempt to avoid it while expanding upon simplicial consensus algorithms, perhaps particularly barycentric ones. This effectively extends the timeline on the paper in pursuit of a non-trivial contribution to the field of Distributed Systems Theory.
+
+Additionally, [Liam Monninger](mailto:liam@ramate.io) proposes a pivot to a distributed and decentralized game, What Covers the Peers, to diversify and decouple Ramate's software offerings, to develop new skills, and to provide a better showcase for early OAC protocols. (See [Appendix A1](#a1-advantages-of-what-covers-the-peers) for more detail.)
+
+Finally, [Liam Monninger's](mailto:liam@ramate.io) primary means of extending the OAC project in the medium-run, sales of the [MOVE token](https://coinmarketcap.com/currencies/movement/), are negatively impacted by continue devaluation of that asset. We believe the extended research timeline adds to [Liam Monninger's](mailto:liam@ramate.io) skillset and better positions Ramate to attract serious interest via an academic contribution. We also believe the development of a game further enhances [Liam Monninger's](mailto:liam@ramate.io) skillset, while providing early and more realizable revenue model for Ramate. Additional emphasis on early bring-ups and improvements to embedded runtimes could further position [Liam Monninger](mailto:liam@ramate.io) to derive career benefits from a more mature embedded portfolio, while also improving usability if OCA were to begin picking up outside interest.
+
+> [!NOTE]
+> [[Liam Monninger](mailto:liam@ramate.io)]
+>
+> I'm still using the third person and first-person royal because that's intended tone for collaborative documents in the long-run.
 
 ## Roadmap
 - **All leads:** [Liam Monninger](mailto:liam@ramate.io)
@@ -504,7 +515,17 @@ $\emptyset$
 $\emptyset$
 
 ## Appendix
-$\emptyset$
+
+### A1: Advantages of What Covers the Peers
+
+1. What Covers the Peers provides [OAC](https://github.com/ramate-io/oac) with a lower-stakes technical consistency setting to demonstrate OAC capabilities. Even though Thro as social media might, in its early days, be acceptable with some dropped posts, technical consistency requirements tend to be higher. Whereas, if a game still largely functions, a few dropped interactions are less likely to matter.
+2. What Covers the Peers proposes using procedural generation and pushing primarily validation and constrained persistence tasks to the [OAC](https://github.com/ramate-io/oac) layer. This makes the individual compute tasks generally less intensive, suiting the constrained targets which [BFA](https://github.com/ramate-io/oac/pull/2) prioritizes.
+3. Working on general game develop and particularly procedural generation tasks builds skills for Ramate and [Liam Monninger](mailto:liam@ramate.io) which are extrinsic to the OAC project, thereby diversifying.
+4. If OAC becomes a limiting factor, What Covers the Peers would more likely be effectively monetized without decentralization features than would the Thro as a social media.
+5. Gamers tend to be early adopters meaning the technical premise of the game could be more appealing.
+6. What Covers the Peers likely does not need as large a critical mass of users to be as enjoyable as a Thro.
+7. What Covers the Peers presents world-modeling tasks that align more closely with the long term challenges of swarm coordination and AI safety which OAC seeks to pursue.
+8. What Covers the Peers is generally more fun and inspiring project--in its initial form--than Thro.
 
 <!--RAMATE FOOTER: DO NOT REMOVE THIS LINE-->
 ---
