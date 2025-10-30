@@ -21,6 +21,8 @@ Finally, [Liam Monninger's](mailto:liam@ramate.io) primary means of extending th
 >
 > I'm still using the third person and first-person royal because that's intended tone for collaborative documents in the long-run.
 
+In response to these learnings, RROAD-39 proposes in parallel the development of the core BFA sampling implementation under [Gwrdfa](https://github.com/ramate-io/gwrdfa); development of What Covers the Peers; enhancements to [Fuste](https://github.com/ramate-io/fuste); maintenance of [cite](https://github.com/ramate-io/cite), and [Roadline](https://github.com/ramate-io/roadline); and continued research into simplicial consensus.
+
 ## Roadmap
 - **All leads:** [Liam Monninger](mailto:liam@ramate.io)
 - **Contents:**
@@ -40,7 +42,7 @@ Finally, [Liam Monninger's](mailto:liam@ramate.io) primary means of extending th
 
 - **Starts:** T1 + 0 months
 - **Depends on:** $\emptyset$
-- **Ends:** T1 + 9 Months
+- **Ends:** T1 + 1 Months
 - **Contents:**
   - **[T1.1](#t11-complete-oroad-0):** Complete OROAD-0
   - **[T1.2](#t12-ensure-ramate-llc-is-legally-prepared-to-employ-or-contract-contributors)**: Ensure Ramate LLC is legally prepared to employ or contract contributors
