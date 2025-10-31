@@ -172,7 +172,7 @@ This target is to capture miscellaneous papers which are reviewed to help extend
 - **Depends on:** $\emptyset$
 - **Ends:** T5 + 5 months
 - **Contents:**
-  - **[5.1](#t51-continue-to-develop-the-category-bfa):** Continue to Develop the Category BFA
+  - **[T5.1](#t51-continue-to-develop-the-category-bfa):** Continue to Develop the Category BFA
 
 **T5** marks continuous work to develop the Category BFA which will be placed on hold should nothing draw up in 5 months time.
 
@@ -223,7 +223,7 @@ Integrate [T6.1](#t61-experiment-with-a-procedural-terrain-initial-concept-in-be
 - **Depends on:** $\emptyset$
 - **Ends:** T7 + 1 month
 - **Contents:**
-  - **[7.1](#t71-draft-rde):** Draft RDE
+  - **[T7.1](#t71-draft-rde):** Draft RDE
 
 **T7** requests a draft RDE describing the desired design of What Covers the Peers. This should include specific prompts for world models, seeding and procedural generation, graphics, gameplay, and decentralized integration.
 
@@ -352,7 +352,7 @@ Integrate all procedural generation layers. Update for validation if time allows
 > **T12** brings up the alpha for What Covers the Peers.
 
 - **Starts:** T11 + 1 month
-- **Depends on:** [T8](#t8-procedural-characters-populations-and-skilltrees), [T10](#t10-shaders-and-assets)
+- **Depends on:** [T11](#t11-integrate-procedural-generation-layers-and-assets)
 - **Ends:** T12 + 2 months
 - **Contents:**
   - **[T12.1](#t111-integrate-assets-with-terrain-and-cities):** Miscellany
@@ -478,7 +478,7 @@ Implement a plugin with [BFA](https://github.com/ramate-io/oac/pull/2) which sup
 > **T16** implements the [Gwrdfa](https://github.com/ramate-io/gwrdfa) Alpha.
 
 - **Starts:** T18 + 1 month
-- **Depends on:** T18
+- **Depends on:** [T18](#t18-emframed-bringup)
 - **Ends:** T16 + 1 month
 - **Contents:**
   - **[T16.1](#t161-implement-no_std-subsampling-stack-with-emframed):** Implement `#![no_std]` Subsampling Stack with [Emframed](https://github.com/ramate-io/emframed)
