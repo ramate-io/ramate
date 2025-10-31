@@ -45,6 +45,8 @@ In response to these learnings, RROAD-39 proposes in parallel the development of
   - **[T17: Gwrdfa Networking and OTA](#t17-gwrdfa-networking-and-ota)**
   - **[T18: Emframed Bringup](#t18-emframed-bringup)**
   - **[T19: What Covers the Peers Initial Decentralization](#t19-what-covers-the-peers-initial-decentralization)**
+  - **[T20: Use, Enhance, and Maintain Cite](#t20-use-enhance-and-maintain-cite)**
+  - **[T21: Use, Enhance, and Maintain Roadline](#t21-use-enhance-and-maintain-roadline)**
 
 ### T1: Complete All Exercises in [Distributed Computing through Combinatorial Topology](https://www.sciencedirect.com/book/9780124045781/distributed-computing-through-combinatorial-topology)
 > [!IMPORTANT]
