@@ -41,6 +41,7 @@ In response to these learnings, RROAD-39 proposes in parallel the development of
   - **[T13: Validate Fuste](#t13-validate-fuste)**
   - **[T14: Fuste Developer Features](#t14-fuste-developer-features)**
   - **[T15: Fuste BFA Plugins](#t15-fuste-bfa-plugins)**
+  - **[T16: Gwrdfa Alpha](#t16-gwrdfa-alpha)**
 
 ### T1: Complete All Exercises in [Distributed Computing through Combinatorial Topology](https://www.sciencedirect.com/book/9780124045781/distributed-computing-through-combinatorial-topology)
 > [!IMPORTANT]
@@ -433,13 +434,23 @@ Add an easy-to-use workspace template for working with Fuste targets and Fubox.
 > **T15** extends the [Fuste](https://github.com/ramate-io/fuste) implementation with improved developer features.
 
 - **Starts:** T16 + 1 month
-- **Depends on:** T16
-- **Ends:** T14 + 1 month
+- **Depends on:** [T16](#t16-gwrdfa-alpha)
+- **Ends:** T15 + 1 month
 - **Contents:**
   - **[T15.1](#t151-transaction-metadata-plugin):** Transaction Metadata Plugin
   - **[T15.2](#t152-state-plugin):** State Plugin
 
-**T13** validates [Fuste](https://github.com/ramate-io/fuste) implementation.
+**T15** extends the [Fuste](https://github.com/ramate-io/fuste) implementation with improved developer features.
+
+> [!TIP]
+> By completion of this task, [T16](#t16-gwrdfa-alpha), and T17, we should have the modules programmable platform, though one which lacks extensive program upload features and dispatch.
+
+> [!NOTE]
+> We're leaving off dispatch features, as these aren't necessary to simple applications, though they are commonly expected in DLT. The main challenge here is that we would need to play with dynamic loading.
+>
+> At the moment, there seems most likely we would use a multi-hart setup and have a new `ecall` that loads the dispatched module in a new hart, executes, and transfers the effects to the state output of the calling hart. This is approach has rather a lot of overhead. We would place fixed limits on the depth of dispatch that would be quite small for embedded contexts. Compare with, for example, ETH which has a contract call depth limit of 1024.
+>
+> Continuations are also conceivable, but they would break transaction semantics unless we make task pipelining much more complex.
 
 #### T15.1: Transaction Metadata Plugin
 - **Leads:** [Liam Monninger](mailto:liam@ramate.io)
@@ -452,13 +463,46 @@ Implement a plugin with [BFA](https://github.com/ramate-io/oac/pull/2) which sup
 > [!NOTE]
 > This will be target specific, more than likely.
 
-> [!TIP]
-> By completion of this task, T16, and T17, we should have the modules programmable platform, though one which lacks extensive program upload features and dispatch.
-
 #### T15.2: State Plugin
 - **Leads:** [Liam Monninger](mailto:liam@ramate.io)
 
 Implement a plugin with [BFA](https://github.com/ramate-io/oac/pull/2) which supports getting and setting application state. Wrap this in `Deref` semantics if time permits.
+
+### T16: [Gwrdfa](https://github.com/ramate-io/gwrdfa) Alpha
+> [!IMPORTANT]
+> **T16** implements the [Gwrdfa](https://github.com/ramate-io/gwrdfa) Alpha.
+
+- **Starts:** T18 + 1 month
+- **Depends on:** T18
+- **Ends:** T16 + 1 month
+- **Contents:**
+  - **[T16.1](#t161-implement-no_std-subsampling-stack-with-emframed):** Implement `#![no_std]` Subsampling Stack with [Emframed](https://github.com/ramate-io/emframed)
+  - **[T15.2](#t152-state-plugin):** State Plugin
+
+**T16** implements the [Gwrdfa](https://github.com/ramate-io/gwrdfa) Alpha.
+
+#### T16.1: Implement `#![no_std]` Subsampling Stack with [Emframed](https://github.com/ramate-io/emframed)
+- **Leads:** [Liam Monninger](mailto:liam@ramate.io)
+
+Implement the subsampling protocol with approximate BFA consensus as denoted $\mathcal{D}$ in the [BFA ACM Paper](https://github.com/ramate-io/bfa/blob/main/papers/acmart/main.pdf) for `#![no_std]` with [Emframed](https://github.com/ramate-io/emframed).
+
+#### T16.2: [Gwrdfa](https://github.com/ramate-io/gwrdfa) [`smoltcp`](https://github.com/smoltcp-rs/smoltcp)
+- **Leads:** [Liam Monninger](mailto:liam@ramate.io)
+
+Implement [Gwrdfa](https://github.com/ramate-io/gwrdfa) networking with `smoltcp`.
+
+#### T16.3: Demonstration Application for iPhone
+- **Leads:** [Liam Monninger](mailto:liam@ramate.io)
+
+Implement a demonstration [Gwrdfa](https://github.com/ramate-io/gwrdfa) application for iPhone and ship.
+
+> [!NOTE]
+> This is mainly to ensure that we have capably.
+
+#### T16.4: Demonstration Application for ESP32
+- **Leads:** [Liam Monninger](mailto:liam@ramate.io)
+
+Implement a demonstration [Gwrdfa](https://github.com/ramate-io/gwrdfa) application for ESP32 and ship.
 
 ## Agreeing
 $\emptyset$

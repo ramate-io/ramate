@@ -180,7 +180,8 @@
         "Bringup",
         "Creusot",
         "Fubox",
-        "toolchain"
+        "toolchain",
+        "Emframed"
       ]
     },
     "bibtex": {
