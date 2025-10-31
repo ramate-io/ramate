@@ -174,24 +174,24 @@ Continue to develop the category BFA, drawing from [T1](#t1-complete-all-exercis
 - **Depends on:** $\emptyset$
 - **Ends:** T6 + 1 month
 - **Contents:**
-  - **[T6.1](#t61-play-around-w-a-procedural-terrain-initial-concept-in-bevy):** Play Around w/ a Procedural Terrain Initial Concept in Bevy
-  - **[T6.2](#t62-play-around-w-a-procedural-structures-initial-concept-in-bevy):** Play Around w/ a Procedural Structures Initial Concept in Bevy
-  - **[T6.3](#t63-play-around-w-a-procedural-cities-initial-concept-in-bevy):** Play Around w/ a Procedural Cities Initial Concept in Bevy
+  - **[T6.1](#t61-experiment-with-a-procedural-terrain-initial-concept-in-bevy):** Experiment with a Procedural Terrain Initial Concept in Bevy
+  - **[T6.2](#t62-experiment-with-a-procedural-structures-initial-concept-in-bevy):** Experiment with a Procedural Structures Initial Concept in Bevy
+  - **[T6.3](#t63-experiment-with-a-procedural-cities-initial-concept-in-bevy):** Experiment with a Procedural Cities Initial Concept in Bevy
   - **[T6.4](#t64-integrate-procedural-cities-and-terrain):** Integrate Procedural Cities and Terrain
 
 **T6** constitutes an initial attempt to develop procedural generation tools for the What Covers the Peers game. It affords time to explore some procedural generation concepts particularly those concerning landscapes and cities and within the Bevy framework.
 
-#### T6.1: Play Around w/ a Procedural Terrain Initial Concept in Bevy
+#### T6.1: Experiment with a Procedural Terrain Initial Concept in Bevy
 - **Leads:** [Liam Monninger](mailto:liam@ramate.io)
 
 Play around w/ a procedural terrain initial concept in Bevy. Figure out nice patterns for programming, seeding, review some relevant papers.
 
-#### T6.2: Play Around w/ a Procedural Structures Initial Concept in Bevy
+#### T6.2: Experiment with a Procedural Structures Initial Concept in Bevy
 - **Leads:** [Liam Monninger](mailto:liam@ramate.io)
 
 Play around w/ a procedural structures initial concept in Bevy. Figure out nice patterns for programming, seeding, review some relevant papers.
 
-#### T6.3: Play Around w/ a Procedural Cities Initial Concept in Bevy
+#### T6.3: Experiment with a Procedural Cities Initial Concept in Bevy
 - **Leads:** [Liam Monninger](mailto:liam@ramate.io)
 
 Play around w/ a procedural cities initial concept in Bevy. Figure out nice patterns for programming, seeding, review some relevant papers.
@@ -199,15 +199,15 @@ Play around w/ a procedural cities initial concept in Bevy. Figure out nice patt
 #### T6.4: Integrate Procedural Cities and Terrain
 - **Leads:** [Liam Monninger](mailto:liam@ramate.io)
 
-Integrate [T6.1](#t61-play-around-w-a-procedural-terrain-initial-concept-in-bevy) and [T6.3](#t63-play-around-w-a-procedural-cities-initial-concept-in-bevy).
+Integrate [T6.1](#t61-experiment-with-a-procedural-terrain-initial-concept-in-bevy) and [T6.3](#t63-experiment-with-a-procedural-cities-initial-concept-in-bevy).
 
 ### T7: Draft RDE for What Covers the Peers
 > [!IMPORTANT]
 > **T7** requests a draft RDE describing the desired design of What Covers the Peers.
 
-- **Starts:** T6 + 0 weeks
+- **Starts:** T7 + 0 weeks
 - **Depends on:** $\emptyset$
-- **Ends:** T6 + 1 month
+- **Ends:** T7 + 1 month
 - **Contents:**
   - **[7.1](#t71-draft-rde):** Draft RDE
 
@@ -219,6 +219,35 @@ The RDE should suggest some specific techniques and reference papers.
 - **Leads:** [Liam Monninger](mailto:liam@ramate.io)
 
 Draft the RDE.
+
+### T8: Procedural Characters, Populations, and Skilltrees
+> [!IMPORTANT]
+> **T8** continues from [T6](#t6-procedural-landscapes-and-cities), experimenting with procedural generation for characters.
+
+- **Starts:** T6 + 1 month
+- **Depends on:** [T6](#t6-procedural-landscapes-and-cities)
+- **Ends:** T8 + 2 months
+- **Contents:**
+  - **[T8.1](#t81-experiment-with-procedural-character-generation-in-bevy):** Experiment with Procedural Character Generation in Bevy
+  - **[T8.2](#t82-experiment-with-procedural-population-generation-in-bevy):** Experiment with Procedural Population Generation in Bevy
+  - **[T8.3](#t83-experiment-with-procedural-skilltree-generation-in-bevy):** Experiment with Procedural Skilltree Generation in Bevy
+
+**T8** continues from [T6](#t6-procedural-landscapes-and-cities), experimenting with procedural generation for characters.
+
+#### T8.1: Experiment with Procedural Character Generation in Bevy
+- **Leads:** [Liam Monninger](mailto:liam@ramate.io)
+
+Play around w/ a procedural characters initial concept in Bevy. Figure out nice patterns for programming, seeding, review some relevant papers.
+
+#### T8.2: Experiment with Procedural Population Generation in Bevy
+- **Leads:** [Liam Monninger](mailto:liam@ramate.io)
+
+Play around w/ a procedural populations initial concept in Bevy. Figure out nice patterns for programming, seeding, review some relevant papers.
+
+#### T8.3: Experiment with Procedural Skilltree Generation in Bevy
+- **Leads:** [Liam Monninger](mailto:liam@ramate.io)
+
+Play around w/ a procedural skilltrees initial concept in Bevy. Figure out nice patterns for programming, seeding, review some relevant papers.
 
 ## Agreeing
 $\emptyset$
