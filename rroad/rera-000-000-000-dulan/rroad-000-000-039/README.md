@@ -310,10 +310,7 @@ Develop assets for [T9](#t9-draft-rspecs-for-what-covers-the-peers).
   - **[T11.2](#t114-integrate-assets-with-items):** Integrate Assets with Items
   - **[T11.1](#t115-integrate-procedural-generation-layers):** Integrate Procedural Generation Layers
 
-**T10** requests the development of shaders graphics and assets to implement [T9](#t9-draft-rspecs-for-what-covers-the-peers).
-
-> [!NOTE]
-> **[T9](#t9-draft-rspecs-for-what-covers-the-peers)** will hopefully have provided a fairly simple graphic design to implement.
+**T11** integrates the procedural generation and asset layers.
 
 #### T11.1: Integrate Assets with Terrain and Cities
 - **Leads:** [Liam Monninger](mailto:liam@ramate.io)
@@ -339,6 +336,23 @@ Integrate assets with items.
 - **Leads:** [Liam Monninger](mailto:liam@ramate.io)
 
 Integrate all procedural generation layers. Update for validation if time allows.
+
+### T12: What Covers the Peers Alpha Bringup
+> [!IMPORTANT]
+> **T12** brings up the alpha for What Covers the Peers.
+
+- **Starts:** T11 + 1 month
+- **Depends on:** [T8](#t8-procedural-characters-populations-and-skilltrees), [T10](#t10-shaders-and-assets)
+- **Ends:** T12 + 2 months
+- **Contents:**
+  - **[T12.1](#t111-integrate-assets-with-terrain-and-cities):** Miscellany
+
+**T11** integrates the procedural generation and asset layers.
+
+#### T12.1: Miscellany
+- **Leads:** [Liam Monninger](mailto:liam@ramate.io)
+
+Placeholder for game bring up and other miscellany.
 
 ## Agreeing
 $\emptyset$
