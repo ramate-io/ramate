@@ -36,6 +36,7 @@ In response to these learnings, RROAD-39 proposes in parallel the development of
   - **[T8: Procedural Characters, Populations, and Skilltrees](#t8-procedural-characters-populations-and-skilltrees)**
   - **[T9: Draft RSPECs for What Covers the Peers](#t9-draft-rspecs-for-what-covers-the-peers)**
   - **[T10: Assets and Shaders](#t10-shaders-and-assets)**
+  - **[T11: Integrate Procedural Generation Layers and Assets](#t11-integrate-procedural-generation-layers-and-assets)**
 
 ### T1: Complete All Exercises in [Distributed Computing through Combinatorial Topology](https://www.sciencedirect.com/book/9780124045781/distributed-computing-through-combinatorial-topology)
 > [!IMPORTANT]
@@ -273,9 +274,9 @@ Respond to [T7](#t7-draft-rde-for-what-covers-the-peers) completely to describe 
 > [!IMPORTANT]
 > **T10** requests the development of shaders graphics and assets to implement [T9](#t9-draft-rspecs-for-what-covers-the-peers).
 
-- **Starts:** T6 + 1 month
-- **Depends on:** [T6](#t6-procedural-landscapes-and-cities)
-- **Ends:** T8 + 2 months
+- **Starts:** T9 + 1 month
+- **Depends on:** [T9](#t91-draft-the-rspecs)
+- **Ends:** T10 + 1 month
 - **Contents:**
   - **[T8.1](#t81-experiment-with-procedural-character-generation-in-bevy):** Develop T9 Shaders
   - **[T8.2](#t82-experiment-with-procedural-population-generation-in-bevy):** Develop T9 Assets
@@ -294,6 +295,50 @@ Develop shaders for [T9](#t9-draft-rspecs-for-what-covers-the-peers).
 - **Leads:** [Liam Monninger](mailto:liam@ramate.io)
 
 Develop assets for [T9](#t9-draft-rspecs-for-what-covers-the-peers).
+
+### T11: Integrate Procedural Generation Layers and Assets
+> [!IMPORTANT]
+> **T11** integrates the procedural generation and asset layers.
+
+- **Starts:** T10 + 1 month
+- **Depends on:** [T8](#t8-procedural-characters-populations-and-skilltrees), [T10](#t10-shaders-and-assets)
+- **Ends:** T11 + 1 month
+- **Contents:**
+  - **[T11.1](#t111-integrate-assets-with-terrain-and-cities):** Integrate Assets with Terrain and Cities
+  - **[T11.2](#t112-integrate-assets-with-characters):** Integrate Assets with Characters
+  - **[T11.1](#t113-develop-items-procedural-generation):** Develop Items Procedural Generation
+  - **[T11.2](#t114-integrate-assets-with-items):** Integrate Assets with Items
+  - **[T11.1](#t115-integrate-procedural-generation-layers):** Integrate Procedural Generation Layers
+
+**T10** requests the development of shaders graphics and assets to implement [T9](#t9-draft-rspecs-for-what-covers-the-peers).
+
+> [!NOTE]
+> **[T9](#t9-draft-rspecs-for-what-covers-the-peers)** will hopefully have provided a fairly simple graphic design to implement.
+
+#### T11.1: Integrate Assets with Terrain and Cities
+- **Leads:** [Liam Monninger](mailto:liam@ramate.io)
+
+Integrate assets with terrain and cities.
+
+#### T11.2: Integrate Assets with Characters
+- **Leads:** [Liam Monninger](mailto:liam@ramate.io)
+
+Integrate Assets with Characters
+
+#### T11.3: Develop Items Procedural Generation
+- **Leads:** [Liam Monninger](mailto:liam@ramate.io)
+
+Develop items procedural generation.
+
+#### T11.4: Integrate Assets with Items
+- **Leads:** [Liam Monninger](mailto:liam@ramate.io)
+
+Integrate assets with items.
+
+#### T11.5: Integrate Procedural Generation Layers
+- **Leads:** [Liam Monninger](mailto:liam@ramate.io)
+
+Integrate all procedural generation layers. Update for validation if time allows.
 
 ## Agreeing
 $\emptyset$
