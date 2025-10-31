@@ -4,6 +4,7 @@ Ramate Roadmaps (RROAD) are roadmaps describing the intents and objectives of Ra
 <!--START OAC INDEX: DO NOT REMOVE THIS LINE -->
 ## [RROAD: RERA-0: DULAN](rera-000-000-000-dulan/README.md)
 - **[RROAD-0](/rroad/rera-000-000-000-dulan/rroad-000-000-000/README.md):** the initial roadmap for Ramate.
+- **[RROAD-39](/rroad/rera-000-000-000-dulan/rroad-000-000-039/README.md):** a roadmap for the early stages of Ramate that diversifies from the OAC project.
 
 <!--RAMATE FOOTER: DO NOT REMOVE THIS LINE-->
 ---

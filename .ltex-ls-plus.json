@@ -1,6 +1,10 @@
 {
   "ltex": {
-    "enabled": ["markdown", "plaintext", "restructuredtext"],
+    "enabled": [
+      "markdown",
+      "plaintext",
+      "restructuredtext"
+    ],
     "language": "en-US",
     "checkFrequency": "save",
     "disabledRules": {
@@ -156,12 +160,42 @@
         "RPROC",
         "ROGOV",
         "RDE-n",
-        "Roadline"
+        "Roadline",
+        "skillset",
+        "Distributed Systems Theory",
+        "barycentric",
+        "Mendes",
+        "Herlihy",
+        "Vaidya",
+        "Garg",
+        "simplicial",
+        "Gwrdfa",
+        "Rajsbaum",
+        "Kozlov",
+        "HKR-related",
+        "skilltree",
+        "skilltrees",
+        "Skilltree",
+        "Skilltrees",
+        "Bringup",
+        "Creusot",
+        "Fubox",
+        "toolchain",
+        "Emframed",
+        "OSPEC",
+        "OTAs"
       ]
     },
-    "bibtex": { "fields": {} },
-    "latex": { "commands": {}, "environments": {} },
-    "markdown": { "nodes": {} },
+    "bibtex": {
+      "fields": {}
+    },
+    "latex": {
+      "commands": {},
+      "environments": {}
+    },
+    "markdown": {
+      "nodes": {}
+    },
     "configurationTarget": {
       "addToDictionary": "workspaceFolder",
       "disableRule": "workspaceFolder",
