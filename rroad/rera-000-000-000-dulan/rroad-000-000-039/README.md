@@ -37,6 +37,8 @@ In response to these learnings, RROAD-39 proposes in parallel the development of
   - **[T9: Draft RSPECs for What Covers the Peers](#t9-draft-rspecs-for-what-covers-the-peers)**
   - **[T10: Assets and Shaders](#t10-shaders-and-assets)**
   - **[T11: Integrate Procedural Generation Layers and Assets](#t11-integrate-procedural-generation-layers-and-assets)**
+  - **[T12: What Covers the Peers Alpha Bringup](#t12-what-covers-the-peers-alpha-bringup)**
+  - **[T13: Validate Fuste](#t13-validate-fuste)**
 
 ### T1: Complete All Exercises in [Distributed Computing through Combinatorial Topology](https://www.sciencedirect.com/book/9780124045781/distributed-computing-through-combinatorial-topology)
 > [!IMPORTANT]
@@ -353,6 +355,44 @@ Integrate all procedural generation layers. Update for validation if time allows
 - **Leads:** [Liam Monninger](mailto:liam@ramate.io)
 
 Placeholder for game bring up and other miscellany.
+
+### T13: Validate [Fuste](https://github.com/ramate-io/fuste)
+> [!IMPORTANT]
+> **T13** validates [Fuste](https://github.com/ramate-io/fuste) implementation.
+
+- **Starts:** T13 + 0 months
+- **Depends on:** $\emptyset$
+- **Ends:** T13 + 3 months
+- **Contents:**
+  - **[T13.1](#t131-embedded-machine-simulator-drop-in):** Embedded Machine Simulator Drop In
+  - **[T13.2](#t132-formal-verification-of-instruction-interpretation):** Formal Verification of Instruction Interpretation
+  - **[T13.3](#t133-formal-verification-of-ecalls):** Formal Verification of `ecalls`
+  - **[T13.4](#t134-formal-verification-of-fuste-crates):** Formal Verification of `fuste` Crates
+
+**T13** validates [Fuste](https://github.com/ramate-io/fuste) implementation.
+
+#### T13.1: Embedded Machine Simulator Drop In
+- **Leads:** [Liam Monninger](mailto:liam@ramate.io)
+
+Adds the machine simulator for various `ecalls` and other `unsafe { asm! }` expressions when compiled on targets which are not in Fuste family. This allows for testing and proving the correctness of these expressions while only needing to validate the `asm!` translation.
+
+#### T13.2: Formal Verification of Instruction Interpretation
+- **Leads:** [Liam Monninger](mailto:liam@ramate.io)
+
+Adds formal verification of instruction interpretation using [Creusot](https://github.com/creusot-rs/creusot) and provides [cited](https://github.com/creusot-rs/creusot) reference to OAC spec.
+
+#### T13.3: Formal Verification of `ecalls`
+- **Leads:** [Liam Monninger](mailto:liam@ramate.io)
+
+Builds on [T13.1](#t131-embedded-machine-simulator-drop-in) to formally verify `ecalls`.
+
+#### T13.4: Formal Verification of `fuste` Crates
+- **Leads:** [Liam Monninger](mailto:liam@ramate.io)
+
+Builds on [T13.3](#t133-formal-verification-of-ecalls) to formally verify usage of `ecalls` of the environment crates `fuste`, `fuste-galloc`, etc.
+
+> [!NOTE]
+> As we begin to consider memory-sharing abstractions between the virtual machine and the system, it's important to note the [limitations of Rust own formal specification](https://news.ycombinator.com/item?id=29109156).
 
 ## Agreeing
 $\emptyset$
