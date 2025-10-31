@@ -172,8 +172,10 @@ Continue to develop the category BFA, drawing from [T1](#t1-complete-all-exercis
 - **Depends on:** $\emptyset$
 - **Ends:** T6 + 1 month
 - **Contents:**
-  - **[T6.1](#t41-review-works-relevant-works-referencing-hkr):** Review Works Relevant Works Referencing HKR
-  - **[T6.2](#t42-miscellany):** Miscellany
+  - **[T6.1](#t61-play-around-w-a-procedural-terrain-initial-concept-in-bevy):** Play Around w/ a Procedural Terrain Initial Concept in Bevy
+  - **[T6.2](#t62-play-around-w-a-procedural-structures-initial-concept-in-bevy):** Play Around w/ a Procedural Structures Initial Concept in Bevy
+  - **[T6.3](#t63-play-around-w-a-procedural-cities-initial-concept-in-bevy):** Play Around w/ a Procedural Cities Initial Concept in Bevy
+  - **[T6.4](#t64-integrate-procedural-cities-and-terrain):** Integrate Procedural Cities and Terrain
 
 **T6** constitutes an initial attempt to develop procedural generation tools for the What Covers the Peers game. It affords time to explore some procedural generation concepts particularly those concerning landscapes and cities and within the Bevy framework.
 
