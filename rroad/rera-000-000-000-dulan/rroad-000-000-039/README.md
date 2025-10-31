@@ -39,6 +39,7 @@ In response to these learnings, RROAD-39 proposes in parallel the development of
   - **[T11: Integrate Procedural Generation Layers and Assets](#t11-integrate-procedural-generation-layers-and-assets)**
   - **[T12: What Covers the Peers Alpha Bringup](#t12-what-covers-the-peers-alpha-bringup)**
   - **[T13: Validate Fuste](#t13-validate-fuste)**
+  - **[T14: Fuste Developer Features](#t14-fuste-developer-features)**
 
 ### T1: Complete All Exercises in [Distributed Computing through Combinatorial Topology](https://www.sciencedirect.com/book/9780124045781/distributed-computing-through-combinatorial-topology)
 > [!IMPORTANT]
@@ -393,6 +394,38 @@ Builds on [T13.3](#t133-formal-verification-of-ecalls) to formally verify usage 
 
 > [!NOTE]
 > As we begin to consider memory-sharing abstractions between the virtual machine and the system, it's important to note the [limitations of Rust own formal specification](https://news.ycombinator.com/item?id=29109156).
+
+### T14: [Fuste](https://github.com/ramate-io/fuste) Developer Features
+> [!IMPORTANT]
+> **T14** extends the [Fuste](https://github.com/ramate-io/fuste) implementation with improved developer features.
+
+- **Starts:** T13 + 1 month
+- **Depends on:** $\emptyset$
+- **Ends:** T14 + 1 month
+- **Contents:**
+  - **[T14.1](#t141-debugging-symbols):** Debugging Symbols
+  - **[T14.2](#t142-fubox-debugger):** Fubox Debugger
+  - **[T14.3](#t143-template-workspace):** Template Workspace
+
+**T13** validates [Fuste](https://github.com/ramate-io/fuste) implementation.
+
+#### T14.1: Debugging Symbols
+- **Leads:** [Liam Monninger](mailto:liam@ramate.io)
+
+Add debugging symbols support to [Fubox](https://github.com/ramate-io/fuste/tree/main/fuste/riscv-box).
+
+#### T14.2: Fubox Debugger
+- **Leads:** [Liam Monninger](mailto:liam@ramate.io)
+
+Add basic debugging support to [Fubox](https://github.com/ramate-io/fuste/tree/main/fuste/riscv-box) for RV32I ELF.
+
+#### T14.3: Template Workspace
+- **Leads:** [Liam Monninger](mailto:liam@ramate.io)
+
+Add an easy-to-use workspace template for working with Fuste targets and Fubox.
+
+> [!NOTE]
+> This is a rather granular ask for this roadmap, but it's meant to underscore preparation for the embedded toolchain.
 
 ## Agreeing
 $\emptyset$
