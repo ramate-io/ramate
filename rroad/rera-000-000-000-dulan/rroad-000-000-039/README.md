@@ -30,6 +30,7 @@ In response to these learnings, RROAD-39 proposes in parallel the development of
   - **[T2: Complete Selected Exercises from Algebraic Topology](#t2-complete-selected-exercises-from-algebraic-topology)**
   - **[T3: Write Note for BFA Paper](#t3-write-note-for-bfa-paper)**
   - **[T4: Extended Literature Review](#t4-extended-literature-review)**
+  - **[T5: Continue to Develop the Category BFA](#t51-continue-to-develop-the-category-bfa)**
 
 ### T1: Complete All Exercises in [Distributed Computing through Combinatorial Topology](https://www.sciencedirect.com/book/9780124045781/distributed-computing-through-combinatorial-topology)
 > [!IMPORTANT]
@@ -152,7 +153,7 @@ This target is to capture miscellaneous papers which are reviewed to help extend
 > **T5** marks continuous work to develop the Category BFA which will be placed on hold should nothing draw up in 5 months time.
 
 - **Starts:** T5 + 0 months
-- **Depends on:**
+- **Depends on:** $\emptyset$
 - **Ends:** T5 + 5 months
 - **Contents:**
   - **[5.1](#t51-continue-to-develop-the-category-bfa):** Continue to Develop the Category BFA
@@ -162,6 +163,39 @@ This target is to capture miscellaneous papers which are reviewed to help extend
 #### T5.1: Continue to Develop the Category BFA
 
 Continue to develop the category BFA, drawing from [T1](#t1-complete-all-exercises-in-distributed-computing-through-combinatorial-topology), [T2](#t2-complete-selected-exercises-from-algebraic-topology), [T3](#t3-write-note-for-bfa-paper), and [T4](#t4-extended-literature-review).
+
+### T6: Procedural Landscapes and Cities
+> [!IMPORTANT]
+> **T6** constitutes an initial attempt to develop procedural generation tools for the What Covers the Peers game.
+
+- **Starts:** T6 + 0 weeks
+- **Depends on:** $\emptyset$
+- **Ends:** T6 + 1 month
+- **Contents:**
+  - **[T6.1](#t41-review-works-relevant-works-referencing-hkr):** Review Works Relevant Works Referencing HKR
+  - **[T6.2](#t42-miscellany):** Miscellany
+
+**T6** constitutes an initial attempt to develop procedural generation tools for the What Covers the Peers game. It affords time to explore some procedural generation concepts particularly those concerning landscapes and cities and within the Bevy framework.
+
+#### T6.1: Play Around w/ a Procedural Terrain Initial Concept in Bevy
+- **Leads:** [Liam Monninger](mailto:liam@ramate.io)
+
+Play around w/ a procedural terrain initial concept in Bevy. Figure out nice patterns for programming, seeding, review some relevant papers.
+
+#### T6.2: Play Around w/ a Procedural Structures Initial Concept in Bevy
+- **Leads:** [Liam Monninger](mailto:liam@ramate.io)
+
+Play around w/ a procedural structures initial concept in Bevy. Figure out nice patterns for programming, seeding, review some relevant papers.
+
+#### T6.3: Play Around w/ a Procedural Cities Initial Concept in Bevy
+- **Leads:** [Liam Monninger](mailto:liam@ramate.io)
+
+Play around w/ a procedural cities initial concept in Bevy. Figure out nice patterns for programming, seeding, review some relevant papers.
+
+#### T6.4: Integrate Procedural Cities and Terrain
+- **Leads:** [Liam Monninger](mailto:liam@ramate.io)
+
+Integrate [T6.1](#t61-play-around-w-a-procedural-terrain-initial-concept-in-bevy) and [T6.3](#t63-play-around-w-a-procedural-cities-initial-concept-in-bevy).
 
 ## Agreeing
 $\emptyset$
