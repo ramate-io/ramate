@@ -477,9 +477,14 @@ Implement a plugin with [BFA](https://github.com/ramate-io/oac/pull/2) which sup
 - **Ends:** T16 + 1 month
 - **Contents:**
   - **[T16.1](#t161-implement-no_std-subsampling-stack-with-emframed):** Implement `#![no_std]` Subsampling Stack with [Emframed](https://github.com/ramate-io/emframed)
-  - **[T15.2](#t152-state-plugin):** State Plugin
+  - **[T16.2](#t162-gwrdfa-smoltcp):** [Gwrdfa](https://github.com/ramate-io/gwrdfa) [`smoltcp`](https://github.com/smoltcp-rs/smoltcp)
+  - **[T16.3](#t163-demonstration-application-for-iphone):** Demonstration Application for iPhone
+  - **[T16.4](#t164-demonstration-application-for-esp32):** Demonstration Application for ESP32
 
 **T16** implements the [Gwrdfa](https://github.com/ramate-io/gwrdfa) Alpha.
+
+> [!NOTE]
+> For all below, practice specification via [OSPEC](https://github.com/ramate-io/oac/tree/main/ospec), formal verification using [Creusot](https://github.com/creusot-rs/creusot), and citation using [Cite](https://github.com/ramate-io/cite/tree/main)
 
 #### T16.1: Implement `#![no_std]` Subsampling Stack with [Emframed](https://github.com/ramate-io/emframed)
 - **Leads:** [Liam Monninger](mailto:liam@ramate.io)
@@ -497,7 +502,7 @@ Implement [Gwrdfa](https://github.com/ramate-io/gwrdfa) networking with `smoltcp
 Implement a demonstration [Gwrdfa](https://github.com/ramate-io/gwrdfa) application for iPhone and ship.
 
 > [!NOTE]
-> This is mainly to ensure that we have capably.
+> This is mainly to ensure that we have capability.
 
 #### T16.4: Demonstration Application for ESP32
 - **Leads:** [Liam Monninger](mailto:liam@ramate.io)
