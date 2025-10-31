@@ -44,6 +44,7 @@ In response to these learnings, RROAD-39 proposes in parallel the development of
   - **[T16: Gwrdfa Alpha](#t16-gwrdfa-alpha)**
   - **[T17: Gwrdfa Networking and OTA](#t17-gwrdfa-networking-and-ota)**
   - **[T18: Emframed Bringup](#t18-emframed-bringup)**
+  - **[T19: What Covers the Peers Initial Decentralization](#t19-what-covers-the-peers-initial-decentralization)**
 
 ### T1: Complete All Exercises in [Distributed Computing through Combinatorial Topology](https://www.sciencedirect.com/book/9780124045781/distributed-computing-through-combinatorial-topology)
 > [!IMPORTANT]
@@ -517,7 +518,7 @@ Implement a demonstration [Gwrdfa](https://github.com/ramate-io/gwrdfa) applicat
 
 - **Starts:** T16 + 2 months
 - **Depends on:** [T16](#t16-gwrdfa-alpha)
-- **Ends:** T16 + 1 month
+- **Ends:** T17 + 1 month
 - **Contents:**
   - **[T17.1](#t171-network-discovery):** Network Discovery
   - **[T17.2](#t172-fuste-otas):** [Fuste](https://github.com/ramate-io/fuste) OTAs
@@ -545,18 +546,18 @@ Develops OTA infrastructure for Gwrdfa components.
 > **T18** improves [Emframed](https://github.com/ramate-io/emframed) with more usable scheduling tools and composition. Adds debugging tooling.
 
 - **Starts:** T18 + 0 months
-- **Depends on:** [T16](#t16-gwrdfa-alpha)
+- **Depends on:** $\emptyset$
 - **Ends:** T18 + 1 month
 - **Contents:**
-  - **[T18.1](#t181-implement-emframed-composition-api)**
-  - **[T18.2](#t182-debugging-middleware)**
+  - **[T18.1](#t181-implement-emframed-composition-api):** Implement [Emframed](https://github.com/ramate-io/emframed) Composition API
+  - **[T18.2](#t182-debugging-middleware):** Debugging Middleware
 
 **T18** improves [Emframed](https://github.com/ramate-io/emframed) with more usable scheduling tools and composition. Adds debugging tooling.
 
 #### T18.1: Implement [Emframed](https://github.com/ramate-io/emframed) Composition API
 - **Leads:** [Liam Monninger](mailto:liam@ramate.io)
 
-Currently, Emframed is just a collection of opinionated generics. This task implements the composition API, allowing particularly for schedulers to be injected with middleware.
+Currently, Emframed is just a collection of opinionated traits. This task implements the composition API, allowing particularly for schedulers to be injected with middleware.
 
 #### T18.2: Debugging Middleware
 - **Leads:** [Liam Monninger](mailto:liam@ramate.io)
@@ -565,6 +566,26 @@ Arguable the most important initial use case of [T18.1](#t181-implement-emframed
 
 > [!NOTE]
 > Though it's not particularly useful yet, consider [`tokio-console`](https://github.com/tokio-rs/console) for learnings.
+
+### T19: What Covers the Peers Initial Decentralization
+> [!IMPORTANT]
+> **T19** integrates What Covers the Peers with [Gwrdfa](https://github.com/ramate-io/gwrdfa).
+
+- **Starts:** T17 + 1 month
+- **Depends on:** [T17](#t17-gwrdfa-networking-and-ota)
+- **Ends:** T19 + 1 month
+- **Contents:**
+  - **[T19.1](#t181-implement-emframed-composition-api):** Integrate What Covers the Peers with [Gwrdfa](https://github.com/ramate-io/gwrdfa)
+
+**T19** integrates What Covers the Peers with [Gwrdfa](https://github.com/ramate-io/gwrdfa).
+
+> [!NOTE]
+> Remember that What Covers the Peers is supposed to be decoupled from [Gwrdfa](https://github.com/ramate-io/gwrdfa) development, allowing us to release early and potentially monetize.
+
+#### T19.1: Integrate What Covers the Peers with [Gwrdfa](https://github.com/ramate-io/gwrdfa)
+- **Leads:** [Liam Monninger](mailto:liam@ramate.io)
+
+Placeholder for What Covers the Peers integration task with [Gwrdfa](https://github.com/ramate-io/gwrdfa).
 
 ## Agreeing
 $\emptyset$
