@@ -35,6 +35,7 @@ In response to these learnings, RROAD-39 proposes in parallel the development of
   - **[T7: Draft RDE for What Covers the Peers](#t7-draft-rde-for-what-covers-the-peers)**
   - **[T8: Procedural Characters, Populations, and Skilltrees](#t8-procedural-characters-populations-and-skilltrees)**
   - **[T9: Draft RSPECs for What Covers the Peers](#t9-draft-rspecs-for-what-covers-the-peers)**
+  - **[T10: Assets and Shaders](#t10-shaders-and-assets)**
 
 ### T1: Complete All Exercises in [Distributed Computing through Combinatorial Topology](https://www.sciencedirect.com/book/9780124045781/distributed-computing-through-combinatorial-topology)
 > [!IMPORTANT]
@@ -267,6 +268,32 @@ Play around w/ a procedural skilltrees initial concept in Bevy. Figure out nice 
 - **Leads:** [Liam Monninger](mailto:liam@ramate.io)
 
 Respond to [T7](#t7-draft-rde-for-what-covers-the-peers) completely to describe MVP implementation of the What Covers the Peers.
+
+### T10: Shaders and Assets
+> [!IMPORTANT]
+> **T10** requests the development of shaders graphics and assets to implement [T9](#t9-draft-rspecs-for-what-covers-the-peers).
+
+- **Starts:** T6 + 1 month
+- **Depends on:** [T6](#t6-procedural-landscapes-and-cities)
+- **Ends:** T8 + 2 months
+- **Contents:**
+  - **[T8.1](#t81-experiment-with-procedural-character-generation-in-bevy):** Develop T9 Shaders
+  - **[T8.2](#t82-experiment-with-procedural-population-generation-in-bevy):** Develop T9 Assets
+
+**T10** requests the development of shaders graphics and assets to implement [T9](#t9-draft-rspecs-for-what-covers-the-peers).
+
+> [!NOTE]
+> **[T9](#t9-draft-rspecs-for-what-covers-the-peers)** will hopefully have provided a fairly simple graphic design to implement.
+
+#### T10.1: Experiment with Procedural Character Generation in Bevy
+- **Leads:** [Liam Monninger](mailto:liam@ramate.io)
+
+Develop shaders for [T9](#t9-draft-rspecs-for-what-covers-the-peers).
+
+#### T10.2: Experiment with Procedural Population Generation in Bevy
+- **Leads:** [Liam Monninger](mailto:liam@ramate.io)
+
+Develop assets for [T9](#t9-draft-rspecs-for-what-covers-the-peers).
 
 ## Agreeing
 $\emptyset$
