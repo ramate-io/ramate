@@ -33,6 +33,8 @@ In response to these learnings, RROAD-39 proposes in parallel the development of
   - **[T5: Continue to Develop the Category BFA](#t51-continue-to-develop-the-category-bfa)**
   - **[T6: Procedural Landscapes and Cities](#t6-procedural-landscapes-and-cities)**
   - **[T7: Draft RDE for What Covers the Peers](#t7-draft-rde-for-what-covers-the-peers)**
+  - **[T8: Procedural Characters, Populations, and Skilltrees](#t8-procedural-characters-populations-and-skilltrees)**
+  - **[T9: Draft RSPECs for What Covers the Peers](#t9-draft-rspecs-for-what-covers-the-peers)**
 
 ### T1: Complete All Exercises in [Distributed Computing through Combinatorial Topology](https://www.sciencedirect.com/book/9780124045781/distributed-computing-through-combinatorial-topology)
 > [!IMPORTANT]
@@ -248,6 +250,23 @@ Play around w/ a procedural populations initial concept in Bevy. Figure out nice
 - **Leads:** [Liam Monninger](mailto:liam@ramate.io)
 
 Play around w/ a procedural skilltrees initial concept in Bevy. Figure out nice patterns for programming, seeding, review some relevant papers.
+
+### T9: Draft RSPECs for What Covers the peers
+> [!IMPORTANT]
+> **T9** responds to [T7](#t7-draft-rde-for-what-covers-the-peers) with RSPECs covering MVP design of What Covers the Peers.
+
+- **Starts:** T7 + 1 month
+- **Depends on:** [T6](#t6-procedural-landscapes-and-cities)
+- **Ends:** T9 + 1 month
+- **Contents:**
+  - **[T9.1](#t91-draft-the-rspecs):** Experiment with Procedural Character Generation in Bevy
+
+**T9** responds to [T7](#t7-draft-rde-for-what-covers-the-peers) with RSPECs covering MVP design of What Covers the Peers.
+
+#### T9.1 Draft the RSPECs
+- **Leads:** [Liam Monninger](mailto:liam@ramate.io)
+
+Respond to [T7](#t7-draft-rde-for-what-covers-the-peers) completely to describe MVP implementation of the What Covers the Peers.
 
 ## Agreeing
 $\emptyset$
