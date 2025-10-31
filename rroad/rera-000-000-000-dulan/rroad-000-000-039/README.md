@@ -587,6 +587,40 @@ Arguable the most important initial use case of [T18.1](#t181-implement-emframed
 
 Placeholder for What Covers the Peers integration task with [Gwrdfa](https://github.com/ramate-io/gwrdfa).
 
+### T20: Use, Enhance, and Maintain [Cite](https://github.com/ramate-io/cite)
+> [!IMPORTANT]
+> **T20** is a running task for using, enhancing, and maintaining [Cite](https://github.com/ramate-io/cite).
+
+- **Starts:** T20 + 0 months
+- **Depends on:** $\emptyset$
+- **Ends:** T20 + 6 months
+- **Contents:**
+  - **[T20.1](#t201-use-enhance-and-maintain-cite):** Use, Enhance, and Maintain [Cite](https://github.com/ramate-io/cite)
+
+**T20** is a running task for using, enhancing, and maintaining [Cite](https://github.com/ramate-io/cite).
+
+#### T20.1: Use, Enhance, and Maintain [Cite](https://github.com/ramate-io/cite)
+- **Leads:** [Liam Monninger](mailto:liam@ramate.io)
+
+Use, enhance, and maintain [Cite](https://github.com/ramate-io/cite).
+
+### T21: Use, Enhance, and Maintain [Roadline](https://github.com/ramate-io/roadline)
+> [!IMPORTANT]
+> **T21** is a running task for using, enhancing, and maintaining [Roadline](https://github.com/ramate-io/roadline).
+
+- **Starts:** T21 + 0 months
+- **Depends on:** $\emptyset$
+- **Ends:** T21 + 6 months
+- **Contents:**
+  - **[T21.1](#t211-use-enhance-and-maintain-roadline):** Use, Enhance, and Maintain [Roadline](https://github.com/ramate-io/roadline)
+
+**T21** is a running task for using, enhancing, and maintaining [Roadline](https://github.com/ramate-io/roadline).
+
+#### T21.1: Use, Enhance, and Maintain [Roadline](https://github.com/ramate-io/roadline)
+- **Leads:** [Liam Monninger](mailto:liam@ramate.io)
+
+Use, enhance, and maintain [Roadline](https://github.com/ramate-io/roadline)
+
 ## Agreeing
 $\emptyset$
 
