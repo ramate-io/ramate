@@ -31,6 +31,8 @@ In response to these learnings, RROAD-39 proposes in parallel the development of
   - **[T3: Write Note for BFA Paper](#t3-write-note-for-bfa-paper)**
   - **[T4: Extended Literature Review](#t4-extended-literature-review)**
   - **[T5: Continue to Develop the Category BFA](#t51-continue-to-develop-the-category-bfa)**
+  - **[T6: Procedural Landscapes and Cities](#t6-procedural-landscapes-and-cities)**
+  - **[T7: Draft RDE for What Covers the Peers](#t7-draft-rde-for-what-covers-the-peers)**
 
 ### T1: Complete All Exercises in [Distributed Computing through Combinatorial Topology](https://www.sciencedirect.com/book/9780124045781/distributed-computing-through-combinatorial-topology)
 > [!IMPORTANT]
@@ -198,6 +200,25 @@ Play around w/ a procedural cities initial concept in Bevy. Figure out nice patt
 - **Leads:** [Liam Monninger](mailto:liam@ramate.io)
 
 Integrate [T6.1](#t61-play-around-w-a-procedural-terrain-initial-concept-in-bevy) and [T6.3](#t63-play-around-w-a-procedural-cities-initial-concept-in-bevy).
+
+### T7: Draft RDE for What Covers the Peers
+> [!IMPORTANT]
+> **T7** requests a draft RDE describing the desired design of What Covers the Peers.
+
+- **Starts:** T6 + 0 weeks
+- **Depends on:** $\emptyset$
+- **Ends:** T6 + 1 month
+- **Contents:**
+  - **[7.1](#t71-draft-rde):** Draft RDE
+
+**T7** requests a draft RDE describing the desired design of What Covers the Peers. This should include specific prompts for world models, seeding and procedural generation, graphics, gameplay, and decentralized integration.
+
+The RDE should suggest some specific techniques and reference papers.
+
+#### T7.1: Draft RDE
+- **Leads:** [Liam Monninger](mailto:liam@ramate.io)
+
+Draft the RDE.
 
 ## Agreeing
 $\emptyset$
