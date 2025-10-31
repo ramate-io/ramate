@@ -42,6 +42,7 @@ In response to these learnings, RROAD-39 proposes in parallel the development of
   - **[T14: Fuste Developer Features](#t14-fuste-developer-features)**
   - **[T15: Fuste BFA Plugins](#t15-fuste-bfa-plugins)**
   - **[T16: Gwrdfa Alpha](#t16-gwrdfa-alpha)**
+  - **[T17: Gwrdfa Networking and OTA](#t17-gwrdfa-networking-and-ota)**
 
 ### T1: Complete All Exercises in [Distributed Computing through Combinatorial Topology](https://www.sciencedirect.com/book/9780124045781/distributed-computing-through-combinatorial-topology)
 > [!IMPORTANT]
@@ -508,6 +509,35 @@ Implement a demonstration [Gwrdfa](https://github.com/ramate-io/gwrdfa) applicat
 - **Leads:** [Liam Monninger](mailto:liam@ramate.io)
 
 Implement a demonstration [Gwrdfa](https://github.com/ramate-io/gwrdfa) application for ESP32 and ship.
+
+### T17: [Gwrdfa](https://github.com/ramate-io/gwrdfa) Networking and OTA
+> [!IMPORTANT]
+> **T17** implements bespoke networking stack for [Gwrdfa](https://github.com/ramate-io/gwrdfa) and supports OTAs.
+
+- **Starts:** T16 + 2 months
+- **Depends on:** [T16](#t16-gwrdfa-alpha)
+- **Ends:** T16 + 1 month
+- **Contents:**
+  - **[T17.1](#t171-network-discovery):** Network Discovery
+  - **[T17.2](#t172-fuste-otas):** [Fuste](https://github.com/ramate-io/fuste) OTAs
+  - **[T17.3](#t173-otas-for-gwrdfa-components):** OTAs for [Gwrdfa](https://github.com/ramate-io/gwrdfa) Components
+
+**T17** implements bespoke networking stack for [Gwrdfa](https://github.com/ramate-io/gwrdfa) and supports OTAs. Generally, the goal is to improve upon [T16.2](#t162-gwrdfa-smoltcp).
+
+#### T17.1: Network Discovery
+- **Leads:** [Liam Monninger](mailto:liam@ramate.io)
+
+Implements network discovery for [Gwrdfa](https://github.com/ramate-io/gwrdfa), supporting easy application participation.
+
+#### T17.2: [Fuste](https://github.com/ramate-io/fuste) OTAs
+- **Leads:** [Liam Monninger](mailto:liam@ramate.io)
+
+Develops loader for Fuste using [Gwrdfa](https://github.com/ramate-io/gwrdfa) networking built in [T17.1](#t171-network-discovery).
+
+#### T17.3: OTAs for [Gwrdfa](https://github.com/ramate-io/gwrdfa) Components
+- **Leads:** [Liam Monninger](mailto:liam@ramate.io)
+
+Develops OTA infrastructure for Gwrdfa components.
 
 ## Agreeing
 $\emptyset$
