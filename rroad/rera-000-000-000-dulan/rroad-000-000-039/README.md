@@ -53,7 +53,7 @@ In response to these learnings, RROAD-39 proposes in parallel the development of
 > **T1** is a grounding in the works of Herlihy, Kozlov, Rajsbaum, and related experts via their graduate textbook.
 
 - **Starts:** T1 + 0 months
-- **Depends on:** $\emptyset$
+- **Depends-on:** $\emptyset$
 - **Ends:** T1 + 3 weeks
 - **Contents:**
   - **[T1.1](#t11-part-1-fundamentals):** Part 1: Fundamentals
@@ -88,7 +88,7 @@ Complete the exercises in Part 4: Advanced Topics.
 > **T2** is a review of the fundamentals of Algebraic Topology to be strongly equipped for extending the relevant distributed computing frameworks.
 
 - **Starts:** T2 + 0 months
-- **Depends on:** $\emptyset$
+- **Depends-on:** $\emptyset$
 - **Ends:** T2 + 1 month
 - **Contents:**
   - **[T2.1](#t21-chapter-0-underlying-geometric-notions):** Chapter 0: Underlying Geometric Notions
@@ -129,7 +129,7 @@ Complete the exercises in Section 4.1: Homotopy Groups.
 > **T3** simply writes a note to stand for the BFA paper in the short-run, replacing the current ACM formatted text.
 
 - **Starts:** T1 + 3 weeks
-- **Depends on:** [T1](#t1-complete-all-exercises-in-distributed-computing-through-combinatorial-topology)
+- **Depends-on:** [T1](#t1-complete-all-exercises-in-distributed-computing-through-combinatorial-topology)
 - **Ends:** T3 + 1 week
 - **Contents:**
   - **[T3.1](#t31-write-note-for-bfa-paper):** Write Note for [BFA](https://github.com/ramate-io/oac/pull/2) Paper
@@ -146,7 +146,7 @@ Write the note.
 > **T4** continues with the literature review originally endeavored for the [BFA](https://github.com/ramate-io/oac/pull/2), focusing in particularly on those works which reference HKR from [T1](#t1-complete-all-exercises-in-distributed-computing-through-combinatorial-topology).
 
 - **Starts:** T1 + 3 weeks
-- **Depends on:** [T1](#t1-complete-all-exercises-in-distributed-computing-through-combinatorial-topology)
+- **Depends-on:** [T1](#t1-complete-all-exercises-in-distributed-computing-through-combinatorial-topology)
 - **Ends:** T4 + 1 month
 - **Contents:**
   - **[T4.1](#t41-review-works-relevant-works-referencing-hkr):** Review Works Relevant Works Referencing HKR
@@ -169,7 +169,7 @@ This target is to capture miscellaneous papers which are reviewed to help extend
 > **T5** marks continuous work to develop the Category BFA which will be placed on hold should nothing draw up in 5 months time.
 
 - **Starts:** T5 + 0 months
-- **Depends on:** $\emptyset$
+- **Depends-on:** $\emptyset$
 - **Ends:** T5 + 5 months
 - **Contents:**
   - **[T5.1](#t51-continue-to-develop-the-category-bfa):** Continue to Develop the Category BFA
@@ -185,7 +185,7 @@ Continue to develop the category BFA, drawing from [T1](#t1-complete-all-exercis
 > **T6** constitutes an initial attempt to develop procedural generation tools for the What Covers the Peers game.
 
 - **Starts:** T6 + 0 weeks
-- **Depends on:** $\emptyset$
+- **Depends-on:** $\emptyset$
 - **Ends:** T6 + 1 month
 - **Contents:**
   - **[T6.1](#t61-experiment-with-a-procedural-terrain-initial-concept-in-bevy):** Experiment with a Procedural Terrain Initial Concept in Bevy
@@ -220,7 +220,7 @@ Integrate [T6.1](#t61-experiment-with-a-procedural-terrain-initial-concept-in-be
 > **T7** requests a draft RDE describing the desired design of What Covers the Peers.
 
 - **Starts:** T7 + 0 weeks
-- **Depends on:** $\emptyset$
+- **Depends-on:** $\emptyset$
 - **Ends:** T7 + 1 month
 - **Contents:**
   - **[T7.1](#t71-draft-rde):** Draft RDE
@@ -239,7 +239,7 @@ Draft the RDE.
 > **T8** continues from [T6](#t6-procedural-landscapes-and-cities), experimenting with procedural generation for characters.
 
 - **Starts:** T6 + 1 month
-- **Depends on:** [T6](#t6-procedural-landscapes-and-cities)
+- **Depends-on:** [T6](#t6-procedural-landscapes-and-cities)
 - **Ends:** T8 + 2 months
 - **Contents:**
   - **[T8.1](#t81-experiment-with-procedural-character-generation-in-bevy):** Experiment with Procedural Character Generation in Bevy
@@ -268,7 +268,7 @@ Play around w/ a procedural skilltrees initial concept in Bevy. Figure out nice 
 > **T9** responds to [T7](#t7-draft-rde-for-what-covers-the-peers) with RSPECs covering MVP design of What Covers the Peers.
 
 - **Starts:** T7 + 1 month
-- **Depends on:** [T6](#t6-procedural-landscapes-and-cities)
+- **Depends-on:** [T7](#t7-draft-rde-for-what-covers-the-peers)
 - **Ends:** T9 + 1 month
 - **Contents:**
   - **[T9.1](#t91-draft-the-rspecs):** Experiment with Procedural Character Generation in Bevy
@@ -285,7 +285,7 @@ Respond to [T7](#t7-draft-rde-for-what-covers-the-peers) completely to describe 
 > **T10** requests the development of shaders graphics and assets to implement [T9](#t9-draft-rspecs-for-what-covers-the-peers).
 
 - **Starts:** T9 + 1 month
-- **Depends on:** [T9](#t91-draft-the-rspecs)
+- **Depends-on:** [T9](#t91-draft-the-rspecs)
 - **Ends:** T10 + 1 month
 - **Contents:**
   - **[T8.1](#t81-experiment-with-procedural-character-generation-in-bevy):** Develop T9 Shaders
@@ -311,7 +311,7 @@ Develop assets for [T9](#t9-draft-rspecs-for-what-covers-the-peers).
 > **T11** integrates the procedural generation and asset layers.
 
 - **Starts:** T10 + 1 month
-- **Depends on:** [T8](#t8-procedural-characters-populations-and-skilltrees), [T10](#t10-shaders-and-assets)
+- **Depends-on:** [T8](#t8-procedural-characters-populations-and-skilltrees), [T10](#t10-shaders-and-assets)
 - **Ends:** T11 + 1 month
 - **Contents:**
   - **[T11.1](#t111-integrate-assets-with-terrain-and-cities):** Integrate Assets with Terrain and Cities
@@ -352,7 +352,7 @@ Integrate all procedural generation layers. Update for validation if time allows
 > **T12** brings up the alpha for What Covers the Peers.
 
 - **Starts:** T11 + 1 month
-- **Depends on:** [T11](#t11-integrate-procedural-generation-layers-and-assets)
+- **Depends-on:** [T11](#t11-integrate-procedural-generation-layers-and-assets)
 - **Ends:** T12 + 2 months
 - **Contents:**
   - **[T12.1](#t111-integrate-assets-with-terrain-and-cities):** Miscellany
@@ -369,7 +369,7 @@ Placeholder for game bring up and other miscellany.
 > **T13** validates [Fuste](https://github.com/ramate-io/fuste) implementation.
 
 - **Starts:** T13 + 0 months
-- **Depends on:** $\emptyset$
+- **Depends-on:** $\emptyset$
 - **Ends:** T13 + 3 months
 - **Contents:**
   - **[T13.1](#t131-embedded-machine-simulator-drop-in):** Embedded Machine Simulator Drop In
@@ -407,7 +407,7 @@ Builds on [T13.3](#t133-formal-verification-of-ecalls) to formally verify usage 
 > **T14** extends the [Fuste](https://github.com/ramate-io/fuste) implementation with improved developer features.
 
 - **Starts:** T13 + 1 month
-- **Depends on:** $\emptyset$
+- **Depends-on:** $\emptyset$
 - **Ends:** T14 + 1 month
 - **Contents:**
   - **[T14.1](#t141-debugging-symbols):** Debugging Symbols
@@ -439,8 +439,8 @@ Add an easy-to-use workspace template for working with Fuste targets and Fubox.
 > **T15** extends the [Fuste](https://github.com/ramate-io/fuste) implementation with improved developer features.
 
 - **Starts:** T16 + 1 month
-- **Depends on:** [T16](#t16-gwrdfa-alpha)
-- **Ends:** T15 + 1 month
+- **Depends-on:** [T14](#t14-fuste-developer-features), [T16](#t16-gwrdfa-alpha)
+- **Ends:** T15 + 2 months
 - **Contents:**
   - **[T15.1](#t151-transaction-metadata-plugin):** Transaction Metadata Plugin
   - **[T15.2](#t152-state-plugin):** State Plugin
@@ -478,7 +478,7 @@ Implement a plugin with [BFA](https://github.com/ramate-io/oac/pull/2) which sup
 > **T16** implements the [Gwrdfa](https://github.com/ramate-io/gwrdfa) Alpha.
 
 - **Starts:** T18 + 1 month
-- **Depends on:** [T18](#t18-emframed-bringup)
+- **Depends-on:** [T18](#t18-emframed-bringup)
 - **Ends:** T16 + 1 month
 - **Contents:**
   - **[T16.1](#t161-implement-no_std-subsampling-stack-with-emframed):** Implement `#![no_std]` Subsampling Stack with [Emframed](https://github.com/ramate-io/emframed)
@@ -519,7 +519,7 @@ Implement a demonstration [Gwrdfa](https://github.com/ramate-io/gwrdfa) applicat
 > **T17** implements bespoke networking stack for [Gwrdfa](https://github.com/ramate-io/gwrdfa) and supports OTAs.
 
 - **Starts:** T16 + 2 months
-- **Depends on:** [T16](#t16-gwrdfa-alpha)
+- **Depends-on:** [T16](#t16-gwrdfa-alpha)
 - **Ends:** T17 + 1 month
 - **Contents:**
   - **[T17.1](#t171-network-discovery):** Network Discovery
@@ -548,7 +548,7 @@ Develops OTA infrastructure for Gwrdfa components.
 > **T18** improves [Emframed](https://github.com/ramate-io/emframed) with more usable scheduling tools and composition. Adds debugging tooling.
 
 - **Starts:** T18 + 0 months
-- **Depends on:** $\emptyset$
+- **Depends-on:** $\emptyset$
 - **Ends:** T18 + 1 month
 - **Contents:**
   - **[T18.1](#t181-implement-emframed-composition-api):** Implement [Emframed](https://github.com/ramate-io/emframed) Composition API
@@ -574,7 +574,7 @@ Arguable the most important initial use case of [T18.1](#t181-implement-emframed
 > **T19** integrates What Covers the Peers with [Gwrdfa](https://github.com/ramate-io/gwrdfa).
 
 - **Starts:** T17 + 1 month
-- **Depends on:** [T17](#t17-gwrdfa-networking-and-ota)
+- **Depends-on:** [T15](#t15-fuste-bfa-plugins), [T17](#t17-gwrdfa-networking-and-ota)
 - **Ends:** T19 + 1 month
 - **Contents:**
   - **[T19.1](#t181-implement-emframed-composition-api):** Integrate What Covers the Peers with [Gwrdfa](https://github.com/ramate-io/gwrdfa)
@@ -594,7 +594,7 @@ Placeholder for What Covers the Peers integration task with [Gwrdfa](https://git
 > **T20** is a running task for using, enhancing, and maintaining [Cite](https://github.com/ramate-io/cite).
 
 - **Starts:** T20 + 0 months
-- **Depends on:** $\emptyset$
+- **Depends-on:** $\emptyset$
 - **Ends:** T20 + 6 months
 - **Contents:**
   - **[T20.1](#t201-use-enhance-and-maintain-cite):** Use, Enhance, and Maintain [Cite](https://github.com/ramate-io/cite)
@@ -611,7 +611,7 @@ Use, enhance, and maintain [Cite](https://github.com/ramate-io/cite).
 > **T21** is a running task for using, enhancing, and maintaining [Roadline](https://github.com/ramate-io/roadline).
 
 - **Starts:** T21 + 0 months
-- **Depends on:** $\emptyset$
+- **Depends-on:** $\emptyset$
 - **Ends:** T21 + 6 months
 - **Contents:**
   - **[T21.1](#t211-use-enhance-and-maintain-roadline):** Use, Enhance, and Maintain [Roadline](https://github.com/ramate-io/roadline)
