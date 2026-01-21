@@ -4,7 +4,7 @@
 >
 > **1) Exiting the early conceptual phase**
 > - Premise intact, priorities adjusted — original explainer: [Loom](https://www.loom.com/share/e04c02c50c804a158b6d275bfe67a662?sid=e6188b64-37cf-4e8c-98c5-745d44733c93)
-> - Research-heavy so far; now sharing APIs/demos and collecting feedback
+> - Research-heavy so far; now starting to share APIs/demos and collect feedback
 > - Ramp over the **first half of 2026**
 >
 > **2) Parabyzantine protocols**
