@@ -1,4 +1,4 @@
-# RLOG-n: Midway Memo: OAC, Parabyzantine, and Maybraid
+# RLOG-42: Midway Memo: OAC, Parabyzantine, and Maybraid
 > [!TIP]
 > **Key takeaways**
 >
