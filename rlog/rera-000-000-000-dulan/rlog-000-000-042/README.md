@@ -2,6 +2,8 @@
 > [!TIP]
 > **Key takeaways**
 >
+> > It's mainly about Parabyzantine protocols, and I'm building a peer-to-peer game with those protocols.
+>
 > **1) Exiting the early conceptual phase**
 > - Premise intact, priorities adjusted — original explainer: [Loom](https://www.loom.com/share/e04c02c50c804a158b6d275bfe67a662?sid=e6188b64-37cf-4e8c-98c5-745d44733c93)
 > - Research-heavy so far; now starting to share APIs/demos and collect feedback
@@ -40,7 +42,7 @@ I planned to follow [OROAD-0](https://github.com/ramate-io/oac/tree/main/oroad/o
 
 - **September 2025:**
   - Developed utilities [roadline.dev](https://www.roadline.dev) and [cite](https://github.com/ramate-io/cite).
-  - Began on my literature review for my research on Parabyzantine protocols.
+  - Began my literature review for my research into Parabyzantine protocols.
 - **October 2025:**
   - Developed the `v0.0.1` API for Fuste including the base RISCV VM and ECALL support.
   - Started experimenting with a game instead of the originally proposed content sharing application as the demo and killer app.
@@ -111,7 +113,7 @@ Per the objective of sharing, here are some upcoming target dates in I am using 
 ## Parabyzantine Protocols
 When I started the [OAC](https://github.com/ramate-io/oac) project, I had in mind the next steps for my research would be to generalize the `RESAMPLE` protocol that you can read bout [here](https://docs.google.com/gview?embedded=1&url=https://raw.githubusercontent.com/ramate-io/bfa/main/papers/memo/main.pdf). The path to that generalization has led me increasingly to examine topological and categorical formulations of agreement problems.
 
-Check this [PDF](https://docs.google.com/gview?embedded=1&url=https://raw.githubusercontent.com/ramate-io/bfa/main/papers/memo/main.pdf) for more on my approach!
+Check this [PDF](https://docs.google.com/gview?embedded=1&url=https://raw.githubusercontent.com/ramate-io/bfa/main/papers/memo/main.pdf) for more about my approach!
 
 Since venturing deeper into these fields, I had largely deprioritized the work on the Gwrdfa API which is the Rust API for Parabyzantine protocols. However, recently, I returned to building out that API, so that others can use it with Fuste and so that I can integrate it with Maybraid.
 
@@ -216,7 +218,7 @@ To learn how to write more types of Fuste programs, check out the [examples](htt
 
 Fuste is currently designed with a single hart processor. This makes it difficult to dispatch programs from one another by loading from virtual memory, like you might find in a typical smart contract system. I am hoping to add multi-hart support for version `v0.2.x` in **late April**.
 
-However, the continuations and intents API is most likely what I will lean on my development Maybraid's peer-to-peer state services. Hence, it will most likely be prioritized as the means of dispatching other programs.
+However, the continuations and intents API is most likely what I will lean on in my development Maybraid's peer-to-peer state services. Hence, it will most likely be prioritized as the means of dispatching other programs.
 
 ## Maybraid
 
