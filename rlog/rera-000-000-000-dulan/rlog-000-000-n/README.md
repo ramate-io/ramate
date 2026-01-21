@@ -24,22 +24,13 @@
 > - Generative demos: **Feb 2026**; playable demos: **Mar 2026**
 
 ## Memo
-- [What I'm Working On](#what-im-working-on)
 - [How I Got Here](#how-i-got-here)
+- [What I'm Working On](#what-im-working-on)
 - [A Peek into My Calendar](#a-peek-into-my-calendar)
 - [Parabyzantine Protocols](#parabyzantine-protocols)
 - [Fuste](#fuste)
 - [Maybraid](#maybraid)
 - [Other Projects](#other-projects)
-
-### What I'm Working On
-Most of my work has been concentrated around three related projects:
-
-- [Parabyzantine protocols](#parabyzantine-protocols): research into alternatives to Byzantine-fault tolerant protocols.
-- [Fuste](#fuste): a programmability layer state machine replica type distributed systems.
-- [Maybraid](#maybraid): that features peer-to-peer concepts which fit nicely with Fuste and my research into Parabyzantine protocols.
-
-Over time, I've shifted increasingly to running my work through Maybraid.
 
 ### How I Got Here
 About five months ago, I embarked in earnest on a project called [OAC](https://github.com/ramate-io/oac) which centered around research into alternatives to Byzantine-fault tolerant protocols. These protocols were appealing to me because of their speculative throughput and applicability to small devices.
@@ -56,7 +47,7 @@ I planned to follow [OROAD-0](https://github.com/ramate-io/oac/tree/main/oroad/o
   - Developed the `v0.0.1` API for Fuste including the base RISCV VM and ECALL support.
   - Started experimenting with a game instead of the originally proposed content sharing application as the demo and killer app.
   - Started to take a closer look at topological formulations of agreement problems, using [Hatcher](https://pi.math.cornell.edu/~hatcher/AT/AT.pdf) and [HKR](https://www.oreilly.com/library/view/distributed-computing-through/9780124045781/) as guide.
-  - Began draft of paper for original non-trivial construction based on $\textsc{Resample}$ algorithm, later abandoned when proof shown incorrect.
+  - Began draft of paper for original non-trivial construction based on `RESAMPLE` algorithm, later abandoned when proof shown incorrect.
 - **November 2025:**
   - Decided to replace original roadmap [OROAD-0](https://github.com/ramate-io/oac/tree/main/oroad/oera-000-000-000-dulan/oroad-000-000-000) with [RROAD-39](https://github.com/ramate-io/ramate/tree/main/rroad/rera-000-000-000-dulan/rroad-000-000-039), featuring an extended period for research and Maybraid (originally, What Covers the Peers).
   - Added `galloc` dynamic memory model to Fuste.
@@ -64,7 +55,27 @@ I planned to follow [OROAD-0](https://github.com/ramate-io/oac/tree/main/oroad/o
 - **December 2025:**
   - Began
 
+### What I'm Working On
+Most of my work is currently concentrated into three related projects:
+
+- [Parabyzantine protocols](#parabyzantine-protocols): research into alternatives to Byzantine-fault tolerant protocols.
+- [Fuste](#fuste): a programmability layer state machine replica type distributed systems.
+- [Maybraid](#maybraid): a video game that features peer-to-peer concepts which fit nicely with Fuste and my research into Parabyzantine protocols.
+
+Over time, I've shifted increasingly to planning my work through Maybraid for three reasons:
+
+1. It has served as a good North Star for API design.
+2. It can be released independently, and perhaps even raise some funds for continued work related to [Parabyzantine protocols](#parabyzantine-protocols) and [OAC](https://github.com/ramate-io/oac).
+3. It's fun!
+
+As, such over the next few months, my priorities are in order:
+
+1. Build up Maybraid from the current proofs of concept.
+2. Solidify API design from current research into the [Robles stack](https://github.com/ramate-io/robles), including [`fuste`](https://github.com/ramate-io/fuste).
+3. Share!
+
 ### A Peek into My Calendar
+Per the objective of sharing, here are some upcoming target dates in I have in my calendar:
 
 ### Parabyzantine Protocols
 
