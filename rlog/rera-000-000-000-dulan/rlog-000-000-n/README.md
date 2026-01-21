@@ -1,36 +1,32 @@
 # RLOG-n: Midway Memo: OAC, Parabyzantine, and Maybraid
-- **Authors:** [Liam Monninger](mailto:liam@ramate.io)
-
 > [!TIP]
-> **Key Takeaways**
+> **Key takeaways**
 >
-> - **Exiting early conceptual phase:**
->   - Original premise intact but priorities adjusted. Original explainer [here](https://www.loom.com/share/e04c02c50c804a158b6d275bfe67a662?sid=e6188b64-37cf-4e8c-98c5-745d44733c93).
->   - Project has been research heavy.
->   - Beginning to share APIs, demos, and collect feedback.
->   - Ramp up over **first half of 2026**.
+> **1) Exiting the early conceptual phase**
+> - Premise intact, priorities adjusted — original explainer: [Loom](https://www.loom.com/share/e04c02c50c804a158b6d275bfe67a662?sid=e6188b64-37cf-4e8c-98c5-745d44733c93)
+> - Research-heavy so far; now sharing APIs/demos and collecting feedback
+> - Ramp over the **first half of 2026**
 >
-> - **Researching Parabyzantine protocols:**
->   - Researching protocols that "act like" Byzantine-fault tolerant protocols. Write-up [here](https://drive.google.com/viewerng/viewer?embedded=true&url=https://raw.githubusercontent.com/ramate-io/bfa/main/papers/memo/main.pdf).
->   - Theory suggest Parabyzantine may improve over common BFT state machine replicas in some settings.
->   - API to appear in Gwrdfa `v0.0.1`. Target demo **EOM January 2026**.
+> **2) Parabyzantine protocols**
+> - Studying protocols that “act like” BFT SMR — write-up: [memo PDF](https://drive.google.com/viewerng/viewer?embedded=true&url=https://raw.githubusercontent.com/ramate-io/bfa/main/papers/memo/main.pdf)
+> - Theory suggests potential compute/throughput wins in some settings
+> - API planned for **Gwrdfa `v0.0.1`**, demo target: **EOM Jan 2026**
 >
-> - **Developing a programming layer:**
->   - Programming layer which supports these protocols [`fuste`](https://github.com/ramate-io/fuste).
->   - `v0.0.1` API including a RISCV VM is **available.**
->   - Redesign for `v0.0.2` underway to make extensibility easier. Target demo **Early February 2026**.
+> **3) Programming layer (`fuste`)**
+> - Programming layer for these protocols: [`fuste`](https://github.com/ramate-io/fuste)
+> - `v0.0.1` API + RISC-V VM is **available**
+> - `v0.0.2` redesign underway (extensibility), demo target: **early Feb 2026**
 >
-> - **Developing a video game:**
->   - Building a procedurally-generated game called [Maybraid](https://github.com/ramate-io/maybraid).
->   - Intended to eventually demonstrate Parabyzantine and [`fuste`](https://github.com/ramate-io/fuste) utility.
->   - Also, intended to be pushed forth independently.
->   - Increasingly a North Star for API design.
->   - Generative demos **February 2026**.
->   - Playable demos **March 2026**.
+> **4) Maybraid (game)**
+> - Procedurally-generated game: [Maybraid](https://github.com/ramate-io/maybraid)
+> - Long-term demo target for Parabyzantine + `fuste`, but also standalone
+> - Increasingly the “North Star” for API design
+> - Generative demos: **Feb 2026**; playable demos: **Mar 2026**
 
 ## Memo
 - [What I'm Working On](#what-im-working-on)
 - [How I Got Here](#how-i-got-here)
+- [A Peek into My Calendar](#a-peek-into-my-calendar)
 - [Parabyzantine Protocols](#parabyzantine-protocols)
 - [Fuste](#fuste)
 - [Maybraid](#maybraid)
@@ -67,6 +63,8 @@ I planned to follow [OROAD-0](https://github.com/ramate-io/oac/tree/main/oroad/o
   - Added ECALL standardization for IO to Fuste.
 - **December 2025:**
   - Began
+
+### A Peek into My Calendar
 
 ### Parabyzantine Protocols
 
