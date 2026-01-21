@@ -115,6 +115,9 @@ When I started the [OAC](https://github.com/ramate-io/oac) project, I had in min
 
 Check this [PDF](https://docs.google.com/gview?embedded=1&url=https://raw.githubusercontent.com/ramate-io/bfa/main/papers/memo/main.pdf) for more about my approach!
 
+> [!NOTE]
+> I've increasingly come to believe that I likely need to let many of the topological and categorical concepts "marinate" for some time before I expect a result.
+
 Since venturing deeper into these fields, I had largely deprioritized the work on the Gwrdfa API which is the Rust API for Parabyzantine protocols. However, recently, I returned to building out that API, so that others can use it with Fuste and so that I can integrate it with Maybraid.
 
 As mentioned above, the target date for first demo with Fuste is **January 27, 2026**. This demo is planned to feature the updated Fuste `v0.0.2` interacting with a local Gwrdfa network.
