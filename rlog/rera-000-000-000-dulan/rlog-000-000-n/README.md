@@ -1,9 +1,6 @@
 # RLOG-n: Midway Memo
 - **Authors:** [Liam Monninger](mailto:liam@ramate.io)
 
-## Summary
-[Midway upon the journey of my research](https://www.italianita.blog/blog/canto-1-the-forest-dark), I see it fit to take the time to put together a little summary describing what I've done and what I'm planning to do...
-
 > [!TIP]
 > **Key Takeaways**
 >
