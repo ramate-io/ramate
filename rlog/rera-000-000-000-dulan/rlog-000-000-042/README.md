@@ -2,7 +2,7 @@
 > [!IMPORTANT]
 > **tl;dr**
 >
-> **It's mainly about Parabyzantine protocols, and I'm building a peer-to-peer game with these protocols.**
+> It's mainly about **Parabyzantine protocols**, and I'm building a **peer-to-peer game** with these protocols.
 
 > [!TIP]
 > **Key takeaways**
