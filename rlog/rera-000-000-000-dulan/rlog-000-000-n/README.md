@@ -1,11 +1,4 @@
 # RLOG-n: Midway Memo: OAC, Parabyzantine, and Maybraid
-- [How I Got Here](#how-i-got-here)
-- [What I'm Working On](#what-im-working-on)
-- [A Peek into My Calendar](#a-peek-into-my-calendar)
-- [Parabyzantine Protocols](#parabyzantine-protocols)
-- [Fuste](#fuste)
-- [Maybraid](#maybraid)
-
 > [!TIP]
 > **Key takeaways**
 >
@@ -29,6 +22,13 @@
 > - Long-term demo target for Parabyzantine + `fuste`, but also standalone
 > - Increasingly the “North Star” for API design
 > - Generative demos: **Feb 2026**; playable demos: **Mar 2026**
+
+- [How I Got Here](#how-i-got-here)
+- [What I'm Working On](#what-im-working-on)
+- [My Upcoming Target Dates](#my-upcoming-target-dates)
+- [Parabyzantine Protocols](#parabyzantine-protocols)
+- [Fuste](#fuste)
+- [Maybraid](#maybraid)
 
 ## How I Got Here
 About five months ago, I embarked in earnest on a project called [OAC](https://github.com/ramate-io/oac). The project centered on research into alternatives to Byzantine-fault tolerant protocols. These protocols were appealing to me because of their speculative throughput and applicability to small devices.
@@ -55,7 +55,7 @@ I planned to follow [OROAD-0](https://github.com/ramate-io/oac/tree/main/oroad/o
   - Began writing procedural generation API for [Maybraid](#maybraid), featuring basic noisy surface and chain concepts for terrain and vegetation.
   - Added initial DLT support to `fuste`, extensibility challenges prompted current `v0.0.2` redesign.
   - Continued study of [Hatcher](https://pi.math.cornell.edu/~hatcher/AT/AT.pdf) and [HKR](https://www.oreilly.com/library/view/distributed-computing-through/9780124045781/).
-- **January 2025:**
+- **January 2026:**
   - Added simplicial, cellular complex, and scalar projective field generation to [Maybraid](#maybraid).
   - Continued with `fuste v0.0.2`
   - Continued study of [Hatcher](https://pi.math.cornell.edu/~hatcher/AT/AT.pdf) and [HKR](https://www.oreilly.com/library/view/distributed-computing-through/9780124045781/).
@@ -81,8 +81,32 @@ As such, my current priorities in order:
 2. Solidify API design from current research into the [Robles stack](https://github.com/ramate-io/robles), including [`fuste`](https://github.com/ramate-io/fuste).
 3. Share!
 
-## A Peek into My Calendar
-Per the objective of sharing, here are some upcoming target dates in I have in my calendar:
+## My Upcoming Target Dates
+Per the objective of sharing, here are some upcoming target dates in I am using to motivate myself:
+
+- **January 2026**
+  - **Jan 26:** Maybraid naturescapes demo (navigable).
+  - **Jan 30:** `fuste v0.0.2` (VM) and `gwrdfa v0.0.1` (consensus) integrated demo (videos).
+- **February 2026**
+  - **Feb 2:** Maybraid top-level spec.
+  - **Feb 3:** Friends and family memo (like this but prettier).
+  - **Feb 7:** Maybraid urbanization demo (navigable).
+  - **Feb 14:** `gwrdfa v0.0.2` microcontroller and networking stack.
+  - **Feb 18:** `gwrdfa v0.1.0` and `fuste v0.1.0` specs.
+  - **Feb 24:** end of conceptual phase, deep research pauses.
+  - **Feb 26:** "Winter Desiderata" for OAC based on early feedback and dogfooding.
+- **March 2026**
+  - **Mar 10:** Gwrdfa Fuste live network (likely server-based but ambitiously including handheld devices).
+  - **Mar 19:** Maybraid PvP mini demo (playable).
+  - **Mar 22:** `gwrdfa v0.1.1` updated networking stack and improved embedded support.
+  - **Mar 27:** OAC `v0.2.0` APIs.
+- **April 2026**
+  - **Apr 6:** Maybraid discovery mini demo (playable).
+  - **Apr 8:** "April Desiderata" for OAC based on feedback and conceptual stability.
+  - **Apr 23:** Maybraid discover full demo (playable).
+- **May 2026**
+  - **May 20:** Maybraid decentralization alpha, integrate with `gwrdfa` and `fuste`.
+  - **May 31:** list Maybraid on Steam for "Early Access."
 
 ## Parabyzantine Protocols
 When I started the [OAC](https://github.com/ramate-io/oac) project, I had in mind the next steps for my research would be to generalize the `RESAMPLE` protocol that you can read bout [here](https://drive.google.com/viewerng/viewer?embedded=true&url=https://raw.githubusercontent.com/ramate-io/bfa/main/papers/memo/main.pdf). The path to that generalization has led me increasingly to examine topological and categorical formulations of agreement problems.
