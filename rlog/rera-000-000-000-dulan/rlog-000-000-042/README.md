@@ -214,7 +214,7 @@ fn main() -> Result<(), ()> {
 
 To learn how to write more types of Fuste programs, check out the [examples](https://github.com/ramate-io/fuste?tab=readme-ov-file#example-programs)!
 
-Fuste is currently designed with a single hart processor. This makes it difficult to dispatch programs from one another by loading from virtual memory, like you might find in a typical smart contract system. I am hoping to add multi-hart support for version `v0.1.0` in **late April**.
+Fuste is currently designed with a single hart processor. This makes it difficult to dispatch programs from one another by loading from virtual memory, like you might find in a typical smart contract system. I am hoping to add multi-hart support for version `v0.2.x` in **late April**.
 
 However, the continuations and intents API is most likely what I will lean on my development Maybraid's peer-to-peer state services. Hence, it will most likely be prioritized as the means of dispatching other programs.
 
