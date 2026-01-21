@@ -183,7 +183,16 @@
         "toolchain",
         "Emframed",
         "OSPEC",
-        "OTAs"
+        "OTAs",
+        "parabyzantine",
+        "Maybraid",
+        "ECALL",
+        "RISCV",
+        "RLOG-n",
+        "programmability",
+        "naturescape",
+        "naturescapes",
+        "PvP"
       ]
     },
     "bibtex": {

@@ -2,6 +2,7 @@
 
 ## RLOGs
 - **[RLOG-0](/rlog/rera-000-000-000-dulan/rlog-000-000-000/README.md):** comments on whether the extent of organization may be overkill.
+- **[RLOG-42: Midway Memo](/rlog/rera-000-000-000-dulan/rlog-000-000-042/README.md):** an early preview and planning memo for close friends and colleagues.
 
 <!--RAMATE FOOTER: DO NOT REMOVE THIS LINE-->
 ---
