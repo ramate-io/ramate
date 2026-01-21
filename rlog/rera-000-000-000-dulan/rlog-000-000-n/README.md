@@ -5,14 +5,14 @@
 > **Key Takeaways**
 >
 > - **Exiting early conceptual phase:**
+>   - Original premise intact but priorities adjusted. Original explainer [here](https://www.loom.com/share/e04c02c50c804a158b6d275bfe67a662?sid=e6188b64-37cf-4e8c-98c5-745d44733c93).
 >   - Project has been research heavy.
 >   - Beginning to share APIs, demos, and collect feedback.
->   - Ramp up over first half of 2026.
+>   - Ramp up over **first half of 2026**.
 >
 > - **Parabyzantine protocols:**
->   - Researching protocols that "act like" Byzantine-fault tolerant protocols.
+>   - Researching protocols that "act like" Byzantine-fault tolerant protocols. Write-up [here](https://drive.google.com/viewerng/viewer?embedded=true&url=https://raw.githubusercontent.com/ramate-io/bfa/main/papers/memo/main.pdf).
 >   - Theory suggest Parabyzantine may improve over common BFT state machine replicas in some settings.
->   - Note on this research [here](https://drive.google.com/viewerng/viewer?embedded=true&url=https://raw.githubusercontent.com/ramate-io/bfa/main/papers/memo/main.pdf).
 >   - API to appear in Gwrdfa `v0.0.1`. Target demo **EOM January 2026**.
 >
 > - **A programming layer:**
