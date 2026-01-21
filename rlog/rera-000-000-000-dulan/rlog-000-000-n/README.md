@@ -1,23 +1,40 @@
-# RLOG-n: Midway Memo
+# RLOG-n: Midway Memo: OAC, Parabyzantine, and Maybraid
 - **Authors:** [Liam Monninger](mailto:liam@ramate.io)
 
 > [!TIP]
 > **Key Takeaways**
 >
-> - **Parabyzantine protocols:** I've been researching protocols that "act like" Byzantine-fault tolerant protocols up to some well understood point. You can find a write-up on this [here](https://drive.google.com/viewerng/viewer?embedded=true&url=https://raw.githubusercontent.com/ramate-io/bfa/main/papers/memo/main.pdf). I'm working on fixing up an API for one these protocols which will appear in Gwrdfa `v0.0.1`.
+> - **Exiting early conceptual phase:**
+>   - Project has been research heavy.
+>   - Beginning to share APIs, demos, and collect feedback.
+>   - Ramp up over first half of 2026.
 >
-> - **A programming layer:** I've called the programming layer which supports these protocols [`fuste`](https://github.com/ramate-io/fuste). The `v0.0.1` API including a RISCV VM is available. I am currently working redesigning for easier ability to write plugins (think pre-compile) for the
+> - **Parabyzantine protocols:**
+>   - Researching protocols that "act like" Byzantine-fault tolerant protocols.
+>   - Theory suggest Parabyzantine may improve over common BFT state machine replicas in some settings.
+>   - Note on this research [here](https://drive.google.com/viewerng/viewer?embedded=true&url=https://raw.githubusercontent.com/ramate-io/bfa/main/papers/memo/main.pdf).
+>   - API to appear in Gwrdfa `v0.0.1`. Target demo **EOM January 2026**.
+>
+> - **A programming layer:**
+>   - Programming layer which supports these protocols [`fuste`](https://github.com/ramate-io/fuste).
+>   - `v0.0.1` API including a RISCV VM is **available.**
+>   - Redesign for `v0.0.2` underway to make extensibility easier. Target demo **Early February 2026**.
 >
 > - **A video game:**
+>   - Building a procedurally-generated game called [Maybraid](https://github.com/ramate-io/maybraid).
+>   - Intended to eventually demonstrate Parabyzantine and [`fuste`](https://github.com/ramate-io/fuste) utility.
+>   - Also, intended to be pushed forth independently.
+>   - Increasingly a North Star for API design.
+>   - Generative demos **February 2026**.
+>   - Playable demos **March 2026**.
 
 ## Memo
-- **Contents:**
-  - [What I'm Working On](#what-im-working-on)
-  - [How I Got Here](#how-i-got-here)
-  - [Parabyzantine Protocols](#parabyzantine-protocols)
-  - [Fuste](#fuste)
-  - [Maybraid](#maybraid)
-  - [Other Projects](#other-projects)
+- [What I'm Working On](#what-im-working-on)
+- [How I Got Here](#how-i-got-here)
+- [Parabyzantine Protocols](#parabyzantine-protocols)
+- [Fuste](#fuste)
+- [Maybraid](#maybraid)
+- [Other Projects](#other-projects)
 
 ### What I'm Working On
 Most of my work has been concentrated around three related projects:
