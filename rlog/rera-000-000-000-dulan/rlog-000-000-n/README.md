@@ -10,17 +10,17 @@
 >   - Beginning to share APIs, demos, and collect feedback.
 >   - Ramp up over **first half of 2026**.
 >
-> - **Parabyzantine protocols:**
+> - **Researching Parabyzantine protocols:**
 >   - Researching protocols that "act like" Byzantine-fault tolerant protocols. Write-up [here](https://drive.google.com/viewerng/viewer?embedded=true&url=https://raw.githubusercontent.com/ramate-io/bfa/main/papers/memo/main.pdf).
 >   - Theory suggest Parabyzantine may improve over common BFT state machine replicas in some settings.
 >   - API to appear in Gwrdfa `v0.0.1`. Target demo **EOM January 2026**.
 >
-> - **A programming layer:**
+> - **Developing a programming layer:**
 >   - Programming layer which supports these protocols [`fuste`](https://github.com/ramate-io/fuste).
 >   - `v0.0.1` API including a RISCV VM is **available.**
 >   - Redesign for `v0.0.2` underway to make extensibility easier. Target demo **Early February 2026**.
 >
-> - **A video game:**
+> - **Developing a video game:**
 >   - Building a procedurally-generated game called [Maybraid](https://github.com/ramate-io/maybraid).
 >   - Intended to eventually demonstrate Parabyzantine and [`fuste`](https://github.com/ramate-io/fuste) utility.
 >   - Also, intended to be pushed forth independently.
