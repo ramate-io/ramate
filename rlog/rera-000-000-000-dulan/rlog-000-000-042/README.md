@@ -123,7 +123,7 @@ Check this [PDF](https://docs.google.com/gview?embedded=1&url=https://raw.github
 
 Since venturing deeper into these fields, I had largely deprioritized the work on the Gwrdfa API which is the Rust API for Parabyzantine protocols. However, recently, I returned to building out that API, so that others can use it with Fuste and so that I can integrate it with Maybraid.
 
-As mentioned above, the target date for first demo with Fuste is **January 27, 2026**. This demo is planned to feature the updated Fuste `v0.0.2` interacting with a local Gwrdfa network.
+As mentioned above, the target date for first demo with Fuste is **January 30, 2026**. This demo is planned to feature the updated Fuste `v0.0.2` interacting with a local Gwrdfa network.
 
 ## Fuste
 
