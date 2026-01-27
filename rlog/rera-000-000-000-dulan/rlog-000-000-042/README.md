@@ -90,9 +90,9 @@ As such, my current priorities in order:
 Per the objective of sharing, here are some upcoming target dates in I am using to motivate myself:
 
 - **January 2026**
-  - **Jan 26:** Maybraid naturescapes demo (navigable).
-  - **Jan 30:** `fuste v0.0.2` (VM) and `gwrdfa v0.0.1` (consensus) integrated demo (videos).
+  - **Jan 28 (postponed from Jan 26 due to shader improvements):** Maybraid naturescapes demo (navigable).
 - **February 2026**
+    - **Feb 1 (postponed from Jan 30 due to Maybraid delay):** `fuste v0.0.2` (VM) and `gwrdfa v0.0.1` (consensus) integrated demo (videos).
   - **Feb 2:** Maybraid top-level spec.
   - **Feb 3:** Friends and family memo (like this but prettier).
   - **Feb 7:** Maybraid urbanization demo (navigable).
@@ -123,7 +123,7 @@ Check this [PDF](https://docs.google.com/gview?embedded=1&url=https://raw.github
 
 Since venturing deeper into these fields, I had largely deprioritized the work on the Gwrdfa API which is the Rust API for Parabyzantine protocols. However, recently, I returned to building out that API, so that others can use it with Fuste and so that I can integrate it with Maybraid.
 
-As mentioned above, the target date for first demo with Fuste is **January 30, 2026**. This demo is planned to feature the updated Fuste `v0.0.2` interacting with a local Gwrdfa network.
+As mentioned above, the target date for first demo with Fuste is **February 1, 2026**. This demo is planned to feature the updated Fuste `v0.0.2` interacting with a local Gwrdfa network.
 
 ## Fuste
 
