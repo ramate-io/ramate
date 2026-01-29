@@ -10,7 +10,10 @@
 A demo and talk through of Maybraid's naturescapes.
 
 ## Demo
-The demo is run with what's currently a draft PR [here](https://github.com/ramate-io/maybraid/pull/33).
+
+> [!TIP]
+> - Demo video is [here](https://www.loom.com/share/e88fe6350c7949e5b2fea1c8c13d0f51).
+> - The demo is run with what's currently a draft PR [here](https://github.com/ramate-io/maybraid/pull/33).
 
 In the video, I mention the following highs:
 
