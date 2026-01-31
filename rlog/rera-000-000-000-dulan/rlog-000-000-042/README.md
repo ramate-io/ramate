@@ -94,7 +94,7 @@ Per the objective of sharing, here are some upcoming target dates in I am using 
 - **February 2026**
   - [ ] **Feb 6 (postponed from Feb 1 due to travel):** Maybraid top-level spec.
   - [ ] **Feb 7 (postponed from Jan 30 due to Maybraid delay and travel):** `fuste v0.0.2` (VM) and `gwrdfa v0.0.1` (consensus) integrated demo (videos).
-    - [ ] **Feb 12 (postponed from Feb 7 due to travel):** Maybraid urbanization demo (navigable).
+  - [ ] **Feb 12 (postponed from Feb 7 due to travel):** Maybraid urbanization demo (navigable).
   - [ ] **Feb 13 (postponed from Feb 3 due to travel):** Friends and family memo (like this but prettier).
   - [ ] **Feb 14:** `gwrdfa v0.0.2` microcontroller and networking stack.
   - [ ] **Feb 18:** `gwrdfa v0.1.0` and `fuste v0.1.0` specs.
