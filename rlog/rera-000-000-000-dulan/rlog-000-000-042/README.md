@@ -99,19 +99,19 @@ Per the objective of sharing, here are some upcoming target dates in I am using 
   - [ ] **Feb 14:** `gwrdfa v0.0.2` microcontroller and networking stack.
   - [ ] **Feb 18:** `gwrdfa v0.1.0` and `fuste v0.1.0` specs.
   - [ ] **Feb 24:** end of conceptual phase, deep research pauses.
-  - **Feb 26:** "Winter Desiderata" for OAC based on early feedback and dogfooding.
+  - [ ] **Feb 26:** "Winter Desiderata" for OAC based on early feedback and dogfooding.
 - **March 2026**
-  - **Mar 10:** Gwrdfa Fuste live network (likely server-based but ambitiously including handheld devices).
-  - **Mar 19:** Maybraid PvP mini demo (playable).
-  - **Mar 22:** `gwrdfa v0.1.1` updated networking stack and improved embedded support.
-  - **Mar 27:** OAC `v0.2.0` APIs.
+  - [ ] **Mar 10:** Gwrdfa Fuste live network (likely server-based but ambitiously including handheld devices).
+  - [ ] **Mar 19:** Maybraid PvP mini demo (playable).
+  - [ ] **Mar 22:** `gwrdfa v0.1.1` updated networking stack and improved embedded support.
+  - [ ] **Mar 27:** OAC `v0.2.0` APIs.
 - **April 2026**
-  - **Apr 6:** Maybraid discovery mini demo (playable).
-  - **Apr 8:** "April Desiderata" for OAC based on feedback and conceptual stability.
-  - **Apr 23:** Maybraid discover full demo (playable).
+  - [ ] **Apr 6:** Maybraid discovery mini demo (playable).
+  - [ ] **Apr 8:** "April Desiderata" for OAC based on feedback and conceptual stability.
+  - [ ] **Apr 23:** Maybraid discover full demo (playable).
 - **May 2026**
-  - **May 20:** Maybraid decentralization alpha, integrate with `gwrdfa` and `fuste`.
-  - **May 31:** list Maybraid on Steam for "Early Access."
+  - [ ] **May 20:** Maybraid decentralization alpha, integrate with `gwrdfa` and `fuste`.
+  - [ ] **May 31:** list Maybraid on Steam for "Early Access."
 
 ## Parabyzantine Protocols
 When I started the [OAC](https://github.com/ramate-io/oac) project, I had in mind the next steps for my research would be to generalize the `RESAMPLE` protocol that you can read bout [here](https://docs.google.com/gview?embedded=1&url=https://raw.githubusercontent.com/ramate-io/bfa/main/papers/memo/main.pdf). The path to that generalization has led me increasingly to examine topological and categorical formulations of agreement problems.
