@@ -90,28 +90,28 @@ As such, my current priorities in order:
 Per the objective of sharing, here are some upcoming target dates in I am using to motivate myself:
 
 - **January 2026**
-  - **Jan 28 (postponed from Jan 26 due to shader improvements):** Maybraid naturescapes demo (navigable).
+  - [x] **Jan 28 (postponed from Jan 26 due to shader improvements):** Maybraid naturescapes demo (navigable).
 - **February 2026**
-    - **Feb 1 (postponed from Jan 30 due to Maybraid delay):** `fuste v0.0.2` (VM) and `gwrdfa v0.0.1` (consensus) integrated demo (videos).
-  - **Feb 2:** Maybraid top-level spec.
-  - **Feb 3:** Friends and family memo (like this but prettier).
-  - **Feb 7:** Maybraid urbanization demo (navigable).
-  - **Feb 14:** `gwrdfa v0.0.2` microcontroller and networking stack.
-  - **Feb 18:** `gwrdfa v0.1.0` and `fuste v0.1.0` specs.
-  - **Feb 24:** end of conceptual phase, deep research pauses.
-  - **Feb 26:** "Winter Desiderata" for OAC based on early feedback and dogfooding.
+  - [ ] **Feb 6 (postponed from Feb 1 due to travel):** Maybraid top-level spec.
+  - [ ] **Feb 7 (postponed from Jan 30 due to Maybraid delay and travel):** `fuste v0.0.2` (VM) and `gwrdfa v0.0.1` (consensus) integrated demo (videos).
+  - [ ] **Feb 12 (postponed from Feb 7 due to travel):** Maybraid urbanization demo (navigable).
+  - [ ] **Feb 13 (postponed from Feb 3 due to travel):** Friends and family memo (like this but prettier).
+  - [ ] **Feb 14:** `gwrdfa v0.0.2` microcontroller and networking stack.
+  - [ ] **Feb 18:** `gwrdfa v0.1.0` and `fuste v0.1.0` specs.
+  - [ ] **Feb 24:** end of conceptual phase, deep research pauses.
+  - [ ] **Feb 26:** "Winter Desiderata" for OAC based on early feedback and dogfooding.
 - **March 2026**
-  - **Mar 10:** Gwrdfa Fuste live network (likely server-based but ambitiously including handheld devices).
-  - **Mar 19:** Maybraid PvP mini demo (playable).
-  - **Mar 22:** `gwrdfa v0.1.1` updated networking stack and improved embedded support.
-  - **Mar 27:** OAC `v0.2.0` APIs.
+  - [ ] **Mar 10:** Gwrdfa Fuste live network (likely server-based but ambitiously including handheld devices).
+  - [ ] **Mar 19:** Maybraid PvP mini demo (playable).
+  - [ ] **Mar 22:** `gwrdfa v0.1.1` updated networking stack and improved embedded support.
+  - [ ] **Mar 27:** OAC `v0.2.0` APIs.
 - **April 2026**
-  - **Apr 6:** Maybraid discovery mini demo (playable).
-  - **Apr 8:** "April Desiderata" for OAC based on feedback and conceptual stability.
-  - **Apr 23:** Maybraid discover full demo (playable).
+  - [ ] **Apr 6:** Maybraid discovery mini demo (playable).
+  - [ ] **Apr 8:** "April Desiderata" for OAC based on feedback and conceptual stability.
+  - [ ] **Apr 23:** Maybraid discover full demo (playable).
 - **May 2026**
-  - **May 20:** Maybraid decentralization alpha, integrate with `gwrdfa` and `fuste`.
-  - **May 31:** list Maybraid on Steam for "Early Access."
+  - [ ] **May 20:** Maybraid decentralization alpha, integrate with `gwrdfa` and `fuste`.
+  - [ ] **May 31:** list Maybraid on Steam for "Early Access."
 
 ## Parabyzantine Protocols
 When I started the [OAC](https://github.com/ramate-io/oac) project, I had in mind the next steps for my research would be to generalize the `RESAMPLE` protocol that you can read bout [here](https://docs.google.com/gview?embedded=1&url=https://raw.githubusercontent.com/ramate-io/bfa/main/papers/memo/main.pdf). The path to that generalization has led me increasingly to examine topological and categorical formulations of agreement problems.
@@ -123,7 +123,7 @@ Check this [PDF](https://docs.google.com/gview?embedded=1&url=https://raw.github
 
 Since venturing deeper into these fields, I had largely deprioritized the work on the Gwrdfa API which is the Rust API for Parabyzantine protocols. However, recently, I returned to building out that API, so that others can use it with Fuste and so that I can integrate it with Maybraid.
 
-As mentioned above, the target date for first demo with Fuste is **February 1, 2026**. This demo is planned to feature the updated Fuste `v0.0.2` interacting with a local Gwrdfa network.
+As mentioned above, the target date for first demo with Fuste is **February 7, 2026**. This demo is planned to feature the updated Fuste `v0.0.2` interacting with a local Gwrdfa network.
 
 ## Fuste
 
