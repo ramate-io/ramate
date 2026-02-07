@@ -92,13 +92,13 @@ Per the objective of sharing, here are some upcoming target dates in I am using 
 - **January 2026**
   - [x] **Jan 28 (postponed from Jan 26 due to shader improvements):** Maybraid naturescapes demo (navigable).
 - **February 2026**
-  - [ ] **Feb 6 (postponed from Feb 1 due to travel):** Maybraid top-level spec.
-  - [ ] **Feb 7 (postponed from Jan 30 due to Maybraid delay and travel):** `fuste v0.0.2` (VM) and `gwrdfa v0.0.1` (consensus) integrated demo (videos).
-  - [ ] **Feb 12 (postponed from Feb 7 due to travel):** Maybraid urbanization demo (navigable).
+  - [ ] **Feb 9 (postponed from Jan 30 due to Maybraid delay and travel):** `fuste v0.0.2` (VM) and `gwrdfa v0.0.1` (consensus) integrated demo (videos).
   - [ ] **Feb 13 (postponed from Feb 3 due to travel):** Friends and family memo (like this but prettier).
-  - [ ] **Feb 14:** `gwrdfa v0.0.2` microcontroller and networking stack.
-  - [ ] **Feb 18:** `gwrdfa v0.1.0` and `fuste v0.1.0` specs.
+  - [ ] **Feb 15 (postponed from Feb 7 due to travel):** Maybraid urbanization demo (navigable).
+  - [ ] **Feb 17 (postponed from Feb 1 due to systems research):** Maybraid top-level spec.
+  - [ ] **Feb 21 (postponed from Feb 18 due to extended API revisions):** `gwrdfa v0.1.0` and `fuste v0.1.0` specs.
   - [ ] **Feb 24:** end of conceptual phase, deep research pauses.
+  - [ ] **Feb 25 (moved from Feb 14 due to priorities):** `gwrdfa v0.0.2` microcontroller and networking stack.
   - [ ] **Feb 26:** "Winter Desiderata" for OAC based on early feedback and dogfooding.
 - **March 2026**
   - [ ] **Mar 10:** Gwrdfa Fuste live network (likely server-based but ambitiously including handheld devices).
