@@ -5,6 +5,7 @@ Ramate Logs (RLOG) are periodically submitted logs describing various developmen
 ## [RLOG: RERA-0: DULAN](rera-000-000-000-dulan/README.md)
 - **[RLOG-0](/rlog/rera-000-000-000-dulan/rlog-000-000-000/README.md):** comments on whether the extent of organization may be overkill.
 - **[RLOG-42: Midway Memo](/rlog/rera-000-000-000-dulan/rlog-000-000-042/README.md):** an early preview and planning memo for close friends and colleagues.
+- **[RLOG-50: Fruits of Redesigns: Aegeri and Gwrdfa](/rlog/rera-000-000-000-dulan/rlog-000-000-050/README.md):** discusses the development of `aegeri` with `gwrdfa`, highlighting early design decisions.
 
 <!--RAMATE FOOTER: DO NOT REMOVE THIS LINE-->
 ---
