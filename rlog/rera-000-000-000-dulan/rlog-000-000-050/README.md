@@ -6,9 +6,12 @@
 
 ## What's up?
 
-I moved some `gwrdfa` design targets up. I now have a reasonable ergonomic API that is highly generic--both in Rust generics and in its ECS-like storage abstractions.
+- I moved some `gwrdfa` design targets up.
+- I now have a reasonably ergonomic API that is highly generic--both in Rust generics and in its ECS-like storage abstractions.
+- I was able to build `aegeri` on top of `gwrdfa` integrating with [`fuste`](https://github.com/ramate-io/fuste).
 
-I was able to build `aegeri` on top of `gwrdfa` integrating with [`fuste`](https://github.com/ramate-io/fuste). `aegeri` already supports programmable transactions and seems to perform fairly well. I've found it pretty fun to build on the more recent versions of `gwrdfa`.
+> [!NOTE]
+> `aegeri` supports programmable transactions and seems to perform fairly well. I've found it pretty fun to build on the more recent versions of `gwrdfa`.
 
 ## What next?
 
