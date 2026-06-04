@@ -1,4 +1,4 @@
-# RLOG-n
+# RLOG-51: Decolonial Game Mechanisms.
 - **Authors:** [Liam Monninger](mailto:liam@ramate.io)
 
 ## Summary
@@ -8,7 +8,18 @@ I discuss some different mechanisms which might suit a decolonial-themed, turn-b
 
 ### Ladoka
 
-![Ladoka](./assets/ladoka.png)
+<div align="center">
+  <a href="./assets/ladoka.png">
+    <img
+      src="./assets/ladoka.png"
+      alt="Ladoka"
+      width="520"
+      style="max-width: 100%; border-radius: 8px;"
+    />
+  </a>
+  <br/>
+  <sub><i>Ladoka</i></sub>
+</div>
 
 > [!NOTE]
 > This is an old concept of mine that I've never really capped off.
@@ -36,6 +47,19 @@ I discuss some different mechanisms which might suit a decolonial-themed, turn-b
 > What does it mean for them to be opponents?
 
 ### Leave It
+
+<div align="center">
+  <a href="./assets/leave-it.png">
+    <img
+      src="./assets/leave-it.png"
+      alt="Leave It"
+      width="520"
+      style="max-width: 100%; border-radius: 8px;"
+    />
+  </a>
+  <br/>
+  <sub><i>Leave It</i></sub>
+</div>
 
 **Gameplay:**
 
