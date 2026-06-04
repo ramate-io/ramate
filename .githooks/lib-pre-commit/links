@@ -12,6 +12,12 @@ status() {
     fi
 }
 
+# developer can disable check by setting the LYCHEE_DISABLED environment variable to true
+if [ "$LYCHEE_DISABLED" = "true" ]; then
+    echo "🔍 Lychee link checking disabled by developer."
+    exit 0
+fi
+
 echo "Running pre-commit hook: Checking for broken links with lychee..."
 
 # Check if lychee is available
