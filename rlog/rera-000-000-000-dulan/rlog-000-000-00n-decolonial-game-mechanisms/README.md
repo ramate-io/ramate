@@ -21,7 +21,7 @@ I discuss some different mechanisms which might suit a decolonial-themed, turn-b
 - Lots to figure out on movement and ensuring right level of complexity.
 - **Win** when your opponent can no longer overwhelm any of your cards.
 
-**Connection to Decolonial Themes:**
+**Decolonial Themes:**
 
 - Make the characters representative of spiritual entities. Gameplay becomes about overwhelming intrusive spirits.
 
@@ -33,7 +33,26 @@ I discuss some different mechanisms which might suit a decolonial-themed, turn-b
 - Make characters important revolutionary figures.
 
 > [!IMPORTANT]
-> What does it mean for them to be opponents.
+> What does it mean for them to be opponents?
+
+### Leave It
+
+**Gameplay:**
+
+- Catan-like board of contiguous polygons.
+- You can your opponent's pieces are spread over the board.
+- **Objective** is to remove all your pieces from the board. Perhaps by moving to the edge.
+- Draw a card each turn. Card lends an ability--maybe to move a piece, maybe to do something more special.
+- Card ability is wrapped up in some lore. Perhaps sometimes you need to remember lore to use the card; we can use a timer to enforce this.
+
+**Decolonial Themes:**
+
+- You're leaving this land.
+- Can skew more towards storytelling more towards strategy. Storytelling can be very rich with local detail.
+- As you leave, you learn.
+
+> [!IMPORTANT]
+> Does an act of undermining your opponents ruin the metaphor? How can we have rivalry while keeping the theme?
 
 <!--RAMATE FOOTER: DO NOT REMOVE THIS LINE-->
 ---
